@@ -1,0 +1,7 @@
+-1	CV_POSITION	5
+-1	LCG_MOUNTAIN	1
+-1	LCP_COUNTY	37
+-1	LC_OTHERS	1
+1	PS_ACTOR	1
+1	PS_NAME	86
+#NET predefined through XB domain and range

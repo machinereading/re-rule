@@ -1,0 +1,6 @@
+-1	AF_BUILDING	1
+1	LCP_COUNTRY	1
+1	OGG_ART	1
+1	OGG_SPORTS	1
+-1	PS_SINGER	9
+#NET predefined through XB domain and range

@@ -1,0 +1,6 @@
+1	AF_BUILDING	2
+1	AF_CULTURAL_ASSET	10
+-1	LCP_CITY	2
+-1	OGG_EDUCATION	1
+-1	OGG_POLITICS	2
+#NET predefined through XB domain and range

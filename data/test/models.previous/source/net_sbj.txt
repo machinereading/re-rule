@@ -1,0 +1,9 @@
+1	CV_FOOD	3
+1	CV_SPORTS_INST	1
+1	MTC_GAS	1
+1	MTC_LIQUID	4
+1	MT_CHEMICAL	80
+1	MT_ROCK	2
+1	PT_GRASS	2
+1	PT_OTHERS	1
+#NET predefined through XB domain and range

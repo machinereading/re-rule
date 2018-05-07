@@ -1,0 +1,5 @@
+-1	CV_OCCUPATION	2
+1	PS_ACTOR	1
+1	PS_NAME	29
+-1	QT_AGE	1
+#NET predefined through XB domain and range

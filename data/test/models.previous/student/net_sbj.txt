@@ -1,0 +1,4 @@
+1	OGG_BUSINESS	10
+1	PS_MYTH	2
+1	PS_NAME	1
+#NET predefined through XB domain and range

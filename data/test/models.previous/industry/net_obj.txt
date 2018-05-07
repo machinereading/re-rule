@@ -1,0 +1,7 @@
+-1	CV_SPORTS	2
+-1	FD_ART	3
+-1	LCP_COUNTRY	1
+-1	TMI_HW	5
+1	TMI_SERVICE	1
+-1	TR_TECHNOLOGY	1
+#NET predefined through XB domain and range

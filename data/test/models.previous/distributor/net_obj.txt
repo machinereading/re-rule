@@ -1,0 +1,4 @@
+-1	AFWA_THEATRICALS	1
+1	OGG_BUSINESS	17
+1	PS_NAME	3
+#NET predefined through XB domain and range

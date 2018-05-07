@@ -1,0 +1,25 @@
+(북종(OGG_RELIGION), creator, 혜능(PS_NAME))
+북종의 시조로서 혜능의 남종에 대한다.
+_	_	%SBJ%의	시조	_	_	_	%OBJ%의	_	_	_	_	_
+false
+
+(신라(LCP_COUNTRY), creator, 뇌실주일(PS_NAME))
+대가야 시조 뇌실주일의 8세손으로 부인은 신라의 이찬 비지배의 딸이다.
+_	_	%SBJ%의	_	_	_	시조	%OBJ%의	_	_	_	_	_
+false
+
+(무굴 제국(LCP_COUNTRY), creator, 바부르(PS_NAME))
+왜냐하면 그의 후예 바부르가 훗날 무굴 제국의 시조가 되었기 때문이다.
+_	_	%SBJ%의	시조	_	_	_	%OBJ%가	_	_	_	_	_
+true
+
+(이세신궁(OGG_BUSINESS), creator, 여사제(PS_NAME))
+통치자인 동시에 여사제의 역할을 했으며, 일본에서 가장 규모가 큰 이세신궁의 시조로 추정된다.
+_	_	%SBJ%의	시조	_	_	_	%OBJ%의	_	_	_	_	_
+false
+
+(고구려(LCP_COUNTRY), creator, 온조왕(PS_NAME))
+그리고 백제는 고구려의 시조 고주몽의 아들인 온조왕이 하남의 위례성을 도읍지로 하여 기원전 18년에 세운 나라입니다.
+_	_	%SBJ%의	시조	_	_	_	%OBJ%가	_	_	_	_	_
+false
+

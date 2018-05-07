@@ -1,0 +1,220 @@
+(제노바(LCP_CITY), relatedPerson, 루벤스(PS_NAME))
+루벤스는 부유한 제노바 사람으로 교황의 은행업무를 맡아주던 야코포 세라의 후원을 받게 되었다.
+_	_	%SBJ%	사람	_	_	_	%OBJ%는	_	_	_	_	_
+true
+
+(러시아(LCP_COUNTRY), relatedPerson, 루시(PS_NAME))
+뒷날 러시아 사람들이 자랑스럽게 말하듯, 루시의 용맹스런 저항은 결과적으로 유럽 전체가 몽골 타타르의 잔혹한 학살 및 파괴에 희생되는 것을 막았다.
+_	_	%SBJ%	사람	_	_	_	%OBJ%의	_	_	_	_	_
+true
+
+(대가야국(LCP_COUNTRY), relatedPerson, 가실왕(PS_NAME))
+신라시대의 음악가.본시 대가야국 사람으로 가실왕의 총애를 받았으며, 왕의뜻을 받들어 12현금을 만들고 이 악기의 연주곡으로 12곡을 지었다.
+_	_	%SBJ%	사람	_	_	_	%OBJ%의	_	_	_	_	_
+true
+
+(성리학(FD_PHILOSOPHY), relatedPerson, 김시구(PS_NAME))
+김시구는 젊은 시절부터 성리학에 뛰어난 자질을 나타냈던 사람으로 벼슬은 승지와 도총부부총관에 이르렀다.
+_	_	%SBJ%에	_	사람	_	_	%OBJ%는	_	_	_	_	_
+true
+
+(일본(LCP_COUNTRY), relatedPerson, 데즈카 오사무(PS_NAME))
+만화의 신, 아톰의 아버지로 불리는 데즈카 오사무는 오늘날 만화왕국 일본이 건설되는 데 주도적인 역할을 한 인물이다.
+_	_	%SBJ%가	_	_	_	_	%OBJ%는	_	_	인물	_	_
+true
+
+(감리교회(OGG_RELIGION), relatedPerson, 웨슬리(PS_NAME))
+웨슬리는 영국국교회에서 감리교회를 창설한 인물이다.
+_	_	%SBJ%를	_	_	_	_	%OBJ%는	_	_	인물	_	_
+true
+
+(제노아(LCP_CITY), relatedPerson, 크리스토퍼 콜럼버스(PS_NAME))
+크리스토퍼 콜럼버스가 아탈리아의 제노아 사람이었기 때문이다.
+_	_	%SBJ%	_	_	_	_	%OBJ%가	_	_	사람	_	_
+true
+
+(반노예주의자(TR_SOCIAL_SCIENCE), relatedPerson, 드레드 스콧(PS_NAME))
+사실인즉 드레드 스콧은 일자무식이었으나 열성적인 반노예주의자 몇 사람이 그를 도와주고 있었다.
+_	_	%SBJ%	사람	_	_	_	%OBJ%는	_	_	_	_	_
+true
+
+(신라(LCP_COUNTRY), relatedPerson, 보종공(PS_NAME))
+보종공조 본문에는, 신라 사람들이 생각하는 신선의 모습이 보다 구체적으로 보종공에게 투영되어 나타나 있다.
+_	_	%SBJ%	사람	_	_	_	%OBJ%에게	_	_	_	_	_
+true
+
+(이스라엘(LCP_COUNTRY), relatedPerson, 야훼(PS_MYTH))
+몇몇 학자들은 '출애굽기' 18장에 근거하여 야훼가 켄 족속의 신이었는데, 이드로가 모세와 이스라엘 사람들에게 야훼를 소개했다고 주장해왔다.
+_	_	%SBJ%	사람	_	_	_	%OBJ%가	_	_	_	_	_
+true
+
+(이스라엘(LCP_COUNTRY), relatedPerson, 이드로(PS_NAME))
+몇몇 학자들은 '출애굽기' 18장에 근거하여 야훼가 켄 족속의 신이었는데, 이드로가 모세와 이스라엘 사람들에게 야훼를 소개했다고 주장해왔다.
+_	_	%SBJ%	사람	_	_	_	%OBJ%가	_	_	_	_	_
+true
+
+(이스라엘(LCP_COUNTRY), relatedPerson, 모세(PS_NAME))
+몇몇 학자들은 '출애굽기' 18장에 근거하여 야훼가 켄 족속의 신이었는데, 이드로가 모세와 이스라엘 사람들에게 야훼를 소개했다고 주장해왔다.
+_	_	%SBJ%	_	_	_	_	%OBJ%와	_	_	사람	_	_
+false
+
+(이스라엘(LCP_COUNTRY), relatedPerson, 야훼(PS_MYTH))
+몇몇 학자들은 '출애굽기' 18장에 근거하여 야훼가 켄 족속의 신이었는데, 이드로가 모세와 이스라엘 사람들에게 야훼를 소개했다고 주장해왔다.
+_	_	%SBJ%	사람	_	_	_	%OBJ%를	_	_	_	_	_
+true
+
+(고종(PS_NAME), relatedPerson, 민영돈(PS_NAME))
+민영돈은 명성황후의 먼 조카뻘로 1898년 고종의 특명전권공사로 임명되어 영국,미국,벨기에 공사를 지냈으며, 을사늑약으로 국권을 빼앗겼을 때 고종의 밀지를 해외에 전했던 인물이다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%는	_	_	_	인물	_
+true
+
+(조선(LCP_COUNTRY), relatedPerson, 순희(PS_NAME))
+그러는 통에 어느 틈에인지 일균이는 순희를 꼭 붙들고 조선 사람들 틈에 꼭 끼어 있었습니다.
+_	_	%SBJ%	사람	_	_	_	%OBJ%를	_	_	_	_	_
+false
+
+(홍콩(LCP_CITY), relatedPerson, 리카싱(PS_NAME))
+홍콩 사람들은 이런 리카싱을 단순한 갑부로 여기지 않고 '초인'이라고 부른다.
+_	_	%SBJ%	사람	_	_	_	%OBJ%를	_	_	_	_	_
+true
+
+(청양(LCP_COUNTY), relatedPerson, 우성산(PS_NAME))
+우성산은 백제 때부터 쌓았던 옛 산성도 있고 팔각정도 있어 청양 사람들이 산책길로 즐겨 찾는다.
+_	_	%SBJ%	사람	_	_	_	%OBJ%는	_	_	_	_	_
+true
+
+(남양(LCP_COUNTY), relatedPerson, 홍륜(PS_NAME))
+홍륜은 남양 사람으로 시중 홍언박의 손자이다.
+_	_	%SBJ%	사람	_	_	_	%OBJ%는	_	_	_	_	_
+true
+
+(남양(LCP_COUNTY), relatedPerson, 홍언박(PS_NAME))
+홍륜은 남양 사람으로 시중 홍언박의 손자이다.
+_	_	%SBJ%	사람	_	_	_	%OBJ%의	_	_	_	_	_
+false
+
+(아키 카우리스마키(PS_NAME), relatedPerson, 미카 카우리스마키(PS_NAME))
+미카 카우리스마키는 아키 카우리스마키를 영화계로 이끈 장본인이자 핀란드 영화산업의 변화를 주도한 인물이다.
+_	_	%SBJ%를	_	_	_	_	%OBJ%는	_	_	인물	_	_
+true
+
+(오나라(LCP_COUNTRY), relatedPerson, 고도령(PS_NAME))
+각훈이 펴낸 '해동고승전'에 따르면 본래 천축인이라고도 하고, 또 오나라 사람이라고도 하며, 위나라 굴마와 고구려 여인 고도령의 아들이라고도 한다.
+_	_	%SBJ%	사람	_	_	_	%OBJ%의	_	_	_	_	_
+false
+
+(토마토(PT_FRUIT), relatedPerson, 가지(PS_NAME))
+토마토에 금사과라는 별명을 붙인 사람은 토마토를 가지와 한 가족으로 분류했던 마티올리였다.
+_	_	%SBJ%에	_	사람	_	_	%OBJ%와	_	_	_	_	_
+true
+
+(내리동(LCP_COUNTY), relatedPerson, 감기현(PS_NAME))
+한편 비슷한 시기에 활동한 감기현은 창원 내리동 사람으로 자는 영팔이며 호는 동미,눌재이다.
+_	_	%SBJ%	사람	_	_	_	%OBJ%는	_	_	_	_	_
+true
+
+(동읍(LCP_COUNTY), relatedPerson, 김상정(PS_NAME))
+김상정은 창원 동읍 사람으로, 본관은 김해이며 자는 덕삼 호는 곡천이며, 부장 김이견의 아들이다.
+_	_	%SBJ%	사람	_	_	_	%OBJ%는	_	_	_	_	_
+true
+
+(영암군(LCP_COUNTY), relatedPerson, 최지몽(PS_NAME))
+최지몽의 원래 이름은 총진이니 남해 영암군 사람으로 원보 상흔의 아들이다.
+_	_	%SBJ%	사람	_	_	_	%OBJ%의	_	_	_	_	_
+true
+
+(경성(LCP_CITY), relatedPerson, 홍랑(PS_NAME))
+홍랑은 1673년 가을, 함경도 경성에 북도평사로 온, 삼당시인의 한 사람인 최경창을 만나 군막에서 겨울을 함께 보낸다.
+_	_	%SBJ%에	_	사람	_	_	%OBJ%는	_	_	_	_	_
+true
+
+(에페소(LCP_CITY), relatedPerson, 바오로(PS_NAME))
+그는 에페소 사람으로 바오로의 예루살렘에로의 제3차 전도 여행에 동행했고, 사도 바오로가 그를 성전으로 데리고 들어간 것이 기회가 되어 폭동이 일어났다.
+_	_	%SBJ%	사람	_	_	_	%OBJ%의	_	_	_	_	_
+false
+
+(에페소(LCP_CITY), relatedPerson, 바오로(PS_NAME))
+그는 에페소 사람으로 바오로의 예루살렘에로의 제3차 전도 여행에 동행했고, 사도 바오로가 그를 성전으로 데리고 들어간 것이 기회가 되어 폭동이 일어났다.
+_	_	%SBJ%	사람	_	_	_	%OBJ%가	_	_	_	_	_
+false
+
+(금나라(LCP_COUNTRY), relatedPerson, 양주(PS_NAME))
+건염 3년 금나라 사람이 양주를 공격하자 고종이 남쪽으로 달아나도록 호위했고, 동첨서추밀원사에 올랐다.
+_	_	%SBJ%	사람	_	_	_	%OBJ%를	_	_	_	_	_
+true
+
+(금나라(LCP_COUNTRY), relatedPerson, 고종(PS_NAME))
+건염 3년 금나라 사람이 양주를 공격하자 고종이 남쪽으로 달아나도록 호위했고, 동첨서추밀원사에 올랐다.
+_	_	%SBJ%	사람	_	_	_	%OBJ%가	_	_	_	_	_
+true
+
+(인천(LCP_CITY), relatedPerson, 김영(PS_NAME))
+김영은 인천 사람으로 역산에 뛰어났다.
+_	_	%SBJ%	사람	_	_	_	%OBJ%는	_	_	_	_	_
+true
+
+(문화현(LCP_PROVINCE), relatedPerson, 유공권(PS_NAME))
+유경은 문화현 사람으로, 정당 문학 유공권의 손자이다.
+_	_	%SBJ%	사람	_	_	_	%OBJ%의	_	_	_	_	_
+false
+
+(성열현(PS_NAME), relatedPerson, 우륵(PS_NAME))
+우륵은 본래 대가야국 성열현 사람으로 악사였다.
+_	_	%SBJ%	사람	_	_	_	%OBJ%는	_	_	_	_	_
+true
+
+(아테네(LCP_CAPITALCITY), relatedPerson, 솔론(PS_NAME))
+솔론이 나라를 위해 영광스럽게 몸을 바친 아테네 사람 텔로스를 꼽자, 크로이소스는 다시 자신보다 행복한 사람을 보았냐고 물었다.
+_	_	%SBJ%	사람	_	_	_	%OBJ%가	_	_	_	_	_
+false
+
+(아테네(LCP_CAPITALCITY), relatedPerson, 크로이소스(PS_NAME))
+솔론이 나라를 위해 영광스럽게 몸을 바친 아테네 사람 텔로스를 꼽자, 크로이소스는 다시 자신보다 행복한 사람을 보았냐고 물었다.
+_	_	%SBJ%	사람	_	_	_	%OBJ%는	_	_	_	_	_
+false
+
+(논리학(FD_PHILOSOPHY), relatedPerson, 아리스토텔레스(PS_NAME))
+아리스토텔레스는 논리학을 하나의 학문으로 정연하게 체계화한 최초의 인물이다.
+_	_	%SBJ%를	_	_	_	_	%OBJ%는	_	_	인물	_	_
+true
+
+(생기론(TR_PHILOSOPHY), relatedPerson, 소바주(PS_NAME))
+우선 몽펠리에 의과대학에 기반을 둔 생기론의 대표자 중 한 사람인 소바주는 증상에 중심을 둔 질병 분류 체계를 만들었다.
+_	_	%SBJ%의	_	_	_	사람	%OBJ%는	_	_	_	_	_
+true
+
+(로마(LCP_COUNTRY), relatedPerson, 플루타르크(PS_NAME))
+플루타르크는 '그리스 문화의 최초 충격'을 넘어 '그레코-로만' 혹은 '그리스-로마' 문화를 새롭게 창조한 세계 제국 로마의 울타리에서 산 인물이다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%는	_	_	_	인물	_
+true
+
+(중국(LCP_COUNTRY), relatedPerson, 이여송(PS_NAME))
+이여송은 중국 사람으로 알려져 있지만 윗대로 거슬러 올라가면 선조는 조선 사람이다.
+_	_	%SBJ%	사람	_	_	_	%OBJ%는	_	_	_	_	_
+true
+
+(서울(LCP_CAPITALCITY), relatedPerson, 진지왕(PS_NAME))
+진지왕이 진자를 불러 '소년이 스스로 서울 사람이라고 하였다면 성인의 말에 거짓이 없을 터인즉 서울 성안을 찾아보는 것이 어떠한가?'라고 말하였다.
+_	_	%SBJ%	_	_	_	_	%OBJ%가	_	_	사람	_	_
+false
+
+(경주(LCP_CITY), relatedPerson, 최자연(PS_NAME))
+최군은 고 경주 사람 오산 부원군 최자연의 후손이다.
+_	_	%SBJ%	사람	_	_	_	%OBJ%의	_	_	_	_	_
+true
+
+(주자(CV_POSITION), relatedPerson, 소하(PS_NAME))
+초한전이 끝나고 유방이 논공행상을 할 때 소하에게 최상급을 주자 사람들은 놀랐다.
+_	_	%SBJ%	사람	_	_	_	%OBJ%에게	_	_	_	_	_
+false
+
+(놋(LCP_CITY), relatedPerson, 아이작 드 라 페이레르(PS_NAME))
+17세기 프랑스 신학자 아이작 드 라 페이레르는 카인의 아내와 놋 사람들의 기원에 의문을 제기하면서 '아담 이전의 사람들'을 논리적으로 증명했다.
+_	_	%SBJ%	사람	_	_	_	%OBJ%는	_	_	_	_	_
+false
+
+(놋(LCP_CITY), relatedPerson, 카인(PS_NAME))
+17세기 프랑스 신학자 아이작 드 라 페이레르는 카인의 아내와 놋 사람들의 기원에 의문을 제기하면서 '아담 이전의 사람들'을 논리적으로 증명했다.
+_	_	%SBJ%	사람	_	_	_	%OBJ%의	_	_	_	_	_
+false
+

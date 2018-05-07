@@ -1,0 +1,7 @@
+1	AFWA_MUSIC	16
+-1	AF_CULTURAL_ASSET	2
+1	AF_WORKS	9
+-1	QT_OTHERS	1
+#NET predefined through XB domain and range
+1	AFW_DOCUMENT	0
+1	AFW_MUSIC	0

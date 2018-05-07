@@ -1,0 +1,5 @@
+O->S->P	_	_	_	SBJ	_	_	_	_	_	_	OBJ	_	_	->PRD	_	_	_	_	_	_
+O->S->P	_	_	_	SBJ	_	_	_	_	_	_	OBJ	_	->PRD	_	_	_	_	_	_	_
+S->O->P	_	_	_	SBJ	->OBJ	_	_	_	_	_	OBJ	_	_	_	_	_	_	_	_	_
+S->O->P	_	_	_	SBJ	_	->OBJ	_	_	_	_	OBJ가	->PRD	_	_	_	_	_	_	_	_
+

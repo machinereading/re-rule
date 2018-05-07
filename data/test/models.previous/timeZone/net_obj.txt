@@ -1,0 +1,2 @@
+-1	OGG_SCIENCE	2
+#NET predefined through XB domain and range

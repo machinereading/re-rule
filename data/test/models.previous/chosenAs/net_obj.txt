@@ -1,0 +1,4 @@
+1	CV_PRIZE	15
+#NET predefined through XB domain and range
+1	CV_OCCUPATION	0
+1	CV_PRIZE	0

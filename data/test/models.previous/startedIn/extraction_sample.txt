@@ -1,0 +1,249 @@
+(메르쿠리우스(PS_NAME), startedIn, 그리스(LCP_COUNTRY))
+원래 그리스에서 시작된 이 의식에는 처음에는 3쌍의 신들, 즉 아폴론과 라토나, 헤라클레스와 디아나, 메르쿠리우스와 넵투누스를 위한 긴 의자가 마련되었다.
+_	_	%SBJ%와	_	_	_	_	%OBJ%에서	시작	_	_	_	_
+true
+
+(프랑스(LCP_COUNTRY), startedIn, 시리아(LCP_COUNTRY))
+1921년 프랑스가 시리아 지역의 위임통치를 시작하며 아부 카말 시도 프랑스 통치를 받았으며, 1946년 시리아 공화국의 일부로 독립했다.
+_	_	%SBJ%가	_	_	_	_	%OBJ%	_	_	시작	_	_
+false
+
+(김동신(PS_NAME), startedIn, 호서(LCP_PROVINCE))
+호남 출신 고광순과 호서 출신 김동신이 이끄는 의병 부대는 하동군의 화개면 등 주로 지리산을 중심으로 호남과 영남 지역을 넘나들었다.
+%OBJ%	출신	%SBJ%가	_	_	_	_	%OBJ%	출신	_	_	_	_
+true
+
+(한용운(PS_NAME), startedIn, 홍성(LCP_COUNTY))
+한용운은 충남 홍성 출신으로 이름은 봉완이고, 법호는 용운이며, 호는 만해이다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%	출신	_	_	_	_
+true
+
+(봉완(PS_NAME), startedIn, 홍성(LCP_COUNTY))
+한용운은 충남 홍성 출신으로 이름은 봉완이고, 법호는 용운이며, 호는 만해이다.
+_	_	%SBJ%이고,	_	_	_	_	%OBJ%	출신	_	_	_	_
+true
+
+(만해(PS_NAME), startedIn, 홍성(LCP_COUNTY))
+한용운은 충남 홍성 출신으로 이름은 봉완이고, 법호는 용운이며, 호는 만해이다.
+_	_	%SBJ%이다.	_	_	_	_	%OBJ%	출신	_	_	_	_
+true
+
+(존(PS_NAME), startedIn, 시카고(LCP_CITY))
+존은 시카고에서 태어나 워싱턴주 브레머튼에서 자랐다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%에서	_	_	태어나	_	_
+true
+
+(이란(LCP_COUNTRY), startedIn, 러시아(LCP_COUNTRY))
+2008년 이란 및 러시아에 현지법인을 설립했다.
+_	_	%SBJ%	_	_	_	_	%OBJ%에	_	_	설립	_	_
+false
+
+(불공(PS_NAME), startedIn, 인도(LCP_COUNTRY))
+8세기 중엽 인도 출신의 학승 불공이 번역하였다.
+_	_	%SBJ%가	_	_	_	_	%OBJ%	출신	_	_	_	_
+true
+
+(청천강(LCG_RIVER), startedIn, 설주골(LCP_COUNTY))
+평안남도 개천시 삼봉동 설주골에서 발원하여 차동마을을 지나 청천강으로 흘러드는 개울.
+_	_	%SBJ%으로	_	_	_	_	%OBJ%에서	발원	_	_	_	_
+false
+
+(쿠바(LCP_COUNTRY), startedIn, 쿠바(LCP_COUNTRY))
+그동안 민영철도로 운영되던 쿠바의 철도는 1959년 쿠바혁명과 함께 공산주의 체제가 들어서면서 국유화되어 쿠바 국철이 설립되었다.
+_	_	%SBJ%	_	_	_	_	%OBJ%의	_	_	설립	_	_
+false
+
+(크로퍼드(PS_NAME), startedIn, 조지아(LCP_PROVINCE))
+지명은 조지아 출신의 미국 상원의원으로, 재무부 장관을 역임했던 크로퍼드의 이름에서 유래했다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%	출신	_	_	_	_
+false
+
+(양하(PT_GRASS), startedIn, 동진(LCP_COUNTRY))
+동진 명문인 진군 양하 출생.
+_	_	%SBJ%	_	_	_	_	%OBJ%	_	_	출생	_	_
+false
+
+(두계천(PS_NAME), startedIn, 향적산(LCG_MOUNTAIN))
+계룡산의 용화사 계곡에서 시작되는 두계천이 시의 북동부를 흘러 갑천에 유입하고, 향적산에서 시작되는 연산천이 시의 서부를 남북 방향으로 흐른다.
+_	시작	%SBJ%가	_	_	_	_	%OBJ%에서	시작	_	_	_	_
+false
+
+(박이진(PS_NAME), startedIn, 청주(LCP_CITY))
+청주 출신으로 할아버지는 박이진이고, 아버지는 박세경이다.
+_	_	%SBJ%이고,	_	_	_	_	%OBJ%	출신	_	_	_	_
+false
+
+(박세경(PS_NAME), startedIn, 청주(LCP_CITY))
+청주 출신으로 할아버지는 박이진이고, 아버지는 박세경이다.
+_	_	%SBJ%이다.	_	_	_	_	%OBJ%	출신	_	_	_	_
+false
+
+(조선 의용대(OGG_EDUCATION), startedIn, 밀양(LCP_CITY))
+밀양 출신인 조선 의용대의 윤세주가 '밀양아리랑'의 곡조에 군가로 개사한 가사를 붙였다는 설이 있으나 확인되지는 않았다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%	출신	_	_	_	_
+false
+
+(윤세주(PS_NAME), startedIn, 밀양(LCP_CITY))
+밀양 출신인 조선 의용대의 윤세주가 '밀양아리랑'의 곡조에 군가로 개사한 가사를 붙였다는 설이 있으나 확인되지는 않았다.
+_	_	%SBJ%가	_	_	_	_	%OBJ%	출신	_	_	_	_
+true
+
+(영국(LCP_COUNTRY), startedIn, 방글라데시(LCP_COUNTRY))
+영국 내에 약 50만 명의 방글라데시 출신이 거주하고 있으며, 방글라데시는 영연방국가의 일원으로 영국에 적극 협조하고 있다.
+_	_	%SBJ%	_	_	_	_	%OBJ%	출신	_	_	_	_
+false
+
+(방글라데시(LCP_COUNTRY), startedIn, 방글라데시(LCP_COUNTRY))
+영국 내에 약 50만 명의 방글라데시 출신이 거주하고 있으며, 방글라데시는 영연방국가의 일원으로 영국에 적극 협조하고 있다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%	출신	_	_	_	_
+false
+
+(낙동강(LCG_RIVER), startedIn, 구덕산(LCG_MOUNTAIN))
+하단포는 구덕산에서 발원하여 낙동강 하류로 흘러드는 괴정천 하구 일대의 포구로 바다 쪽에 자리하고 있다.
+_	_	%SBJ%	_	_	_	_	%OBJ%에서	발원	_	_	_	_
+false
+
+(괴정천(LCG_RIVER), startedIn, 구덕산(LCG_MOUNTAIN))
+하단포는 구덕산에서 발원하여 낙동강 하류로 흘러드는 괴정천 하구 일대의 포구로 바다 쪽에 자리하고 있다.
+_	_	%SBJ%	_	_	_	_	%OBJ%에서	발원	_	_	_	_
+false
+
+(미샤 마이스키(PS_NAME), startedIn, 라트비아 공화국(LCP_COUNTRY))
+미샤 마이스키는 발트 3국의 하나인 라트비아 공화국의 수도 리가에서 1948년 1월 10일 태어났다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%의	_	_	태어나	_	_
+true
+
+(게일(PS_NAME), startedIn, 캐나다(LCP_COUNTRY))
+게일은 기일이라는 한국 이름을 가지기도 했던 캐나다 출신의 선교사였다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%	출신	_	_	_	_
+true
+
+(신진순(PS_NAME), startedIn, 이천군(LCP_COUNTY))
+여류시인이면서 작가인 신진순은 1917년에 경기도 이천군에서 태어났다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%에서	_	_	태어나	_	_
+true
+
+(박후령(PS_NAME), startedIn, 진도(LCG_ISLAND))
+밀양박씨 청재공파 박후령의 12세손으로 1860년 7월 20일 아버지 박송학과 어머니 진주하씨 사이에서 3남 1녀 중 장남으로 진도 읍내에서 태어났다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%	_	_	태어나	_	_
+false
+
+(재령강(LCG_RIVER), startedIn, 장수산(LCG_MOUNTAIN))
+산지가 많은 신원군에는 동쪽으로 철봉산, 서쪽으로 평풍산, 남쪽으로 수양산, 북쪽으로 장수산 등이 솟아 있고, 재령강이 이 군에서 시작된다.
+_	_	%SBJ%가	_	_	_	_	%OBJ%	_	_	시작	_	_
+false
+
+(승가바라(PS_NAME), startedIn, 부남국(LCP_COUNTRY))
+6세기 초 부남국 출신의 학승 승가바라가 번역하였다.
+_	_	%SBJ%가	_	_	_	_	%OBJ%	출신	_	_	_	_
+true
+
+(6,25전쟁(EV_WAR_REVOLUTION), startedIn, 남한(LCP_COUNTRY))
+6,25전쟁 당시 납북된 남한 출신 인사들을 중심으로 1956년 7월 2일 평양에서 결성되었다.
+_	_	%SBJ%	_	_	_	_	%OBJ%	출신	_	_	_	_
+false
+
+(프랑스(LCP_COUNTRY), startedIn, 아일랜드(LCP_COUNTRY))
+아일랜드 태생 프랑스의 작가,비평가,극작가.
+_	_	%SBJ%의	_	_	_	_	%OBJ%	태생	_	_	_	_
+false
+
+(양회일(PS_NAME), startedIn, 화순 지역(LCP_COUNTY))
+전라남도 화순 지역 출신의 양회일이 이끈 의병 부대의 창설지이자 주둔지.
+%OBJ%	출신	%SBJ%가	_	_	_	_	%OBJ%	출신	_	_	_	_
+true
+
+(새뮤얼 존슨(PS_NAME), startedIn, 스코틀랜드(LCP_COUNTRY))
+스코틀랜드 출신으로 새뮤얼 존슨의 친구이다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%	출신	_	_	_	_
+true
+
+(천소영지은(PS_NAME), startedIn, 부산(LCP_CITY))
+지은이 천소영지은이 천소영은 1946년 부산에서 태어나 고려대학교 국어국문학과를 졸업했다.
+_	_	%SBJ%가	_	_	_	_	%OBJ%에서	_	_	태어나	_	_
+true
+
+(천소영(PS_NAME), startedIn, 부산(LCP_CITY))
+지은이 천소영지은이 천소영은 1946년 부산에서 태어나 고려대학교 국어국문학과를 졸업했다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%에서	_	_	태어나	_	_
+true
+
+(김동현(PS_NAME), startedIn, 정읍(LCP_CITY))
+사진 김동현사진 작가 김동현은 1945년 전북 정읍에서 태어나 동국대학교를 졸업했다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%에서	_	_	태어나	_	_
+true
+
+(동국대학교(OGG_EDUCATION), startedIn, 정읍(LCP_CITY))
+사진 김동현사진 작가 김동현은 1945년 전북 정읍에서 태어나 동국대학교를 졸업했다.
+_	_	%SBJ%를	_	_	_	_	%OBJ%에서	태어나	_	_	_	_
+false
+
+(에메레테아 공(PS_NAME), startedIn, 페테르부르크(LCP_CITY))
+그는 1833년 11월 12일에 에메레테아 공의 서자로 페테르부르크에서 태어났다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%에서	_	_	태어나	_	_
+false
+
+(그란 비아(PS_NAME), startedIn, 마드리드(LCP_CAPITALCITY))
+고층 빌딩으로 둘러싸인 에스파냐 광장은 마드리드 최고의 번화가인 그란 비아가 시작하는 곳에 위치해 있다.
+_	_	%SBJ%가	_	_	_	_	%OBJ%	_	_	시작	_	_
+true
+
+(이교영(PS_NAME), startedIn, 문암리(LCP_COUNTY))
+이교영은 본관이 성주로, 1890년 외가인 충청북도 음성군 원남면 문암리에서 태어나 1976년 세상을 떠났다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%에서	태어나	_	_	_	_
+true
+
+(이교영(PS_NAME), startedIn, 명암리(LCP_COUNTY))
+진천군 내의 유림들이 이교영의 효행을 기려 1956년 10월 진천군 백곡면 명암리에 효자비를 세웠다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%에	_	_	세우	_	_
+false
+
+(오스트리아(LCP_COUNTRY), startedIn, 빈(LCP_CAPITALCITY))
+오스트리아의 화가 빈에서 출생.
+_	_	%SBJ%의	_	_	_	_	%OBJ%에서	_	_	출생	_	_
+false
+
+(목포고등학교(OGG_EDUCATION), startedIn, 무안군(LCP_COUNTY))
+1935년 12월 20일 전라남도 무안군 출생으로 목포고등학교를 거쳐 서라벌 예술대학 연극영화과를 졸업하였다.
+_	_	%SBJ%를	_	_	_	_	%OBJ%	출생	_	_	_	_
+false
+
+(연극영화과(OGG_EDUCATION), startedIn, 무안군(LCP_COUNTY))
+1935년 12월 20일 전라남도 무안군 출생으로 목포고등학교를 거쳐 서라벌 예술대학 연극영화과를 졸업하였다.
+_	_	%SBJ%를	_	_	_	_	%OBJ%	출생	_	_	_	_
+false
+
+(하원(OGG_POLITICS), startedIn, 퀘벡 주(LCP_PROVINCE))
+1981년 12월 2일 캐나다 하원은 트뤼도의 헌법개혁안을 246 대 24로 가결시켰는데, 단지 퀘벡 주 출신 의원들만 이 개혁안에 반대했다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%	출신	_	_	_	_
+false
+
+(김일성(PS_NAME), startedIn, 평양(LCP_CAPITALCITY))
+북조선기자동맹은 김일성의 발기와 지도 밑에 1946년 10월 11일 평양에서 결성되었고, 김정일의 영도 하에 주체의 혁명위업달성을 사명으로 하고 있다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%에서	_	_	결성	_	_
+true
+
+(제리 로빈슨(PS_NAME), startedIn, 조지아주(LCP_PROVINCE))
+조지아주에서 목화농장 소작인인 제리 로빈슨의 다섯째 아들로 태어났으며 어릴 때부터 야구,농구,미식축구,육상 등 여러 종목에 능하였다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%에서	_	_	태어나	_	_
+false
+
+(노스타인강(LCG_RIVER), startedIn, 페나인산맥(LCG_MOUNTAIN))
+페나인산맥에서 발원하는 노스타인강 ,사우스타인강이 강어귀에서 약 50km 지점인
+_	_	%SBJ%	_	_	_	_	%OBJ%에서	발원	_	_	_	_
+true
+
+(사우스타인강(LCG_RIVER), startedIn, 페나인산맥(LCG_MOUNTAIN))
+페나인산맥에서 발원하는 노스타인강 ,사우스타인강이 강어귀에서 약 50km 지점인
+_	_	,%SBJ%이	_	_	_	_	%OBJ%에서	발원	_	_	_	_
+true
+
+(숙종(PS_NAME), startedIn, 무수리(LCP_COUNTY))
+조선의 제19대 국왕 숙종의 아들이며, 어머니는 무수리 출신의 화경 숙빈 최씨이다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%	출신	_	_	_	_
+false
+
+(갈곡천(LCG_RIVER), startedIn, 방장산(LCG_MOUNTAIN))
+신림저수지는 방장산에서 발원하는 갈곡천 상류를 막아 만든 평지형 저수지이다.
+_	_	%SBJ%	_	_	_	_	%OBJ%에서	발원	_	_	_	_
+true

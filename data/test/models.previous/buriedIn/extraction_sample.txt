@@ -1,0 +1,170 @@
+(한용운(PS_NAME), buriedIn, 망우리공동묘지(LC_OTHERS))
+1933년부터 조성된 망우리공동묘지에는 한용운,방정환 등의 묘가 있다.
+_	_	%SBJ%,방정환	_	묘	_	_	%OBJ%에는	_	_	_	_	_
+true
+
+(방정환(PS_NAME), buriedIn, 망우리공동묘지(LC_OTHERS))
+1933년부터 조성된 망우리공동묘지에는 한용운,방정환 등의 묘가 있다.
+_	_	한용운,%SBJ%	_	묘	_	_	%OBJ%에는	_	_	_	_	_
+true
+
+(현덕왕후(PS_NAME), buriedIn, 소릉(AF_CULTURAL_ASSET))
+1512년 단종의 생모 현덕왕후의 능인 소릉을 추복하는 일에 찬성했다.
+_	_	%SBJ%의	능	_	%SBJ%	능	%OBJ%를	_	_	_	_	_
+true
+
+(정인옹주(PS_NAME), buriedIn, 신월리(LCP_COUNTY))
+충청북도 진천군 만승면 신월리에 있는 조선 14대 선조의 사위 홍우경과 그 부인 정인옹주의 묘소.
+_	_	%SBJ%의	_	_	_	_	%OBJ%에	_	_	묘소	_	_
+true
+
+(김무택(PS_NAME), buriedIn, 옥길리(LCP_COUNTY))
+경기도 평택시 청북면 옥길리에 있는 조선 후기의 문신 김무택의 묘.
+_	_	%SBJ%의	_	_	_	_	%OBJ%에	_	_	묘	_	_
+true
+
+(인조(PS_NAME), buriedIn, 장릉(AF_CULTURAL_ASSET))
+장릉은 사적 제202호로서 조선 16대 인조의 생부인 원종과 그의 비 인헌왕후 구씨의 능이다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%는	_	_	능	_	_
+false
+
+(문무왕(PS_NAME), buriedIn, 대왕암(AF_CULTURAL_ASSET))
+황룡사 9층 석탑건립과 우리가 잘 알고 있는 문무왕을 장사한 대왕암은 대표적인 예이다.
+_	_	%SBJ%를	_	_	_	장사	%OBJ%는	_	_	_	_	_
+true
+
+(숙종(PS_NAME), buriedIn, 익릉(AF_CULTURAL_ASSET))
+익릉은 숙종의 원비인 인경왕후의 능이다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%는	_	_	능	_	_
+false
+
+(인경왕후(PS_NAME), buriedIn, 익릉(AF_CULTURAL_ASSET))
+익릉은 숙종의 원비인 인경왕후의 능이다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%는	_	_	능	_	_
+true
+
+(영조(PS_NAME), buriedIn, 동구릉(LC_OTHERS))
+정조는 영조의 유지를 외면한 채 동구릉에 장사지냈다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%에	_	_	장사지내	_	_
+true
+
+(한덕급(PS_NAME), buriedIn, 삼화리(LCP_COUNTY))
+경기도 화성시 비봉면 삼화리에 있는 조선 중기의 문신 한덕급의 묘.
+_	_	%SBJ%의	_	_	_	_	%OBJ%에	_	_	묘	_	_
+true
+
+(영조(PS_NAME), buriedIn, 원릉(AF_CULTURAL_ASSET))
+영조와 계비 정순 왕후의 무덤인 원릉은 경기도 구리시 인창동에 위치하고 있다.
+_	_	%SBJ%와	_	무덤	_	무덤	%OBJ%는	_	_	_	_	_
+true
+
+(이정구(PS_NAME), buriedIn, 태봉리(LCP_COUNTY))
+경기도 가평군 상면 태봉리에 있는 이정구의 묘.
+_	_	%SBJ%의	_	_	_	_	%OBJ%에	_	_	묘	_	_
+true
+
+(이정구(PS_NAME), buriedIn, 태봉리(LCP_COUNTY))
+경기도 가평군 상면 태봉리에 있는 이정구의 묘.
+_	_	%SBJ%의	_	_	_	_	%OBJ%에	_	_	묘	_	_
+true
+
+(정희왕후(PS_NAME), buriedIn, 광릉(AF_CULTURAL_ASSET))
+이곳에는 세조와 세조비인 정희왕후의 묘인 광릉이 있다.
+_	_	%SBJ%의	묘	_	%SBJ%	묘	%OBJ%가	_	_	_	_	_
+true
+
+(인헌왕후(PS_NAME), buriedIn, 장릉(AF_CULTURAL_ASSET))
+장릉은 조선조 선조의 다섯째 아들 원종과 그의 부인 인헌왕후의 능침으로 인조가 반정으로 등극하여 이곳으로 이장한 묘소이다.
+_	_	%SBJ%의	능침	_	_	_	%OBJ%는	_	_	이장	묘소	_
+true
+
+(인조(PS_NAME), buriedIn, 장릉(AF_CULTURAL_ASSET))
+장릉은 조선조 선조의 다섯째 아들 원종과 그의 부인 인헌왕후의 능침으로 인조가 반정으로 등극하여 이곳으로 이장한 묘소이다.
+_	_	%SBJ%가	_	_	_	_	%OBJ%는	_	_	이장	묘소	_
+false
+
+(조정만(PS_NAME), buriedIn, 도림동(LCP_COUNTY))
+인천광역시 남동구 도림동에 있는 조선시대 문신 조정만의 묘.
+_	_	%SBJ%의	_	_	_	_	%OBJ%에	_	_	묘	_	_
+true
+
+(이수약(PS_NAME), buriedIn, 소하동(LCP_COUNTY))
+경기도 광명시 소하동에 있는 조선후기의 문신 이수약의 묘.
+_	_	%SBJ%의	_	_	_	_	%OBJ%에	_	_	묘	_	_
+true
+
+(박철정(PS_NAME), buriedIn, 역곡2동(LCP_COUNTY))
+경기도 부천시 원미구 역곡2동에 있는 조선 전기의 문신 박철정의 묘.
+_	_	%SBJ%의	_	_	_	_	%OBJ%에	_	_	묘	_	_
+true
+
+(숙종(PS_NAME), buriedIn, 명릉(AF_CULTURAL_ASSET))
+또 영조 45년에 영조는 부왕 숙종의 능인 명릉의 역사를 마치고 이 고개에서 명릉 쪽을 바라보며 고개 이름을 추모현이라 했다.
+_	_	%SBJ%의	능	_	%SBJ%	능	%OBJ%의	_	_	_	_	_
+true
+
+(세종대왕(PS_NAME), buriedIn, 여주(LCP_COUNTY))
+본래 세종대왕의 능을 이곳에 쓰려다 여주로 옮겨가게 되어 닦아놓은 능터가 남아 있고, '서유견문'을 쓴 유길준의 묘도 있다.
+_	_	%SBJ%의	능	_	_	_	%OBJ%로	_	_	_	_	_
+true
+
+(인조(PS_NAME), buriedIn, 장릉(AF_CULTURAL_ASSET))
+장릉은 인조와 비 인열왕후 한씨의 능으로 경기도 파주시 탄현면 갈현리에 있다.
+_	_	%SBJ%와	_	능	_	_	%OBJ%는	_	_	_	_	_
+true
+
+(김익희(PS_NAME), buriedIn, 가정동(LCP_COUNTY))
+대전광역시 유성구 가정동에 있는 김익희의 묘.
+_	_	%SBJ%의	_	_	_	_	%OBJ%에	_	_	묘	_	_
+true
+
+(김익희(PS_NAME), buriedIn, 가정동(LCP_COUNTY))
+대전시 유성구 가정동에 있는 김익희의 묘.
+_	_	%SBJ%의	_	_	_	_	%OBJ%에	_	_	묘	_	_
+true
+
+(중종(PS_NAME), buriedIn, 정릉(AF_CULTURAL_ASSET))
+보우는 1562년에 중종의 능인 정릉을 선릉 동쪽으로 옮기고 절을 현위치로 이전하여 중창하였다.
+_	_	%SBJ%의	능	_	%SBJ%	능	%OBJ%를	_	_	_	_	_
+true
+
+(디오니시우스(PS_NAME), buriedIn, 갈리아(LC_OTHERS))
+갈리아에 그리스도교를 전파한 것으로 추정되는 성 디오니시우스의 묘가 있는 생드니 대수도원은 크게 숭앙받는 곳이었다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%에	_	_	묘	_	_
+false
+
+(손유호(PS_NAME), buriedIn, 봉황리(LCP_COUNTY))
+경상남도 밀양시 초동면 봉황리에 있는 고려 말 조선 초의 장군 손유호의 묘.
+_	_	%SBJ%의	_	_	_	_	%OBJ%에	_	_	묘	_	_
+true
+
+(김징(PS_NAME), buriedIn, 왕곡동(LCP_COUNTY))
+경기도 의왕시 왕곡동에 있는 조선 중기의 문신 김징의 묘.
+_	_	%SBJ%의	_	_	_	_	%OBJ%에	_	_	묘	_	_
+true
+
+(김수온(PS_NAME), buriedIn, 한곡리(LCP_COUNTY))
+충청북도 영동군 용산면 한곡리에 있는 조선 전기의 문신 김수온의 묘소.
+_	_	%SBJ%의	_	_	_	_	%OBJ%에	_	_	묘소	_	_
+true
+
+(신성왕후(PS_NAME), buriedIn, 정릉(AF_CULTURAL_ASSET))
+또한 신성왕후의 원당은 현화사이며, 3월 25일이 기일로 정릉에 장사지냈으며, 안종을 낳았다고 한다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%에	_	_	장사지내	_	_
+true
+
+(이성계(PS_NAME), buriedIn, 정릉(AF_CULTURAL_ASSET))
+정릉은 조선을 건국한 이성계의 둘째 왕비인 신덕왕후 강씨의 능이다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%는	_	_	능	_	_
+false
+
+(비오 11세(PS_NAME), buriedIn, 대성전(AF_BUILDING))
+2월 14일 교황 비오 11세는 베드로 대성전에 안장되었다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%에	_	_	안장	_	_
+true
+
+(세종대왕(PS_NAME), buriedIn, 여주(LCP_COUNTY))
+영릉은 세종대왕과 소헌왕후 심씨가 합장된 능으로 서초구 내곡동에 있었는데 1469년에 경기도 여주로 이장하였다.
+_	_	%SBJ%와	_	_	_	_	%OBJ%로	_	_	이장	_	_
+true
+

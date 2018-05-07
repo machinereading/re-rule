@@ -1,0 +1,2 @@
+-1	LC_OTHERS	7
+#NET predefined through XB domain and range

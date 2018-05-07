@@ -1,0 +1,10 @@
+(궁(AFWA_MOVIE), broadcasting, MBC(OGG_MEDIA))
+아직 연재가 채 마무리되지 않았음에도 2006년에는 MBC에서 동명의 드라마가 인기리에 방영되면서 '궁'에 대한 호응은 끝없이 이어져갔다.
+_	_	'%SBJ%'에	_	_	_	_	%OBJ%에서	방영	_	_	_	_
+true
+
+(철완 아톰(AFWA_MOVIE), broadcasting, 후지 TV(OGG_MEDIA))
+그리고 1963년 일본 최초의 TV 애니메이션 '철완 아톰'이 후지 TV에서 방영되었다.
+_	_	%SBJ%'이	_	_	_	_	%OBJ%에서	_	_	방영	_	_
+true
+

@@ -1,0 +1,9 @@
+(대한민국(LCP_COUNTRY), symbol, 애국가(AFWA_MUSIC))
+대한민국 국가인 애국가를 작곡한 인물이다.
+_	_	%SBJ%	국가	_	%SBJ%	국가	%OBJ%를	_	_	_	_	_
+true
+
+(런던(LCP_CAPITALCITY), symbol, 타워(AF_BUILDING))
+타워 브리지 런던의 상징이자, 영국 산업혁명의 표상
+_	_	%SBJ%의	상징	_	_	_	%OBJ%	_	_	_	_	_
+true

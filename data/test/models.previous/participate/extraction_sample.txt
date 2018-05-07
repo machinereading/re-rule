@@ -1,0 +1,110 @@
+(독립협회(OGG_POLITICS), participate, 만민공동회(EV_OTHERS))
+1896년 독립협회의 만민공동회에 참여했으며, 1914년 일본 니혼대학에서 정치학을 전공하였다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%에	_	_	참여	_	_
+true
+
+(빅타레코드사(OGG_BUSINESS), participate, 만국박람회(EV_OTHERS))
+1896년 미국 시카고에서 열린 만국박람회에 참가하여 미국 빅타레코드사에서 녹음했고, 1906년 빅타레코드사의 초청으로 다시 미국에 건너가 경기잡가를 취입했다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%에	참가	_	_	_	_
+false
+
+(오타비오 미소니(PS_NAME), participate, 런던 올림픽(EV_SPORTS))
+미소니의 설립자인 오타비오 미소니는 1948년 런던 올림픽에 이탈리아 대표로 참가하기도 했던 육상선수였다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%에	_	_	참가	_	_
+true
+
+(이탈리아 선수단(OGG_SPORTS), participate, 올림픽(EV_SPORTS))
+또한 그는 올림픽에 참가한 이탈리아 선수단의 유니폼을 직접 디자인한 디자이너이기도 했다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%에	참가	_	_	_	_
+false
+
+(김훈(PS_NAME), participate, 청산리전투(EV_WAR_REVOLUTION))
+김훈은 북로군정서 사령부에 소속되어 제2연대 종군장교로서 이민화, 백종열,한건원 등과 함께 청산리전투에 참여했다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%에	_	_	참여	_	_
+true
+
+(김훈(PS_NAME), participate, 백운평전투(EV_WAR_REVOLUTION))
+10월 2일 김훈은 그의 중대원들과 함께 백운평전투에 참가하여, 일본군 소좌 야스카와가 이끄는 부대와 교전하여 승리했다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%에	_	_	참가	_	_
+true
+
+(공산당(OGG_POLITICS), participate, 에스파냐내란(EV_WAR_REVOLUTION))
+마르크스주의자로 에스파냐내란에 참가하기도 했으나, 그후 공산당과 결별하였고, 1957년 이후는 인도에 이주하여 그곳에서 죽었다.
+_	_	%SBJ%와	_	_	_	_	%OBJ%에	참가	_	_	_	_
+false
+
+(히데요시(PS_NAME), participate, 정유재란(EV_WAR_REVOLUTION))
+도요토미 히데요시를 주군으로 섬기며 임진왜란, 정유재란에 참전했으며 히데요시 사망 후에는 도쿠가와 이에야스를 섬겼다.
+_	_	%SBJ%	_	_	_	_	%OBJ%에	참전	_	_	_	_
+false
+
+(동학(OGG_RELIGION), participate, 동학혁명(EV_WAR_REVOLUTION))
+15살 때 한학을 배우고 17살인 1893년 동학에 들어가 접주가 되어 동학혁명에 참가했다.
+_	_	%SBJ%에	_	_	_	_	%OBJ%에	_	_	참가	_	_
+true
+
+(신민회(OGG_POLITICS), participate, 105인사건(EV_OTHERS))
+10년 신민회에 참가했고, 11년 105인사건'으로 종신형을 선고받았으나 감형되어 14년 출옥했다.
+_	_	%SBJ%에	참가	_	_	_	%OBJ%'으로	_	_	_	_	_
+false
+
+(조미니(PS_NAME), participate, 아일라우 전투(EV_WAR_REVOLUTION))
+조미니는 네 원수 휘하에 들어가 울름 전투와 예나 전투 및 아일라우 전투에 참가했으며, 1808년에는 네 원수와 함께 스페인 원정을 떠났다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%에	_	_	참가	_	_
+true
+
+(프랑스군(OGG_MILITARY), participate, 대 스위스 전쟁(EV_WAR_REVOLUTION))
+1499년 막시밀리안 1세의 대 스위스 전쟁에 참가했고, 같은 해 황제군 소속으로 프랑스군과 대치중인 밀라노를 지원하기 위해 파견되었다.
+_	_	%SBJ%와	_	_	_	_	%OBJ%에	참가	_	_	_	_
+false
+
+(중공군(OGG_MILITARY), participate, 한국전쟁(EV_WAR_REVOLUTION))
+한편, 2011년 7월 중국의 기밀자료를 인용해 중공군의 참전과정 등 한국전쟁을 재조명한 홍콩 정치학자 데이비드 추이 박사의 논문이 공개돼 논란이 됐다.
+_	_	%SBJ%의	참전	_	_	_	%OBJ%를	_	_	_	_	_
+false
+
+(마사노부(OGG_POLITICS), participate, 상해사변(EV_OTHERS))
+육군대학교를 졸업한 마사노부는 다음 해 2월 가나자와 연대의 중대장으로 제1차 상해사변에 참전했다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%에	_	_	참전	_	_
+true
+
+(이순신(PS_NAME), participate, 임진왜란(EV_WAR_REVOLUTION))
+1592년 임진왜란이 일어나자 전라좌도수군절도사 이순신의 휘하에서 옥포,합포,적진포 등의 해전에 전부장으로 참전하였다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%가	_	_	참전	_	_
+true
+
+(이순신(PS_NAME), participate, 사천 해전(EV_WAR_REVOLUTION))
+사천 해전에서는 원균의 후부장으로 이순신,김득광 등과 함께 참전하였다.
+_	_	%SBJ%,김득광	_	_	_	_	%OBJ%에서는	_	_	참전	_	_
+true
+
+(육군본부(OGG_MILITARY), participate, 울진전투(EV_WAR_REVOLUTION))
+6,25전쟁 때 육군본부 정보국 통역으로 제1군단에 배속되어 울진전투에 참가하고, 부산 등지에서 포로를 심사했다.
+_	_	%SBJ%	_	_	_	_	%OBJ%에	_	_	참가	_	_
+false
+
+(레소스(PS_NAME), participate, 트로이전쟁(EV_WAR_REVOLUTION))
+트라키아 왕 레소스는 에우테르페의 자매인 칼리오페의 아들이라고도 하는데, 그는 트로이전쟁에 참가하여 오디세우스와 디오메데스의 습격을 받고 목숨을 잃었다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%에	_	_	참가	_	_
+true
+
+(오디세우스(PS_NAME), participate, 트로이전쟁(EV_WAR_REVOLUTION))
+트라키아 왕 레소스는 에우테르페의 자매인 칼리오페의 아들이라고도 하는데, 그는 트로이전쟁에 참가하여 오디세우스와 디오메데스의 습격을 받고 목숨을 잃었다.
+_	_	%SBJ%와	_	_	_	_	%OBJ%에	참가	_	_	_	_
+true
+
+(세르반테스(PS_NAME), participate, 레판토 해전(EV_WAR_REVOLUTION))
+1571년에는 세르반테스 자신이 "일생에서 가장 영광스러웠던 활동"이라고 썼던 레판토 해전에 참전했다.
+_	_	%SBJ%	_	_	_	_	%OBJ%에	_	_	참전	_	_
+true
+
+(로저 프라이(PS_NAME), participate, 청기사 전시회(EV_OTHERS))
+1912년 그녀는 런던에서 로저 프라이의 후기 인상주의 전시회와 뮌헨에서 제2차 청기사 전시회에 참여했다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%에	_	_	참여	_	_
+false
+
+(보수당(OGG_POLITICS), participate, 가톨릭 청년대회(EV_OTHERS))
+1934년 로마에서 열린 가톨릭 청년대회에 칠레 대표로 참가했고 1935년에는 칠레 보수당의 청년부 조직에 기여했다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%에	참가	_	_	_	_
+false
+

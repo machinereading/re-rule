@@ -1,0 +1,7 @@
+1	LCP_COUNTRY	1
+1	PS_NAME	1
+#NET predefined through XB domain and range
+1	OGG_ART	0
+1	OGG_SCIENCE	0
+1	OGG_SPORTS	0
+1	PS_NAME	0

@@ -1,0 +1,4 @@
+-1	CV_LANGUAGE	65
+-1	CV_POSITION	1
+-1	LCP_COUNTRY	1
+#NET predefined through XB domain and range

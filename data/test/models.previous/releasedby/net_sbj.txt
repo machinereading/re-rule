@@ -1,0 +1,5 @@
+1	TR_SCIENCE	3
+1	TR_TECHNOLOGY	1
+#NET predefined through XB domain and range
+1	AFW_DOCUMENT	0
+1	CV_POLICY	0

@@ -1,0 +1,9 @@
+(금강(LCG_RIVER), mouthedIn, 군산시(LCP_CITY))
+전라북도 군산시의 금강 하구에 있는 인공 섬.
+_	_	%SBJ%	_	_	_	_	%OBJ%의	_	_	하구	_	_
+false
+
+(압록강(LCG_RIVER), mouthedIn, 황금평리(LCP_COUNTY))
+평안북도 신도군 황금평리의 동남쪽 압록강 하구에 있는 섬.
+_	_	%SBJ%	_	_	_	_	%OBJ%의	_	_	하구	_	_
+false

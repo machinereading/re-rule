@@ -1,0 +1,7 @@
+1	AF_CULTURAL_ASSET	13
+1	CV_LAW	6
+1	CV_PRIZE	1
+1	CV_SPORTS	1
+-1	LC_SPACE	1
+-1	PS_NAME	1
+#NET predefined through XB domain and range

@@ -1,0 +1,4 @@
+1	AFWA_MUSIC	2
+-1	CV_POSITION	1
+#NET predefined through XB domain and range
+1	AFW_MUSIC	0

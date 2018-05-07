@@ -1,0 +1,2 @@
+1	EV_WAR_REVOLUTION	4
+#NET predefined through XB domain and range

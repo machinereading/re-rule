@@ -1,0 +1,4 @@
+-1	AFWA_MUSIC	11
+1	AF_CULTURAL_ASSET	2
+1	PS_NAME	2
+#NET predefined through XB domain and range

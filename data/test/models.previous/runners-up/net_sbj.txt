@@ -1,0 +1,4 @@
+-1	DT_YEAR	12
+1	EV_SPORTS	2
+-1	QT_ORDER	1
+#NET predefined through XB domain and range

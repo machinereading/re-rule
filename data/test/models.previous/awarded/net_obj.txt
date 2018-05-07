@@ -1,0 +1,6 @@
+-1	CV_POSITION	1
+1	CV_PRIZE	198
+-1	EV_OTHERS	17
+-1	EV_SPORTS	11
+-1	OGG_SPORTS	4
+#NET predefined through XB domain and range

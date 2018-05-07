@@ -1,0 +1,6 @@
+-1	AFWA_PROGRAM	1
+-1	CV_POSITION	6
+-1	LCP_COUNTY	2
+1	PS_MYTH	32
+1	PS_NAME	277
+#NET predefined through XB domain and range

@@ -1,0 +1,75 @@
+(삼성로(AF_ROAD), waypointOf, 경부선(AF_ROAD))
+주요 간선도로는 중앙부를 관통하는 삼성로와 경부선 철도가 있다.
+_	_	%SBJ%와	_	_	_	_	%OBJ%	_	_	철도	_	_
+false
+
+(극락강역(LC_OTHERS), waypointOf, 광주선(AF_ROAD))
+극락강역은 광주광역시 광산구 신가동에 있는 광주선의 철도역이다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%의	_	_	철도	_	_
+true
+
+(부황리(LCP_COUNTY), waypointOf, 호남선(AF_ROAD))
+호남선 철도가 북부 경계지대에서 동서 방향으로 지나, 서쪽으로는 부적면 부황리와 연결되고 동쪽으로는 연산면 임리에 연결된다.
+_	_	%SBJ%와	_	_	_	_	%OBJ%	철도	_	_	_	_
+false
+
+(원산(LCP_CITY), waypointOf, 강원선(AF_ROAD))
+북서부로 강원선 철도와 원산~고산 간 도로가 지난다.
+_	_	%SBJ%~고산	_	_	_	_	%OBJ%	철도	_	도로	_	_
+false
+
+(고산(LCP_COUNTY), waypointOf, 강원선(AF_ROAD))
+북서부로 강원선 철도와 원산~고산 간 도로가 지난다.
+_	_	원산~%SBJ%	_	_	_	_	%OBJ%	철도	_	도로	_	_
+false
+
+(서평양역(LC_OTHERS), waypointOf, 평의선(AF_ROAD))
+교통은 평의선 철도가 통과하고 있으며 서평양역이 설치되어 있다.
+_	_	%SBJ%가	_	_	_	_	%OBJ%	철도	_	_	_	_
+true
+
+(서정리역(LC_OTHERS), waypointOf, 경부선(AF_ROAD))
+사이에 경부선과 1번국도가 함께 지나가고, 북쪽 서정동에 경부선의 서정리역이 있다.
+_	_	%SBJ%가	_	_	_	_	%OBJ%와	국도	_	_	_	_
+true
+
+(남해고속도로(AF_ROAD), waypointOf, 경전선(AF_ROAD))
+남부에 경전선 철도와 남해고속도로가 지난다.
+_	철도	%SBJ%가	_	_	_	_	%OBJ%	철도	_	_	_	_
+false
+
+(본리리(LCP_COUNTY), waypointOf, 구마고속도로(AF_ROAD))
+본리리에서 구마고속도로와 88올림픽 고속도로가 분기하며, 각각 면의 중앙부와 서북부를 지난다.
+_	_	%SBJ%에서	_	_	_	_	%OBJ%와	고속도로	_	_	_	_
+true
+
+(경부 고속 도로(AF_ROAD), waypointOf, 중앙선(AF_ROAD))
+고지리 지역에는 국도 4호선과 지방도 921호선이 놓여 있고, 중앙선 철도와 경부 고속 도로가 통과하여 교통이 편리하다.
+_	_	%SBJ%가	_	_	_	_	%OBJ%	철도	_	_	_	_
+false
+
+(완전리(LCP_COUNTY), waypointOf, 중앙선(AF_ROAD))
+매양리 북쪽으로 지방도 919호선이 지나고, 동쪽으로는 중앙선 철도가 지나는데, 매양리의 동쪽에 맞닿아 있는 완전리에 신녕역이 있다.
+_	_	%SBJ%에	_	_	_	_	%OBJ%	철도	_	_	_	_
+false
+
+(신녕역(LC_OTHERS), waypointOf, 중앙선(AF_ROAD))
+매양리 북쪽으로 지방도 919호선이 지나고, 동쪽으로는 중앙선 철도가 지나는데, 매양리의 동쪽에 맞닿아 있는 완전리에 신녕역이 있다.
+_	_	%SBJ%가	_	_	_	_	%OBJ%	철도	_	_	_	_
+true
+
+(단양(LCP_COUNTY), waypointOf, 중앙선(AF_ROAD))
+중앙선과 단양-안동을 잇는 국도가 나란히 지난다.
+_	_	%SBJ%-안동을	_	_	_	_	%OBJ%와	_	_	_	국도	_
+false
+
+(안동(LCP_CITY), waypointOf, 중앙선(AF_ROAD))
+중앙선과 단양-안동을 잇는 국도가 나란히 지난다.
+_	_	단양-%SBJ%을	_	_	_	_	%OBJ%와	_	_	_	국도	_
+false
+
+(홍성(LCP_COUNTY), waypointOf, 장항선(AF_ROAD))
+장항선과 보령-홍성을 연결하는 국도가 면의 중앙부를 지나며, 건설중인 서해안고속도로가 면의 서부를 지날 예정이다.
+_	_	보령-%SBJ%을	_	_	_	_	%OBJ%와	_	_	_	국도	_
+false
+

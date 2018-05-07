@@ -1,0 +1,6 @@
+1	AF_ROAD	271
+-1	LCG_BAY	1
+-1	LCP_COUNTY	7
+-1	QT_ORDER	4
+#NET predefined through XB domain and range
+1	AF_ROAD	0

@@ -1,0 +1,5 @@
+-1	AFWA_PROGRAM	2
+1	LC_SPACE	19
+1	PS_MYTH	1
+1	PS_NAME	2
+#NET predefined through XB domain and range

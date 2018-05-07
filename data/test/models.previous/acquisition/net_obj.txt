@@ -1,0 +1,2 @@
+1	CV_POSITION	2
+#NET predefined through XB domain and range

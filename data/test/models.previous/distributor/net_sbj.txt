@@ -1,0 +1,6 @@
+1	AFWA_MOVIE	9
+1	AFWA_THEATRICALS	1
+-1	OGG_BUSINESS	1
+-1	QT_ORDER	1
+1	TMIG_SW	8
+#NET predefined through XB domain and range

@@ -1,0 +1,4 @@
+1	CV_FOOD	6
+1	MT_CHEMICAL	10
+1	MT_ROCK	6
+#NET predefined through XB domain and range

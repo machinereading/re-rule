@@ -1,0 +1,6 @@
+1	DT_DYNASTY	2
+#NET predefined through XB domain and range
+1	DT_DAY	0
+1	DT_MONTH	0
+1	DT_SEASON	0
+1	DT_YEAR	0

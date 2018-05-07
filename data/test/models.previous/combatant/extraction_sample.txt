@@ -1,0 +1,25 @@
+(남북전쟁(EV_WAR_REVOLUTION), combatant, 아메리카 연방(LCP_COUNTRY))
+그리고 2개월 후인 4월 사우스캐롤라이나 주 포트섬터의 합중국 수비대를 '아메리카 연방' 군대가 공격함으로써 남북전쟁은 발발되었다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%'	군대	_	_	_	_
+true
+
+(제2차 세계대전(EV_WAR_REVOLUTION), combatant, 미국(LCP_COUNTRY))
+1942년 미국에서 개발하여 제2차 세계대전 당시 연합군의 대표적인 탱크이다.
+_	_	%SBJ%	_	군	_	_	%OBJ%에서	_	_	_	_	_
+true
+
+(제2차세계대전(EV_WAR_REVOLUTION), combatant, 프랑스(LCP_COUNTRY))
+룰르 요새로 잘 알려진 건물로 제2차세계대전 시기 프랑스의 주요 군사기지였다.
+_	_	%SBJ%	_	_	_	_	%OBJ%의	_	_	군사	_	_
+true
+
+(프랑스-인디언 전쟁(EV_WAR_REVOLUTION), combatant, 프랑스(LCP_COUNTRY))
+지명은 프랑스-인디언 전쟁 당시 프랑스 군대 지휘관이었던 몽칼름의 이름에서 유래했다.
+_	_	%SBJ%	_	_	_	_	%OBJ%	군대	_	_	_	_
+true
+
+(제2차 세계대전(EV_WAR_REVOLUTION), combatant, 프랑스(LCP_COUNTRY))
+공부를 마친 뒤 프랑스 군대에 징병되어 제2차 세계대전에 참전했으며 후에 알제대학교의 교수가 되었다.
+_	_	%SBJ%에	_	_	_	_	%OBJ%	군대	_	_	_	_
+true
+

@@ -1,0 +1,5 @@
+-1	CV_POSITION	1
+-1	FD_PHILOSOPHY	85
+1	OGG_RELIGION	976
+#NET predefined through XB domain and range
+1	OGG_RELIGION	0

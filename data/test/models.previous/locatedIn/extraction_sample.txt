@@ -1,0 +1,300 @@
+(경기과학고등학교(OGG_EDUCATION), locatedIn, 수원시(LCP_CITY))
+교육부는 1983년 경기도 수원시 소재 경기과학고등학교를 시작으로 1984년부터 대전,광주,진주에 각각 과학고등학교를 설립하였고, 각 광역시 및 도별로 과학고등학교를 확대하여 설립하였다.
+_	소재	%SBJ%를	_	_	_	_	%OBJ%	소재	_	_	_	_
+true
+
+(미시간호(LCG_RIVER), locatedIn, 미시간(LCP_PROVINCE))
+미시간호의 남안 지역에 위치하며 미시간,일리노이,켄터키,오하이오주에 둘러싸여 있다.
+_	_	%SBJ%의	_	위치	_	_	%OBJ%,일리노이,켄터키,주에	_	_	_	_	_
+false
+
+(시설물관리사업소(OGG_POLITICS), locatedIn, 고석정관광지(LC_TOUR))
+시설물관리사업소는 철원관광을 소개하고 안내하는 중심기관으로 동송읍 장흥4리 고석정관광지에 위치한다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%에	_	_	위치	_	_
+true
+
+(삼동원(PS_NAME), locatedIn, 신도안(LC_OTHERS))
+삼동원은 훈련도량으로서의 역할을 수행하다가 정부의 갑작스런 철거 통고에 신도안에 위치한 삼동원이 다른 곳으로 이주할 수밖에 없었다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%에	위치	_	_	_	_
+false
+
+(정부(OGG_POLITICS), locatedIn, 신도안(LC_OTHERS))
+삼동원은 훈련도량으로서의 역할을 수행하다가 정부의 갑작스런 철거 통고에 신도안에 위치한 삼동원이 다른 곳으로 이주할 수밖에 없었다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%에	_	_	위치	_	_
+false
+
+(시카고대학교(OGG_EDUCATION), locatedIn, 미국(LCP_COUNTRY))
+1939년 풀려난 뒤 미국으로 이주해 시카고대학교 '진보교육협회'의 연구원이 되었다.
+_	_	%SBJ%	_	_	_	_	%OBJ%으로	이주	_	_	_	_
+true
+
+(하르미카(PS_NAME), locatedIn, 수미산(LCG_MOUNTAIN))
+그 우주의 중심에 33천이 있듯이 하르미카는 수미산의 정상에 위치한 천계를 의미하고 차트라는 하나하나가 천신의 세계를 상징한다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%의	_	위치	_	_	_
+true
+
+(홋카이도(LCP_CITY), locatedIn, 삿포로(LCP_CITY))
+인구 190만 명인 홋카이도 도청 소재지 삿포로를 배경으로 투숙객만도 연간 170만 명이 찾아온다.
+_	_	%SBJ%	_	_	_	소재지	%OBJ%를	_	_	_	_	_
+false
+
+(삿포로(LCP_CITY), locatedIn, 홋카이도(LCP_CITY))
+인구 190만 명인 홋카이도 도청 소재지 삿포로를 배경으로 투숙객만도 연간 170만 명이 찾아온다.
+_	소재지	%SBJ%를	_	_	_	_	%OBJ%	_	_	_	_	_
+true
+
+(배산성지(AF_CULTURAL_ASSET), locatedIn, 망미동(LCP_COUNTY))
+배산성지는 연제구 연산동과 수영구 망미동의 경계인 배산[250m]의 허리 부분과 정상에 위치한다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%의	_	_	위치	_	_
+true
+
+(알렉산드리아(LCP_CITY), locatedIn, 이집트(LCP_COUNTRY))
+기원전 265년 이집트의 알렉산드리아에 사는 기술자인 크테시바우스가 발명한 것.
+_	%OBJ%	%SBJ%에	_	_	_	_	%OBJ%의	_	_	살	_	_
+true
+
+(크테시바우스(PS_NAME), locatedIn, 이집트(LCP_COUNTRY))
+기원전 265년 이집트의 알렉산드리아에 사는 기술자인 크테시바우스가 발명한 것.
+_	_	%SBJ%가	_	_	_	_	%OBJ%의	_	살	_	_	_
+true
+
+(양과동정(AF_CULTURAL_ASSET), locatedIn, 양과동정(AF_CULTURAL_ASSET))
+* 양과동정 * 양과동정은 양과동 고원희 가옥에서 광주쪽으로 2km 정도 떨어진 왼쪽 언덕 위에 위치하고 있다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%	_	_	위치	_	_
+false
+
+(양과동정(AF_CULTURAL_ASSET), locatedIn, 고원희 가옥(AF_CULTURAL_ASSET))
+* 양과동정 * 양과동정은 양과동 고원희 가옥에서 광주쪽으로 2km 정도 떨어진 왼쪽 언덕 위에 위치하고 있다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%에서	_	_	위치	_	_
+false
+
+(페르시아만(LCG_BAY), locatedIn, 아라비아 반도(LCG_BAY))
+아라비아 반도의 사우디아라비아와 이라크의 접경에 위치하며 페르시아만에 면한 입헌군주국이다.
+_	_	%SBJ%에	_	_	_	_	%OBJ%의	_	위치	_	_	_
+false
+
+(페르시아만(LCG_BAY), locatedIn, 이라크(LCP_COUNTRY))
+아라비아 반도의 사우디아라비아와 이라크의 접경에 위치하며 페르시아만에 면한 입헌군주국이다.
+_	_	%SBJ%에	_	_	_	_	%OBJ%의	_	위치	_	_	_
+false
+
+(에든버러(LCP_CITY), locatedIn, 런던(LCP_CAPITALCITY))
+런던으로 이주한 뒤에 단 한 번, 그것도 거의 비밀리에 에든버러를 방문했다.
+_	_	%SBJ%를	_	_	_	_	%OBJ%으로	이주	_	_	_	_
+false
+
+(피타고라스(PS_NAME), locatedIn, 크로톤(LCP_CITY))
+피타고라스는 BC 525년경 남부 이탈리아 크로톤에 살았다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%에	_	_	살	_	_
+true
+
+(양사골(LC_OTHERS), locatedIn, 양곡리(LCP_COUNTY))
+양강도 백암군 양곡리 소재지의 동쪽 양사골에서 흐르는 개울.
+_	_	%SBJ%에서	_	_	_	_	%OBJ%	소재지	_	_	_	_
+true
+
+(강릉향교(AF_BUILDING), locatedIn, 교동(LCP_COUNTY))
+강원도 강릉시 교동에 위치한 강릉향교는 교육기능과 제사기능을 함께 하기 위하여 문묘와 명륜당을 두고 있다.
+%OBJ%	위치	%SBJ%는	_	_	_	_	%OBJ%에	위치	_	_	_	_
+true
+
+(오봉서원(AF_CULTURAL_ASSET), locatedIn, 오봉리(LCP_COUNTY))
+강릉시 성산면 오봉리에 위치한 오봉서원은 성산면에서 오봉댐으로 가는 초입 우측의 산중턱에 자리하고 있다.
+_	위치	%SBJ%는	_	_	_	_	%OBJ%에	위치	_	_	_	_
+true
+
+(상동리(LCP_COUNTY), locatedIn, 서리산(LCG_MOUNTAIN))
+상동리는 서리산 밑에 마을이 위치하고 있어서
+_	_	%SBJ%는	_	_	_	_	%OBJ%	_	_	위치	_	_
+false
+
+(화성행궁(AF_CULTURAL_ASSET), locatedIn, 팔달산(LCG_MOUNTAIN))
+화성행궁은 팔달산 동편기슭의 평지에 위치해 있으며, 행궁의 남쪽은 팔달산 산줄기가 감싸고 북쪽은 뒤편에서 흘러내린 시냇물이 행궁을 둘러싸고 있다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%	_	_	위치	_	_
+true
+
+(UN(OGG_POLITICS), locatedIn, 미국(LCP_COUNTRY))
+UN 주재 미국 대사
+_	_	%SBJ%	주재	_	_	_	%OBJ%	_	_	_	_	_
+false
+
+(하버드(OGG_EDUCATION), locatedIn, 미국(LCP_COUNTRY))
+작품활동 외에도 사회 각 분야에서 활동을 이어왔으나, 1988년 지속적인 정치적 위협으로 미국으로 이주하여 콜럼비아,조지타운,하버드 등의 여러 대학교에서 교직생활을 하였다.
+_	_	콜럼비아,조지타운,%SBJ%	_	_	_	_	%OBJ%으로	이주	_	_	_	_
+true
+
+(고이아니아(LCP_CITY), locatedIn, 고이아스 주의(LCP_PROVINCE))
+고이아니아는 브라질 중서부 지방에 있는 고이아스 주의 중앙에 위치한다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%	_	_	위치	_	_
+false
+
+(봉정사(AF_CULTURAL_ASSET), locatedIn, 태장리(LCP_COUNTY))
+경상북도 안동시 서후면 태장리 소재 봉정사에 있는 누문.
+_	소재	%SBJ%에	_	_	_	_	%OBJ%	소재	_	_	_	_
+true
+
+(광나루(LC_OTHERS), locatedIn, 한강(LCG_RIVER))
+한강의 중하류에 위치한 광나루는 교통상 중요한 위치를 차지하고 있었다.
+_	위치	%SBJ%는	_	_	_	_	%OBJ%의	_	위치	_	_	_
+true
+
+(영국(LCP_COUNTRY), locatedIn, 서부 아프리카(LCG_CONTINENT))
+113년간의 영국 식민지 지배에서 1957년 3월 6일에 독립한 가나는 서부 아프리카에 위치하고 있으며, 아프리카 국가 중 민주주의의 선두주자이다.
+_	_	%SBJ%	_	_	_	_	%OBJ%에	_	_	위치	_	_
+false
+
+(서부 아프리카(LCG_CONTINENT), locatedIn, 영국(LCP_COUNTRY))
+113년간의 영국 식민지 지배에서 1957년 3월 6일에 독립한 가나는 서부 아프리카에 위치하고 있으며, 아프리카 국가 중 민주주의의 선두주자이다.
+_	_	%SBJ%에	_	_	_	_	%OBJ%	_	_	위치	_	_
+false
+
+(기림사(AF_CULTURAL_ASSET), locatedIn, 골굴암(AF_CULTURAL_ASSET))
+기림사 골짜기에 위치한 골굴암의 높은 암벽에 있는 자연굴을 이용하여 만든 12개의 석굴 중 가장 윗부분에 있는 마애불이다.
+_	_	%SBJ%	_	위치	_	_	%OBJ%의	_	_	_	_	_
+false
+
+(골굴암(AF_CULTURAL_ASSET), locatedIn, 기림사(AF_CULTURAL_ASSET))
+기림사 골짜기에 위치한 골굴암의 높은 암벽에 있는 자연굴을 이용하여 만든 12개의 석굴 중 가장 윗부분에 있는 마애불이다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%	_	위치	_	_	_
+true
+
+(곽해(PS_NAME), locatedIn, 산동성(LCP_PROVINCE))
+곽해는 지금의 산동성에 살았다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%에	_	_	살	_	_
+true
+
+(호주(LCP_COUNTRY), locatedIn, 뉴사우스웨일스(LCP_PROVINCE))
+1968년에 기관차를 몰던 아버지 휴튼 깁슨의 부상으로 가족 모두 호주로 이주했고, 고등학교를 마친 뒤 뉴사우스웨일스 대학에서 공연예술을 전공했다.
+_	_	%SBJ%로	이주	_	_	_	%OBJ%	_	_	_	_	_
+false
+
+(뉴사우스웨일스(LCP_PROVINCE), locatedIn, 호주(LCP_COUNTRY))
+1968년에 기관차를 몰던 아버지 휴튼 깁슨의 부상으로 가족 모두 호주로 이주했고, 고등학교를 마친 뒤 뉴사우스웨일스 대학에서 공연예술을 전공했다.
+_	_	%SBJ%	_	_	_	_	%OBJ%로	이주	_	_	_	_
+true
+
+(군산(LCP_CITY), locatedIn, 일본(LCP_COUNTRY))
+일본식 주택의 특성이 잘 나타나는 건축물로 일제 강점기 군산에 거주하였던 일본 상류층 주택의 모습을 잘 보여주고 있다.
+_	_	%SBJ%에	거주	_	_	_	%OBJ%	_	_	_	_	_
+false
+
+(리마(PS_NAME), locatedIn, 유럽(LCG_CONTINENT))
+해안 지역에 위치한 리마는 배를 타고 온 유럽 세력이 대륙 침략의 기지로 삼기에 유리했기 때문이다.
+_	위치	%SBJ%는	_	_	_	_	%OBJ%	_	_	_	_	_
+false
+
+(정부(OGG_POLITICS), locatedIn, 룽셴진(LCP_CITY))
+현 정부는 룽셴진에 소재하여 행정구획은 7개 진으로 이루어져 있다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%에	_	_	소재	_	_
+true
+
+(도화리(LCP_COUNTY), locatedIn, 청천강(LCG_RIVER))
+평안남도 개천시 도화리 소재지의 서남쪽 청천강 기슭에 있는 양수장.
+_	_	%SBJ%	소재지	_	_	_	%OBJ%	_	_	_	_	_
+false
+
+(청천강(LCG_RIVER), locatedIn, 도화리(LCP_COUNTY))
+평안남도 개천시 도화리 소재지의 서남쪽 청천강 기슭에 있는 양수장.
+_	_	%SBJ%	_	_	_	_	%OBJ%	소재지	_	_	_	_
+true
+
+(블라스티미로비치 왕가(PS_NAME), locatedIn, 발칸반도(LCG_BAY))
+블라스티미로비치 왕가는 세르비아인들이 발칸반도로 이주하는 과정과 그 이후 정착 과정에서 주도적 역할을 한 지배 가문이었다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%로	이주	_	_	_	_
+false
+
+(세르비아(LCP_COUNTRY), locatedIn, 발칸반도(LCG_BAY))
+블라스티미로비치 왕가는 세르비아인들이 발칸반도로 이주한 이후부터 10세기 중반까지 세르비아를 통치한 최초의 왕가이다.
+_	_	%SBJ%를	_	_	_	_	%OBJ%로	이주	_	_	_	_
+true
+
+(수락산(LCG_MOUNTAIN), locatedIn, 산곡동(LCP_COUNTY))
+경기도 의정부시 산곡동의 수락산에 소재한 암벽 바위이다.
+_	_	%SBJ%에	_	_	_	_	%OBJ%의	_	_	소재	_	_
+true
+
+(자무쓰시(LCP_CITY), locatedIn, 싼장평원(LC_OTHERS))
+헤이룽장성 자무쓰시의 현급시로 성 동북부, 쑹화강 하류 남안의 싼장평원에 위치한다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%에	_	_	위치	_	_
+false
+
+(쑹화강(LCG_RIVER), locatedIn, 싼장평원(LC_OTHERS))
+헤이룽장성 자무쓰시의 현급시로 성 동북부, 쑹화강 하류 남안의 싼장평원에 위치한다.
+_	_	%SBJ%	_	_	_	_	%OBJ%에	_	_	위치	_	_
+true
+
+(싼장평원(LC_OTHERS), locatedIn, 자무쓰시(LCP_CITY))
+헤이룽장성 자무쓰시의 현급시로 성 동북부, 쑹화강 하류 남안의 싼장평원에 위치한다.
+_	_	%SBJ%에	_	_	_	_	%OBJ%의	_	_	위치	_	_
+true
+
+(싼장평원(LC_OTHERS), locatedIn, 쑹화강(LCG_RIVER))
+헤이룽장성 자무쓰시의 현급시로 성 동북부, 쑹화강 하류 남안의 싼장평원에 위치한다.
+_	_	%SBJ%에	_	_	_	_	%OBJ%	_	_	위치	_	_
+false
+
+(뉴질랜드(LCP_COUNTRY), locatedIn, 알래스카(LCP_PROVINCE))
+그중 절반가량은 환태평양 화산대인 뉴질랜드, 인도네시아, 필리핀, 일본을 거쳐 알래스카, 미국 서부 연안, 남미의 끄트머리까지 이어진 곳에 위치한다.
+_	_	%SBJ%,	_	_	_	_	%OBJ%,	_	_	위치	_	_
+false
+
+(뉴질랜드(LCP_COUNTRY), locatedIn, 남미(LCG_CONTINENT))
+그중 절반가량은 환태평양 화산대인 뉴질랜드, 인도네시아, 필리핀, 일본을 거쳐 알래스카, 미국 서부 연안, 남미의 끄트머리까지 이어진 곳에 위치한다.
+_	_	%SBJ%,	_	_	_	_	%OBJ%의	_	_	위치	_	_
+false
+
+(인도네시아(LCP_COUNTRY), locatedIn, 알래스카(LCP_PROVINCE))
+그중 절반가량은 환태평양 화산대인 뉴질랜드, 인도네시아, 필리핀, 일본을 거쳐 알래스카, 미국 서부 연안, 남미의 끄트머리까지 이어진 곳에 위치한다.
+_	_	%SBJ%,	_	_	_	_	%OBJ%,	_	_	위치	_	_
+false
+
+(인도네시아(LCP_COUNTRY), locatedIn, 남미(LCG_CONTINENT))
+그중 절반가량은 환태평양 화산대인 뉴질랜드, 인도네시아, 필리핀, 일본을 거쳐 알래스카, 미국 서부 연안, 남미의 끄트머리까지 이어진 곳에 위치한다.
+_	_	%SBJ%,	_	_	_	_	%OBJ%의	_	_	위치	_	_
+false
+
+(필리핀(LCP_COUNTRY), locatedIn, 알래스카(LCP_PROVINCE))
+그중 절반가량은 환태평양 화산대인 뉴질랜드, 인도네시아, 필리핀, 일본을 거쳐 알래스카, 미국 서부 연안, 남미의 끄트머리까지 이어진 곳에 위치한다.
+_	_	%SBJ%,	_	_	_	_	%OBJ%,	_	_	위치	_	_
+false
+
+(필리핀(LCP_COUNTRY), locatedIn, 남미(LCG_CONTINENT))
+그중 절반가량은 환태평양 화산대인 뉴질랜드, 인도네시아, 필리핀, 일본을 거쳐 알래스카, 미국 서부 연안, 남미의 끄트머리까지 이어진 곳에 위치한다.
+_	_	%SBJ%,	_	_	_	_	%OBJ%의	_	_	위치	_	_
+false
+
+(일본(LCP_COUNTRY), locatedIn, 남미(LCG_CONTINENT))
+그중 절반가량은 환태평양 화산대인 뉴질랜드, 인도네시아, 필리핀, 일본을 거쳐 알래스카, 미국 서부 연안, 남미의 끄트머리까지 이어진 곳에 위치한다.
+_	_	%SBJ%를	_	_	_	_	%OBJ%의	_	_	위치	_	_
+false
+
+(알래스카(LCP_PROVINCE), locatedIn, 뉴질랜드(LCP_COUNTRY))
+그중 절반가량은 환태평양 화산대인 뉴질랜드, 인도네시아, 필리핀, 일본을 거쳐 알래스카, 미국 서부 연안, 남미의 끄트머리까지 이어진 곳에 위치한다.
+_	_	%SBJ%,	_	_	_	_	%OBJ%,	_	_	위치	_	_
+false
+
+(알래스카(LCP_PROVINCE), locatedIn, 인도네시아(LCP_COUNTRY))
+그중 절반가량은 환태평양 화산대인 뉴질랜드, 인도네시아, 필리핀, 일본을 거쳐 알래스카, 미국 서부 연안, 남미의 끄트머리까지 이어진 곳에 위치한다.
+_	_	%SBJ%,	_	_	_	_	%OBJ%,	_	_	위치	_	_
+false
+
+(알래스카(LCP_PROVINCE), locatedIn, 필리핀(LCP_COUNTRY))
+그중 절반가량은 환태평양 화산대인 뉴질랜드, 인도네시아, 필리핀, 일본을 거쳐 알래스카, 미국 서부 연안, 남미의 끄트머리까지 이어진 곳에 위치한다.
+_	_	%SBJ%,	_	_	_	_	%OBJ%,	_	_	위치	_	_
+false
+
+(남미(LCG_CONTINENT), locatedIn, 뉴질랜드(LCP_COUNTRY))
+그중 절반가량은 환태평양 화산대인 뉴질랜드, 인도네시아, 필리핀, 일본을 거쳐 알래스카, 미국 서부 연안, 남미의 끄트머리까지 이어진 곳에 위치한다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%,	_	_	위치	_	_
+false
+
+(남미(LCG_CONTINENT), locatedIn, 인도네시아(LCP_COUNTRY))
+그중 절반가량은 환태평양 화산대인 뉴질랜드, 인도네시아, 필리핀, 일본을 거쳐 알래스카, 미국 서부 연안, 남미의 끄트머리까지 이어진 곳에 위치한다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%,	_	_	위치	_	_
+false
+
+(남미(LCG_CONTINENT), locatedIn, 필리핀(LCP_COUNTRY))
+그중 절반가량은 환태평양 화산대인 뉴질랜드, 인도네시아, 필리핀, 일본을 거쳐 알래스카, 미국 서부 연안, 남미의 끄트머리까지 이어진 곳에 위치한다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%,	_	_	위치	_	_
+false
+

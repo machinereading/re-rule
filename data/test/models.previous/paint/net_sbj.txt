@@ -1,0 +1,4 @@
+-1	CV_POSITION	2
+1	PS_NAME	5
+#NET predefined through XB domain and range
+1	PS_NAME	0

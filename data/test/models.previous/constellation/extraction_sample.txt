@@ -1,0 +1,10 @@
+(베텔게우스(LC_SPACE), constellation, 오리온자리(LC_SPACE))
+오리온자리의 별 중에서는 두 별이 유난히 밝은데, 둘 중에서 붉은 별이 베텔게우스이고, 파란 별이 리겔이에요.
+_	별	%SBJ%이고,	_	_	_	_	%OBJ%의	_	_	_	_	_
+false
+
+(알데바란(LC_SPACE), constellation, 황소자리(LC_SPACE))
+황소자리의 V자에서 유난히 밝은 별이 알데바란이에요.
+_	별	%SBJ%이에요.	_	_	_	_	%OBJ%의	_	_	_	_	_
+false
+

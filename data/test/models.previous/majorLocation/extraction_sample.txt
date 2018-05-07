@@ -1,0 +1,39 @@
+(푸에르토리코(LCP_COUNTRY), majorLocation, 산후안(LCP_CAPITALCITY))
+푸에르토리코의 수도 산후안에서 생겨난 스페인 민요와 아프리칸 리듬이 융합된 가요,무도 음악이다.
+_	_	%SBJ%의	_	_	_	수도	%OBJ%에서	_	_	_	_	_
+true
+
+(스페인(LCP_COUNTRY), majorLocation, 타라고나(LCP_CITY))
+약 16km 거리에 주도인 타라고나가, 약 100km 떨어진 곳에 스페인 최대 산업도시인 바르셀로나가 있다.
+_	_	%SBJ%	_	_	_	주도	%OBJ%가,	_	_	_	_	_
+false
+
+(플로리다 주(LCP_PROVINCE), majorLocation, 탤러해시(LCP_CITY))
+남동쪽으로 약 140km 거리에는 플로리다 주의 주도인 탤러해시가, 약 389km 떨어진 곳에는 플로리다 주 최대 도시 잭슨빌이 있다.
+_	_	%SBJ%	_	_	_	주도	%OBJ%가,	_	_	_	_	_
+true
+
+(케냐(LCP_COUNTRY), majorLocation, 나이로비(LCP_CAPITALCITY))
+거린더 차다는 1960년 1월 10일 케냐의 수도 나이로비에서 태어났다.
+_	_	%SBJ%의	_	_	_	수도	%OBJ%에서	_	_	_	_	_
+true
+
+(요르단(LCP_COUNTRY), majorLocation, 암만(LCP_CAPITALCITY))
+페트라는 요르단의 수도 암만에서 260km, 사해에서 80km 떨어진 해발 950m의 와디무사 분지에 자리하고 있다.
+_	_	%SBJ%의	_	_	_	수도	%OBJ%에서	_	_	_	_	_
+true
+
+(루시(LCP_CITY), majorLocation, 키예프(LCP_CAPITALCITY))
+키예프의 경우, 수백 년 동안 키예프 루시의 수도이면서 '모든 러시아 도시들의 어머니'로서의 영화는 무참하게 깨어졌다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%의	_	_	수도	_	_
+true
+
+(뉴멕시코(LCP_PROVINCE), majorLocation, 앨버커키(LCP_CITY))
+) 텍사스의 휴스턴, 플로리다의 마이애미, 뉴멕시코의 앨버커키, 그리고 애리조나의 투손과 피닉스 등의 선벨트1) 도시들이 빠르게 성장했다.
+_	_	%SBJ%의	_	_	_	%SBJ%	%OBJ%,	_	_	도시	_	_
+true
+
+(오스트리아(LCP_COUNTRY), majorLocation, 빈(LCP_CAPITALCITY))
+오스트리아의 수도 빈에서 남서쪽으로 약 150km 정도 떨어져 있다.
+_	_	%SBJ%의	_	_	_	수도	%OBJ%에서	_	_	_	_	_
+true

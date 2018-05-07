@@ -1,0 +1,8 @@
+-1	AF_TRANSPORT	3
+-1	DT_OTHERS	2
+1	OGG_BUSINESS	84
+1	OGG_FOOD	1
+1	OGG_MEDIA	7
+-1	PS_NAME	2
+#NET predefined through XB domain and range
+1	OGG_FOOD	0

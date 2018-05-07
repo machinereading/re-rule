@@ -1,0 +1,6 @@
+-1	CV_OCCUPATION	9
+1	CV_SPORTS	563
+-1	TMI_HW	1
+#NET predefined through XB domain and range
+1	CV_SPORTS	0
+-1	EV_SPORTS	0

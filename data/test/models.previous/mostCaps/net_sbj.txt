@@ -1,0 +1,2 @@
+-1	LCP_COUNTRY	3
+#NET predefined through XB domain and range

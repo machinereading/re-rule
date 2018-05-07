@@ -1,0 +1,4 @@
+1	PS_ACTOR	1
+1	PS_NAME	8
+-1	TM_SPORTS	1
+#NET predefined through XB domain and range

@@ -1,0 +1,5 @@
+-1	DT_DYNASTY	4
+1	LCP_CAPITALCITY	24
+1	LCP_COUNTRY	46
+1	LCP_COUNTY	2
+#NET predefined through XB domain and range

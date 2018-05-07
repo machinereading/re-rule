@@ -1,0 +1,35 @@
+(댄스스포츠(FD_ART), narrower, 스탠더드댄스(FD_ART))
+댄스스포츠는 크게 모던볼룸댄스라고도 하는 스탠더드댄스와 라틴아메리카댄스로 구분된다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%와	_	_	구분	_	_
+true
+
+(초상화(FD_ART), narrower, 소묘(FD_ART))
+소묘를 잘했고 초상화 분야에서 활약함.
+_	_	%SBJ%	분야	_	_	_	%OBJ%를	_	_	_	_	_
+false
+
+(화분학(FD_SCIENCE), narrower, 지질학(FD_SCIENCE))
+화분학 분야는 식물학뿐만 아니라 지질학 및 층서학,역사지질학,화석학과도 관계가 있다.
+_	_	%SBJ%	분야	_	_	_	%OBJ%	_	_	_	_	_
+true
+
+(대중가요(FD_ART), narrower, 음악(FD_ART))
+김천은 음악 중에서도 빗내농악을 중심으로 한 농악과 대중가요 분야에서 단연 두각을 나타냈다.
+_	_	%SBJ%	분야	_	_	_	%OBJ%	_	_	_	_	_
+false
+
+(단속평형설(TR_SCIENCE), narrower, 점진주의설(TR_SCIENCE))
+종 분화 속도에 대한 학자들의 관점은 점진주의설과 단속평형설로 구분된다.
+_	_	%SBJ%로	_	_	_	_	%OBJ%와	_	_	구분	_	_
+false
+
+(수학(FD_SCIENCE), narrower, 기하학(FD_SCIENCE))
+미적분학을 기하학에 적용한 수학의 한 분야.
+_	_	%SBJ%의	_	_	_	_	%OBJ%에	_	_	분야	_	_
+false
+
+(12잡가(FD_ART), narrower, 8잡가(FD_ART))
+지금은 통틀어 12잡가로 통하지만, 원래는 8잡가와 잡잡가로 구분하였다.
+_	_	%SBJ%로	_	_	_	_	%OBJ%와	_	_	구분	_	_
+false
+

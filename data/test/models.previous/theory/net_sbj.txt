@@ -1,0 +1,2 @@
+1	PS_NAME	5
+#NET predefined through XB domain and range

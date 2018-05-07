@@ -1,0 +1,9 @@
+-1	AF_WORKS	1
+-1	CV_OCCUPATION	1
+-1	OGG_BUSINESS	3
+1	PS_CHARACTER	1
+1	PS_MYTH	37
+1	PS_NAME	86
+1	PS_SINGER	2
+#NET predefined through XB domain and range
+1	PS_NAME	0

@@ -1,0 +1,5 @@
+1	DT_DYNASTY	1
+1	LCP_CITY	9
+1	LCP_COUNTRY	8
+#NET predefined through XB domain and range
+1	LCP_COUNTRY	0

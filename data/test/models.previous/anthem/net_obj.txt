@@ -1,0 +1,4 @@
+-1	AFWA_MOVIE	2
+1	AFWA_MUSIC	4
+-1	TR_SOCIAL_SCIENCE	1
+#NET predefined through XB domain and range

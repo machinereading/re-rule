@@ -1,0 +1,4 @@
+1	CVL_PENALTY	1
+1	TMM_DISEASE	29
+-1	TM_CELL_TISSUE	2
+#NET predefined through XB domain and range

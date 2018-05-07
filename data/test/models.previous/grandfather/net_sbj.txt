@@ -1,0 +1,5 @@
+-1	CV_POSITION	1
+-1	OGG_RELIGION	2
+1	PS_MYTH	17
+1	PS_NAME	9
+#NET predefined through XB domain and range

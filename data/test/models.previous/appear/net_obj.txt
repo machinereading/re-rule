@@ -1,0 +1,8 @@
+1	AFWA_MOVIE	4
+-1	AFWA_MUSIC	1
+1	AF_WORKS	7
+-1	EV_WAR_REVOLUTION	1
+-1	PS_NAME	1
+-1	TMIG_SW	1
+#NET predefined through XB domain and range
+1	AFW_DOCUMENT	0

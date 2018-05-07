@@ -1,0 +1,2 @@
+1	FD_SOCIAL_SCIENCE	3
+#NET predefined through XB domain and range

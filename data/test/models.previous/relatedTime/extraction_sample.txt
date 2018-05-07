@@ -1,0 +1,84 @@
+(노동자(CV_POSITION), relatedTime, 1936년(DT_YEAR))
+1936년은 노동자의 파업이 가장 많은 시기였다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%는	_	_	시기	_	_
+true
+
+(인천(LCP_CITY), relatedTime, 1797년(DT_YEAR))
+1797년 정조의 10차 원행 시 어가가 인천 경내를 지날 때 김치인 묘에 승지를 보내어 제사를 드리게 하였다.
+_	_	%SBJ%	_	_	_	_	%OBJ%	_	_	_	때	_
+true
+
+(프랑스(LCP_COUNTRY), relatedTime, 16세기(DT_OTHERS))
+16세기의 모든 작업은 이 이탈리아의 이상을 프랑스 정신에 적응시키는 일일 것이다.
+_	_	%SBJ%	_	_	_	_	%OBJ%의	_	_	일	_	_
+true
+
+(고경명(PS_NAME), relatedTime, 조선 중기(DT_DYNASTY))
+조선 중기의 문관,의병장인 고경명 일가 7명의 충효열 삼강문.
+_	_	%SBJ%	_	_	_	_	%OBJ%의	_	_	일	_	_
+true
+
+(고경명(PS_NAME), relatedTime, 조선 중기(DT_DYNASTY))
+조선 중기의 문관이며 의병장이었던 고경명 일가 7명의 충효열 삼강문.
+_	_	%SBJ%	_	_	_	_	%OBJ%의	_	_	일	_	_
+true
+
+(상트페테르부르크(LCP_CITY), relatedTime, 1881년(DT_YEAR))
+베흐테레프는 1881년 상트페테르부르크 내외과 아카데미에서 박사학위를 받았을 때 외국에 가서 공부하고 연구하는 특별연구원직을 제안받아서 장 샤르코 등과 함께 일하게 되었다.
+_	_	%SBJ%	_	_	_	_	%OBJ%	_	_	_	때	_
+true
+
+(화원(CV_POSITION), relatedTime, 1748년(DT_YEAR))
+이 그림의 작가인 김희겸은 화원 출신으로 1748년 어진을 개모할 때 참여하여 그 공으로 변장의 벼슬을 받고 사천현감을 지낸 바 있다.
+_	_	%SBJ%	_	_	_	_	%OBJ%	_	_	_	때	_
+false
+
+(정(PS_SINGER), relatedTime, 삼국 시대(DT_DYNASTY))
+정은 삼국 시대와 고려 시대 조선 시대에 각종의 조세 및 국역을 부담하던 양인 남자를 말함.
+_	_	%SBJ%는	_	_	_	_	%OBJ%와	시대	_	_	_	_
+true
+
+(조선(LCP_COUNTRY), relatedTime, 1392년(DT_YEAR))
+조선 건국 직후인 1392년 7월 문산계,무산계를 제정할 때, 정6품  문산계 상계는 승의랑, 하계는 승훈랑으로, 무산계 상계는 돈용교위,진용교위로 정하였다.
+_	_	%SBJ%	_	_	_	_	%OBJ%	_	_	_	때	_
+true
+
+(조선(LCP_COUNTRY), relatedTime, 7월(DT_MONTH))
+조선 건국 직후인 1392년 7월 문산계,무산계를 제정할 때, 정6품  문산계 상계는 승의랑, 하계는 승훈랑으로, 무산계 상계는 돈용교위,진용교위로 정하였다.
+_	_	%SBJ%	_	_	_	_	%OBJ%	_	_	_	때	_
+true
+
+(진주성(AF_CULTURAL_ASSET), relatedTime, 1593년(DT_YEAR))
+1593년 6월 제2차 진주성 전투 당시 성이 함락될 때 탈출에 성공했으나 나중에 순절했다.
+_	_	%SBJ%	_	_	_	_	%OBJ%	_	_	_	때	_
+true
+
+(진주성(AF_CULTURAL_ASSET), relatedTime, 6월(DT_MONTH))
+1593년 6월 제2차 진주성 전투 당시 성이 함락될 때 탈출에 성공했으나 나중에 순절했다.
+_	_	%SBJ%	_	_	_	_	%OBJ%	_	_	_	때	_
+true
+
+(소득세법(CV_LAW), relatedTime, 1월(DT_MONTH))
+정부는 형평성 논란에 대해 "내년 1월 소득세법 시행령을 개정할 때 필요경비율을 하향조정하는 방안을 검토하고 있다"고 밝혔다.
+_	_	%SBJ%	_	_	_	_	%OBJ%	_	_	_	때	_
+true
+
+(북한(LCP_COUNTRY), relatedTime, 1950년(DT_YEAR))
+1950년 10월 북한 정권이 붕괴위기에 직면하였을 때 구출에 나선 쪽은 소련이 아니라 중공이었다.
+_	_	%SBJ%	_	_	_	_	%OBJ%	_	_	_	때	_
+true
+
+(북한(LCP_COUNTRY), relatedTime, 10월(DT_MONTH))
+1950년 10월 북한 정권이 붕괴위기에 직면하였을 때 구출에 나선 쪽은 소련이 아니라 중공이었다.
+_	_	%SBJ%	_	_	_	_	%OBJ%	_	_	_	때	_
+true
+
+(궁내부(OGG_POLITICS), relatedTime, 1902년(DT_YEAR))
+1902년 3월 궁내부 직제가 개정될 때 친왕부에 영을 없애고 대신
+_	_	%SBJ%	_	_	_	_	%OBJ%	_	_	_	때	_
+true
+
+(궁내부(OGG_POLITICS), relatedTime, 3월(DT_MONTH))
+1902년 3월 궁내부 직제가 개정될 때 친왕부에 영을 없애고 대신
+_	_	%SBJ%	_	_	_	_	%OBJ%	_	_	_	때	_
+true

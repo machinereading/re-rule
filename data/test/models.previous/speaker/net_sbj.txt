@@ -1,0 +1,5 @@
+-1	CV_LAW	8
+-1	CV_POLICY	1
+1	EV_OTHERS	2
+-1	OGG_POLITICS	4
+#NET predefined through XB domain and range

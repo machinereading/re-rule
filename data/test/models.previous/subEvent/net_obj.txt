@@ -1,0 +1,6 @@
+1	EV_SPORTS	1
+1	EV_WAR_REVOLUTION	37
+-1	LCG_BAY	8
+-1	LCP_CITY	1
+-1	LC_OTHERS	1
+#NET predefined through XB domain and range

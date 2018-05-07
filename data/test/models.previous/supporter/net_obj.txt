@@ -1,0 +1,6 @@
+-1	AF_CULTURAL_ASSET	1
+-1	CV_POSITION	2
+1	LCP_COUNTRY	107
+1	OGG_RELIGION	7
+1	PS_NAME	13
+#NET predefined through XB domain and range

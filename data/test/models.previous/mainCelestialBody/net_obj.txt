@@ -1,0 +1,6 @@
+-1	LCP_CITY	1
+-1	LCP_COUNTY	1
+1	LC_SPACE	822
+-1	PS_MYTH	3
+#NET predefined through XB domain and range
+1	LC_SPACE	0

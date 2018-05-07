@@ -1,0 +1,264 @@
+(명나라(LCP_COUNTRY), opponent, 후금(LCP_COUNTRY))
+1622년 명나라와 후금이 대립해 모문룡이 가도에 들어왔을 때 명나라의 요청으로 조선군이 출병하자 분호조참판으로서 군량 운반을 맡았다.
+_	_	%SBJ%와	_	_	_	_	%OBJ%가	_	_	대립	_	_
+true
+
+(마이클(PS_NAME), opponent, 영국군(OGG_MILITARY))
+마이클이 아일랜드에서 영국군에 맞서는 동안 데벌레러는 세계의 여론을 모으기 위해 해리와 미국으로 떠난다.
+_	_	%SBJ%가	_	_	_	_	%OBJ%에	_	_	맞서	_	_
+true
+
+(영국군(OGG_MILITARY), opponent, 마이클(PS_NAME))
+마이클이 아일랜드에서 영국군에 맞서는 동안 데벌레러는 세계의 여론을 모으기 위해 해리와 미국으로 떠난다.
+_	_	%SBJ%에	_	_	_	_	%OBJ%가	_	_	맞서	_	_
+true
+
+(링컨(PS_NAME), opponent, 더글러스(PS_NAME))
+링컨과 더글러스의 논쟁은 일리노이뿐 아니라 전국적인 화젯거리로 떠올랐다.
+_	_	%SBJ%와	_	_	_	%SBJ%	%OBJ%의	_	_	논쟁	_	_
+true
+
+(더글러스(PS_NAME), opponent, 링컨(PS_NAME))
+링컨과 더글러스의 논쟁은 일리노이뿐 아니라 전국적인 화젯거리로 떠올랐다.
+_	%OBJ%	%SBJ%의	_	_	_	_	%OBJ%와	_	_	논쟁	_	_
+true
+
+(이동휘(PS_NAME), opponent, 일제(LCP_COUNTRY))
+또한 이동휘 등을 중심으로 대한광복군정부를 수립, 일제에 대항하여 한국의 독립을 달성하고자 하였다.
+_	_	%SBJ%	_	_	_	_	%OBJ%에	_	_	대항	_	_
+true
+
+(대한광복군정부(OGG_POLITICS), opponent, 일제(LCP_COUNTRY))
+또한 이동휘 등을 중심으로 대한광복군정부를 수립, 일제에 대항하여 한국의 독립을 달성하고자 하였다.
+_	_	%SBJ%를	_	_	_	_	%OBJ%에	_	_	대항	_	_
+true
+
+(일제(LCP_COUNTRY), opponent, 이동휘(PS_NAME))
+또한 이동휘 등을 중심으로 대한광복군정부를 수립, 일제에 대항하여 한국의 독립을 달성하고자 하였다.
+_	_	%SBJ%에	_	_	_	_	%OBJ%	_	_	대항	_	_
+true
+
+(일제(LCP_COUNTRY), opponent, 대한광복군정부(OGG_POLITICS))
+또한 이동휘 등을 중심으로 대한광복군정부를 수립, 일제에 대항하여 한국의 독립을 달성하고자 하였다.
+_	_	%SBJ%에	_	_	_	_	%OBJ%를	_	_	대항	_	_
+true
+
+(한국(LCP_COUNTRY), opponent, 일제(LCP_COUNTRY))
+또한 이동휘 등을 중심으로 대한광복군정부를 수립, 일제에 대항하여 한국의 독립을 달성하고자 하였다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%에	대항	_	_	_	_
+true
+
+(프랑스(LCP_COUNTRY), opponent, 이슬람교도(OGG_RELIGION))
+무훈시의 배경은 토착적인 다신교 또는 우상을 숭배하는 이슬람교도에 대항해 싸우는 그리스도교국 프랑스의 투쟁이다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%에	대항	_	_	_	_
+true
+
+(소련(LCP_COUNTRY), opponent, 미국(LCP_COUNTRY))
+1947년 9월에 미국은 소련의 반대를 뿌리치고 한국 문제를 일방적으로 유엔에 제기하였다.
+_	_	%SBJ%의	반대	_	_	_	%OBJ%는	_	_	_	_	_
+true
+
+(소련(LCP_COUNTRY), opponent, 한국(LCP_COUNTRY))
+1947년 9월에 미국은 소련의 반대를 뿌리치고 한국 문제를 일방적으로 유엔에 제기하였다.
+_	_	%SBJ%의	반대	_	_	_	%OBJ%	_	_	_	_	_
+false
+
+(한국(LCP_COUNTRY), opponent, 소련(LCP_COUNTRY))
+1947년 9월에 미국은 소련의 반대를 뿌리치고 한국 문제를 일방적으로 유엔에 제기하였다.
+_	_	%SBJ%	_	_	_	_	%OBJ%의	반대	_	_	_	_
+false
+
+(미국(LCP_COUNTRY), opponent, 소련(LCP_COUNTRY))
+이로써, 38선을 경계로 한 남북한은 미국과 소련의 대립 속에서 이데올로기의 갈등마저 겪으면서 국제 무대에 노출되었다.
+_	_	%SBJ%와	_	_	_	%SBJ%	%OBJ%의	_	_	대립	_	_
+true
+
+(소련(LCP_COUNTRY), opponent, 미국(LCP_COUNTRY))
+이로써, 38선을 경계로 한 남북한은 미국과 소련의 대립 속에서 이데올로기의 갈등마저 겪으면서 국제 무대에 노출되었다.
+_	%OBJ%	%SBJ%의	_	_	_	_	%OBJ%와	_	_	대립	_	_
+true
+
+(중국공산당(OGG_POLITICS), opponent, 모택동(PS_NAME))
+공산당에 반대하는 세력은 물론이거니와 중국공산당 안에서 모택동의 지도력에 대항하던 세력도 억압당하는 계기가 마련된 것이다.
+_	_	%SBJ%	_	_	_	_	%OBJ%의	_	_	대항	_	_
+false
+
+(페르세우스(PS_NAME), opponent, 로마(LCP_COUNTRY))
+필리포스의 후계자인 페르세우스는 로마에 맞서 그리스의 자유를 옹호하는 투사로 인정받았다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%에	맞서	_	_	_	_
+true
+
+(이이첨(PS_NAME), opponent, 인목대비(PS_NAME))
+나아가 인목대비의 폐위 여론이 나도는 가운데 대북파의 이이첨 등에게 대항하여 '대비를 폐하면 인심을 잃을 것이니 대비를 구원하여 인심을 얻어야 한다.
+_	_	%SBJ%	_	_	_	_	%OBJ%의	_	_	대항	_	_
+true
+
+(러(LCP_COUNTRY), opponent, 영국(LCP_COUNTRY))
+러 ,일전쟁에서 러시아의 패세가 확실해지자 일본과 동맹을 맺은 영국에 대항하기
+_	_	%SBJ%	_	_	_	_	%OBJ%에	_	_	대항	_	_
+false
+
+(일본(LCP_COUNTRY), opponent, 영국(LCP_COUNTRY))
+러 ,일전쟁에서 러시아의 패세가 확실해지자 일본과 동맹을 맺은 영국에 대항하기
+_	_	%SBJ%와	_	_	_	_	%OBJ%에	_	_	대항	_	_
+false
+
+(영국(LCP_COUNTRY), opponent, 러(LCP_COUNTRY))
+러 ,일전쟁에서 러시아의 패세가 확실해지자 일본과 동맹을 맺은 영국에 대항하기
+_	_	%SBJ%에	_	_	_	_	%OBJ%	_	_	대항	_	_
+false
+
+(영국(LCP_COUNTRY), opponent, 러시아(LCP_COUNTRY))
+러 ,일전쟁에서 러시아의 패세가 확실해지자 일본과 동맹을 맺은 영국에 대항하기
+_	_	%SBJ%에	_	_	_	_	%OBJ%의	_	_	대항	_	_
+false
+
+(영국(LCP_COUNTRY), opponent, 일본(LCP_COUNTRY))
+러 ,일전쟁에서 러시아의 패세가 확실해지자 일본과 동맹을 맺은 영국에 대항하기
+_	_	%SBJ%에	_	_	_	_	%OBJ%와	_	_	대항	_	_
+false
+
+(정부(OGG_POLITICS), opponent, 정부(OGG_POLITICS))
+그러나 북한과 일본 정부는 한국 정부의 이러한 반대에도 불구하고 1959년 8월 13일 인도의 캘커타에서 '재일교포북송에 관한 협정'에 정식 조인했다.
+_	_	%SBJ%의	반대	_	_	_	%OBJ%는	_	_	_	_	_
+false
+
+(일제(LCP_COUNTRY), opponent, 이시종(PS_NAME))
+대왕면 시위운동을 주도한 이시종은 일제의 가혹한 부역과 세금에 반대하여 시위운동이 민중투쟁임을 명백하게 표출하였다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%는	_	_	반대	_	_
+true
+
+(무아위야 1세(PS_NAME), opponent, 이슬람교(OGG_RELIGION))
+칼리프 자리의 계승을 결정하기 위한 시핀 전투에서 그는 시리아 총독인 무아위야 1세를 편들어 이슬람교의 제4대 칼리프 알리와 맞섰다.
+_	_	%SBJ%를	_	_	_	_	%OBJ%의	_	_	맞서	_	_
+false
+
+(독일(LCP_COUNTRY), opponent, 프랑스(LCP_COUNTRY))
+독일과 우호관계를 유지하였으나, 90년대에는 독일과의 경제적 대립으로 프랑스와
+_	_	%SBJ%와	_	_	_	대립	%OBJ%와	_	_	_	_	_
+false
+
+(독일(LCP_COUNTRY), opponent, 프랑스(LCP_COUNTRY))
+독일과 우호관계를 유지하였으나, 90년대에는 독일과의 경제적 대립으로 프랑스와
+_	_	%SBJ%과의	대립	_	_	대립	%OBJ%와	_	_	_	_	_
+false
+
+(로마(LCP_COUNTRY), opponent, 이탈리아(LCP_COUNTRY))
+이 두 남자는 로마와 로마의 적이었던 이탈리아 중심부의 사비나와의 동맹을 뜻하는 것이었다.
+_	_	%SBJ%의	적	_	_	_	%OBJ%	_	_	_	_	_
+true
+
+(이탈리아(LCP_COUNTRY), opponent, 로마(LCP_COUNTRY))
+이 두 남자는 로마와 로마의 적이었던 이탈리아 중심부의 사비나와의 동맹을 뜻하는 것이었다.
+_	_	%SBJ%	_	_	_	_	%OBJ%의	적	_	_	_	_
+true
+
+(링컨(PS_NAME), opponent, 더글러스(PS_NAME))
+그는 1858년 동부 신문들에 링컨과 더글러스가 벌인 논쟁을 보도했고, 1859년에는 '신시내티 데일리 커머셜 Cincinnati Daily Commercial'지에 파이크스 산 골드러시를 보도했다.
+_	_	%SBJ%와	_	_	_	%SBJ%	%OBJ%가	_	_	_	논쟁	_
+true
+
+(카이사르(PS_NAME), opponent, 카토(PS_NAME))
+켄소르를 역임한 마르쿠스 포르키우스 카토의 증손자로 카이사르를 비롯한 권력가들에 맞서서 로마의 공화정을 수호하려고 애쓴 보수적인 원로원 귀족들의 지도자였다.
+_	_	%SBJ%를	_	_	_	_	%OBJ%의	_	_	맞서	_	_
+false
+
+(로마(LCP_COUNTRY), opponent, 카토(PS_NAME))
+켄소르를 역임한 마르쿠스 포르키우스 카토의 증손자로 카이사르를 비롯한 권력가들에 맞서서 로마의 공화정을 수호하려고 애쓴 보수적인 원로원 귀족들의 지도자였다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%의	_	맞서	_	_	_
+false
+
+(카이사르(PS_NAME), opponent, 카토(PS_NAME))
+카토의 반대에 부딪힌 폼페이우스,카이사르,크라수스는 이른바 제1차 삼두정이라 불리는 연합을 결성했다.
+반대	_	폼페이우스,%SBJ%,크라수스는	_	_	_	_	%OBJ%의	반대	_	_	_	_
+false
+
+(쉬제(PS_NAME), opponent, 앙리 보클레르크(PS_NAME))
+아당의 비서로서 쉬제는 영국왕 헨리 1세이자 정복왕 윌리엄의 아들인 노르망디의 앙리 보클레르크를 상대로 여러 외교적인 임무를 수행했다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%를	상대	_	_	_	_
+true
+
+(광복군(OGG_MILITARY), opponent, 일제(LCP_COUNTRY))
+또한 광복군을 조직해 제2차 세계 대전 당시 연합국의 일원으로서 일제에 대항하며 국내 침공 작전을 시도했다.
+_	_	%SBJ%를	_	_	_	_	%OBJ%에	_	_	대항	_	_
+true
+
+(일제(LCP_COUNTRY), opponent, 광복군(OGG_MILITARY))
+또한 광복군을 조직해 제2차 세계 대전 당시 연합국의 일원으로서 일제에 대항하며 국내 침공 작전을 시도했다.
+_	_	%SBJ%에	_	_	_	_	%OBJ%를	_	_	대항	_	_
+true
+
+(일제(LCP_COUNTRY), opponent, 연합국(OGG_MILITARY))
+또한 광복군을 조직해 제2차 세계 대전 당시 연합국의 일원으로서 일제에 대항하며 국내 침공 작전을 시도했다.
+_	_	%SBJ%에	_	_	_	_	%OBJ%의	_	_	대항	_	_
+true
+
+(신정회(PS_NAME), opponent, 이승만(PS_NAME))
+신정회의 김수선은 내각제개헌을 지지하였으나 이승만이 개헌안을 강력히 반대하면서 신정회는 전원이 대한국민당으로 통합하였다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%가	_	_	반대	_	_
+false
+
+(이승만(PS_NAME), opponent, 신정회(PS_NAME))
+신정회의 김수선은 내각제개헌을 지지하였으나 이승만이 개헌안을 강력히 반대하면서 신정회는 전원이 대한국민당으로 통합하였다.
+_	_	%SBJ%가	_	_	_	_	%OBJ%의	_	_	반대	_	_
+false
+
+(이승만(PS_NAME), opponent, 김수선(PS_NAME))
+신정회의 김수선은 내각제개헌을 지지하였으나 이승만이 개헌안을 강력히 반대하면서 신정회는 전원이 대한국민당으로 통합하였다.
+_	_	%SBJ%가	_	_	_	_	%OBJ%는	_	_	반대	_	_
+true
+
+(민주당(OGG_POLITICS), opponent, 휘그당(OGG_POLITICS))
+이 전쟁은 또한 정치적으로도 분란을 일으켜, 노예제도를 반대하던 휘그당이 민주당의 제임스 K.
+_	_	%SBJ%의	_	_	_	반대	%OBJ%가	_	_	_	_	_
+false
+
+(수구파(OGG_POLITICS), opponent, 독립협회(OGG_POLITICS))
+제국을 성립하기까지 서로 연합하였던 독립협회와 수구파는 정체 문제로 대립하였다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%와	_	_	대립	_	_
+true
+
+(웅정필(PS_NAME), opponent, 후금(LCP_COUNTRY))
+그런데 조정에서는 웅정필이 없으면 그 누가 후금에 대항할 수 있겠느냐며 의견이 분분했다.
+_	_	%SBJ%가	_	_	_	_	%OBJ%에	대항	_	_	_	_
+false
+
+(페르시아(LCP_COUNTRY), opponent, 마케도니아(LCP_COUNTRY))
+그러나 BC 333년 마케도니아의 알렉산드로스 대왕과 맞서 싸우던 페르시아의 멤논 제독이 해군기지로 이용한 뒤부터 다른 침략자들도 침략기지로 이용했다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%의	_	맞서	_	_	_
+true
+
+(미국(LCP_COUNTRY), opponent, 스페인(LCP_COUNTRY))
+1810년 배턴루지 구역에 살던 미국 개척인들이 스페인의 통치에 대항해서 반란을 일으켰으며, 나머지 지역은 곧 미시시피 준주의 일부가 되었다.
+_	_	%SBJ%	_	_	_	_	%OBJ%의	_	_	대항	_	_
+true
+
+(알렉스(PS_NAME), opponent, 베스(PS_NAME))
+그래서 알렉스와 베스는 잭과 지니의 사랑을 격렬하게 반대한다.
+_	_	%SBJ%와	_	_	_	%SBJ%	%OBJ%는	_	_	반대	_	_
+false
+
+(베스(PS_NAME), opponent, 알렉스(PS_NAME))
+그래서 알렉스와 베스는 잭과 지니의 사랑을 격렬하게 반대한다.
+_	%OBJ%	%SBJ%는	_	_	_	_	%OBJ%와	_	_	반대	_	_
+false
+
+(노론(OGG_POLITICS), opponent, 소론(OGG_POLITICS))
+이에 숙종은 노론과 소론의 대립을 조정하기 위해 탕평책을 처음 제기하였다.
+_	_	%SBJ%와	_	_	_	%SBJ%	%OBJ%의	_	_	대립	_	_
+true
+
+(소론(OGG_POLITICS), opponent, 노론(OGG_POLITICS))
+이에 숙종은 노론과 소론의 대립을 조정하기 위해 탕평책을 처음 제기하였다.
+_	%OBJ%	%SBJ%의	_	_	_	_	%OBJ%와	_	_	대립	_	_
+true
+
+(노론(OGG_POLITICS), opponent, 소론(OGG_POLITICS))
+그러나 오히려 노론과 소론의 극단적 대립이 심해져 갔다.
+_	_	%SBJ%와	_	_	_	%SBJ%	%OBJ%의	_	_	대립	_	_
+true
+
+(소론(OGG_POLITICS), opponent, 노론(OGG_POLITICS))
+그러나 오히려 노론과 소론의 극단적 대립이 심해져 갔다.
+_	%OBJ%	%SBJ%의	_	_	_	_	%OBJ%와	_	_	대립	_	_
+true

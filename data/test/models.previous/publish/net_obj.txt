@@ -1,0 +1,7 @@
+-1	AFWA_MUSIC	2
+1	AF_WORKS	5
+-1	FD_ART	2
+-1	OGG_MEDIA	16
+-1	PS_NAME	1
+#NET predefined through XB domain and range
+1	AFW_DOCUMENT	0

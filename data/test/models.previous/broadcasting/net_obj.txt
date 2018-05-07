@@ -1,0 +1,6 @@
+1	OGG_BUSINESS	3
+1	OGG_MEDIA	49
+#NET predefined through XB domain and range
+1	OGG_ART	0
+1	OGG_SCIENCE	0
+1	OGG_SPORTS	0

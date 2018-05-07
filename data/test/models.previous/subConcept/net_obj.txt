@@ -1,0 +1,2 @@
+1	FD_ART	7
+#NET predefined through XB domain and range

@@ -1,0 +1,2 @@
+1	OGG_BUSINESS	1
+#NET predefined through XB domain and range

@@ -1,0 +1,9 @@
+-1	AF_BUILDING	2
+1	AF_ROAD	194
+-1	LCG_ISLAND	2
+-1	LC_OTHERS	1
+-1	PS_NAME	1
+-1	QT_COUNT	1
+-1	QT_ORDER	2
+#NET predefined through XB domain and range
+-1	AF_BUILDING	0

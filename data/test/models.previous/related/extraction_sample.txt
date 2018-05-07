@@ -1,0 +1,250 @@
+(한국(LCP_COUNTRY), related, 오스트레일리아(LCP_COUNTRY))
+한국과 오스트레일리아의 관계
+_	_	%SBJ%와	_	_	_	%SBJ%	%OBJ%의	_	_	관계	_	_
+true
+
+(황달(TMM_DISEASE), related, 간(TM_CELL_TISSUE))
+또한 이 약을 포함한 비스테로이드성 소염진통제 투여로, 황달, 치명적 전격성 간염, 간괴사, 간부전을 포함한 중증의 간 관련 이상반응이 드물게 보고되었다.
+_	_	%SBJ%,	_	_	_	_	%OBJ%	관련	_	_	_	_
+true
+
+(코니(PS_NAME), related, 멜러즈(PS_NAME))
+그리고 이것을 그는 코니와 멜러즈의 관계를 통해 구체적으로 표현하고자 한다.
+_	_	%SBJ%와	_	_	_	%SBJ%	%OBJ%의	_	_	관계	_	_
+true
+
+(코니(PS_NAME), related, 멜러즈(PS_NAME))
+물론 코니와 멜러즈의 성적 관계에 대한 표현이 상당 부분 육체적 접촉의 경험에 대한 생생한 묘사로 이루어져 있는 것은 사실이다.
+_	_	%SBJ%와	_	_	_	%SBJ%	%OBJ%의	_	_	관계	_	_
+true
+
+(코니(PS_NAME), related, 멜러즈(PS_NAME))
+그러나 코니와 멜러즈의 관계는 전통적인 남녀관계와 다른 면모도 적지 않게 존재한다.
+_	_	%SBJ%와	_	_	_	%SBJ%	%OBJ%의	_	_	관계	_	_
+true
+
+(한국(LCP_COUNTRY), related, 카메룬(LCP_COUNTRY))
+한국과 카메룬의 관계
+_	_	%SBJ%와	_	_	_	%SBJ%	%OBJ%의	_	_	관계	_	_
+true
+
+(하나님(PS_MYTH), related, 하나님(PS_MYTH))
+성경에서는 하나님께 호의나 은혜 내려주시기를 간구하는 일 혹은 하나님과 관련하여 하나님을 예배하고 찬양하고 사랑하는 행위를 일컫는다.
+_	_	%SBJ%와	관련	_	_	_	%OBJ%를	_	_	_	_	_
+false
+
+(일본(LCP_COUNTRY), related, 러시아(LCP_COUNTRY))
+일본과 러시아의 관계에 대해 국외중립을 선언.
+_	_	%SBJ%와	_	_	_	%SBJ%	%OBJ%의	_	_	관계	_	_
+true
+
+(선교사(CV_OCCUPATION), related, 중국(LCP_COUNTRY))
+16~17세기에 중국을 방문한 서구 선교사들의 중국 관련 보고와 저술은 유럽인들의 중국 연구에 길잡이 역할을 하였다.
+_	_	%SBJ%들의	_	_	_	_	%OBJ%	관련	_	_	_	_
+true
+
+(한국(LCP_COUNTRY), related, 독일(LCP_COUNTRY))
+한국과 독일의 관계,
+_	_	%SBJ%와	_	_	_	%SBJ%	%OBJ%의	_	_	관계	_	_
+true
+
+(전봉준(PS_NAME), related, 진해(LCP_CITY))
+경상남도 창원시 진해 지역에서 전봉준과 관련하여 전해 내려오는 동요.
+_	_	%SBJ%와	_	_	_	_	%OBJ%	_	_	관련	_	_
+true
+
+(고려(LCP_COUNTRY), related, 여진족(CV_TRIBE))
+고려와 여진족의 관계는 어떠했나요
+_	_	%SBJ%와	_	_	_	%SBJ%	%OBJ%의	_	_	관계	_	_
+false
+
+(형(CV_RELATION), related, 동생(CV_RELATION))
+형과 동생의 관계를 맺자고 사절단을 보내 온 거야.
+_	_	%SBJ%와	_	_	_	%SBJ%	%OBJ%의	_	_	관계	_	_
+true
+
+(최치원(PS_NAME), related, 월영대(AF_CULTURAL_ASSET))
+최치원은 월영대와 관련된 설화로 회자되고 있으나 징험할 자료가 없다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%와	관련	_	_	_	_
+true
+
+(한국(LCP_COUNTRY), related, 스웨덴(LCP_COUNTRY))
+한국과 스웨덴의 관계
+_	_	%SBJ%와	_	_	_	%SBJ%	%OBJ%의	_	_	관계	_	_
+true
+
+(아토르바스타틴(PS_NAME), related, 환자(CV_POSITION))
+2) 위약 대조임상연구에 참여한 환자 중 아토르바스타틴과 관련한 가장 흔한 이상반응은 다음과 같다.
+_	_	%SBJ%와	_	_	_	_	%OBJ%	_	_	관련	_	_
+false
+
+(영주(CV_POSITION), related, 농민(CV_OCCUPATION))
+그러나 영주와 농민의 관계는 부정되지 않고 오히려 더욱 보호되었다.
+_	_	%SBJ%와	_	_	_	%SBJ%	%OBJ%의	_	_	관계	_	_
+true
+
+(황달(TMM_DISEASE), related, 간(TM_CELL_TISSUE))
+또한 이 약을 포함한 비스테로이드성 소염진통제 투여로, 황달, 치명적 전격성 간염, 간괴사, 간부전을 포함한 중증의 간 관련 이상반응이 드물게 보고되었다.
+_	_	%SBJ%,	_	_	_	_	%OBJ%	관련	_	_	_	_
+true
+
+(양수척(CV_POSITION), related, 창우(OGG_BUSINESS))
+양수척과 창우의 관계는 뿌리가 깊다.
+_	_	%SBJ%와	_	_	_	%SBJ%	%OBJ%의	_	_	관계	_	_
+true
+
+(한국(LCP_COUNTRY), related, 규슈(LCG_ISLAND))
+한국과 규슈의 관계
+_	_	%SBJ%와	_	_	_	%SBJ%	%OBJ%의	_	_	관계	_	_
+true
+
+(나폴리(LCP_CITY), related, 프랑스(LCP_COUNTRY))
+시에나는 밀라노, 나폴리, 프랑스와 외교 관계를 유지했으므로 시모네 마르티니는 나폴리의 앙주와 만났다가 1339년 아비뇽으로 떠났다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%와	관계	_	_	_	_
+true
+
+(황달(TMM_DISEASE), related, 간(TM_CELL_TISSUE))
+또한 이 약을 포함한 비스테로이드성 소염진통제 투여로, 황달, 치명적 전격성 간염, 간괴사, 간부전을 포함한 중증의 간 관련 이상반응이 드물게 보고되었다.
+_	_	%SBJ%,	_	_	_	_	%OBJ%	관련	_	_	_	_
+true
+
+(이스라엘(LCP_COUNTRY), related, 에돔(LCP_CITY))
+이 이야기는 이스라엘과 에돔의 관계를 반영하는 것으로, 에돔이 더 오래된 왕국이었음에도 통일왕국시대에 이스라엘의 지배를 받게된 데 대한 설명으로 보인다.
+_	_	%SBJ%와	_	_	_	%SBJ%	%OBJ%의	_	_	관계	_	_
+true
+
+(파킨슨병(TMM_DISEASE), related, 환자(CV_POSITION))
+4) 파킨슨병과 관련된 치매 환자를 대상으로 수행된 24주간 임상시험 기간 동안 보고된 이상반응은 다음과 같다.
+_	_	%SBJ%와	관련	_	_	_	%OBJ%를	_	_	_	_	_
+true
+
+(파킨슨병(TMM_DISEASE), related, 치매(TMM_DISEASE))
+9) 알츠하이머형 치매 및 파킨슨병과 관련된 치매는 운전 능력 또는 기계 조작 능력의 점진적인 저하를 유발시킬 수 있다.
+_	_	%SBJ%와	_	_	_	_	%OBJ%	_	_	관련	_	_
+true
+
+(신임옥사(EV_OTHERS), related, 노론(OGG_POLITICS))
+그 보다 이 책의 중심 내용은 신임옥사 이후 노론과 완소와의 관계사실로 이를 주로 담고 있다.
+_	_	%SBJ%	_	_	_	_	%OBJ%와	_	_	관계	_	_
+false
+
+(황달(TMM_DISEASE), related, 간(TM_CELL_TISSUE))
+또한 이 약을 포함한 비스테로이드성 소염진통제 투여로, 황달, 치명적 전격성 간염, 간괴사, 간부전을 포함한 중증의 간 관련 이상반응이 드물게 보고되었다.
+_	_	%SBJ%,	_	_	_	_	%OBJ%	관련	_	_	_	_
+true
+
+(방글라데시(LCP_COUNTRY), related, 영국(LCP_COUNTRY))
+방글라데시와 영국의 관계
+_	_	%SBJ%와	_	_	_	%SBJ%	%OBJ%의	_	_	관계	_	_
+true
+
+(황달(TMM_DISEASE), related, 간(TM_CELL_TISSUE))
+또한 이 약을 포함한 비스테로이드성 소염진통제 투여로, 황달, 치명적 전격성 간염, 간괴사, 간부전을 포함한 중증의 간 관련 이상반응이 드물게 보고되었다.
+_	_	%SBJ%,	_	_	_	_	%OBJ%	관련	_	_	_	_
+true
+
+(노르망디 상륙작전(EV_WAR_REVOLUTION), related, 제2차세계대전(EV_WAR_REVOLUTION))
+제2차세계대전 및 노르망디 상륙작전과 관련된 다양한 유물, 문헌, 모형 등을 전시하고 있다.
+_	_	%SBJ%와	_	_	_	_	%OBJ%	_	_	관련	_	_
+true
+
+(노르망디 상륙작전(EV_WAR_REVOLUTION), related, 연합군(OGG_MILITARY))
+제2차세계대전의 역사 및 전세를 독일에서 연합군 쪽으로 유리하게 역전시킨 노르망디 상륙작전과 관련된 유물, 문헌, 사진, 모형 등을 풍부하게 전시하고 있다.
+_	_	%SBJ%와	_	_	_	_	%OBJ%	_	_	관련	_	_
+true
+
+(황달(TMM_DISEASE), related, 간(TM_CELL_TISSUE))
+또한 이 약을 포함한 비스테로이드성 소염진통제 투여로, 황달, 치명적 전격성 간염, 간괴사, 간부전을 포함한 중증의 간 관련 이상반응이 드물게 보고되었다.
+_	_	%SBJ%,	_	_	_	_	%OBJ%	관련	_	_	_	_
+true
+
+(ADHD(TR_TECHNOLOGY), related, 뇌(TM_CELL_TISSUE))
+ADHD 및 기타 뇌 관련 상태의 치료원칙은 조절방식이기 때문에 장기적으로 치료 받아야 합니다.
+_	_	%SBJ%	_	_	_	_	%OBJ%	관련	_	_	_	_
+true
+
+(왕(CV_POSITION), related, 아들(CV_RELATION))
+Niels 왕의 후계 자리를 놓고 왕의 아들과 경쟁자 관계에 있었고 상대방 측근들에게 살해되었다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%와	관계	_	_	_	_
+true
+
+(경쟁자(CV_RELATION), related, 아들(CV_RELATION))
+Niels 왕의 후계 자리를 놓고 왕의 아들과 경쟁자 관계에 있었고 상대방 측근들에게 살해되었다.
+_	_	%SBJ%	_	_	_	_	%OBJ%와	_	_	관계	_	_
+false
+
+(만성질환(TMM_DISEASE), related, 대장암(TMM_DISEASE))
+최근에는 칼슘의 섭취부족으로 인한 영양문제로 골격질환, 순환기계질환, 고혈압, 동맥경화, 고지혈증, 대장암 등 각종 만성질환과 관련된 연구들이 진행되고 있다.
+_	_	%SBJ%와	_	_	_	_	%OBJ%	_	_	관련	_	_
+true
+
+(간질환(TMM_DISEASE), related, 간염(TMM_DISEASE))
+간질환 병력이 있는 환자나 간염과 관계있는 약물로 인해 위험이 증가할 수 있는 환자에는 관심을 기울여야 한다.
+_	_	%SBJ%	_	_	_	_	%OBJ%와	_	_	관계	_	_
+false
+
+(법성포(LC_OTHERS), related, 불교(OGG_RELIGION))
+이 밖에도 영광군의 법성포는 그 명칭 외에 '아무포'와 '부용포'라는 불교와 관련된 명칭을 가지고 있다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%와	관련	_	_	_	_
+true
+
+(전주(LCP_CITY), related, 전객(CV_POSITION))
+과전법의 내용은 토지분급에 관한 규정, 조세수취규정, 전주와 전객의 관계에 관한 규정 등이 중심을 이루고 있다.
+_	_	%SBJ%와	_	_	_	%SBJ%	%OBJ%의	_	_	관계	_	_
+true
+
+(황달(TMM_DISEASE), related, 간(TM_CELL_TISSUE))
+또한 이 약을 포함한 비스테로이드성 소염진통제 투여로, 황달, 치명적 전격성 간염, 간괴사, 간부전을 포함한 중증의 간 관련 이상반응이 드물게 보고되었다.
+_	_	%SBJ%,	_	_	_	_	%OBJ%	관련	_	_	_	_
+true
+
+(한국(LCP_COUNTRY), related, 일본(LCP_COUNTRY))
+1945년 태평양전쟁이 끝나기 직전 한국과 일본의 언론 및 출판 관계자들이 중심이 돼 결성한 친일단체로 줄여서 언론보국회라고 한다.
+_	_	%SBJ%와	_	_	_	%SBJ%	%OBJ%의	_	_	관계	_	_
+true
+
+(영국(LCP_COUNTRY), related, 캐나다(LCP_COUNTRY))
+총리로서 보든의 큰 관심사는 영국과 캐나다의 관계였다.
+_	_	%SBJ%와	_	_	_	%SBJ%	%OBJ%의	_	_	관계	_	_
+true
+
+(영국(LCP_COUNTRY), related, 캐나다(LCP_COUNTRY))
+보든의 첫번째 내각이 국내 문제에서 제대로 실적을 올리지 못한 원인의 일단은 그가 영국과 캐나다의 관계에 몰두한 데 있을지도 모른다.
+_	_	%SBJ%와	_	_	_	%SBJ%	%OBJ%의	_	_	관계	_	_
+true
+
+(스페인(LCP_COUNTRY), related, 포르투갈(LCP_COUNTRY))
+스페인과 포르투갈의 관계
+_	_	%SBJ%와	_	_	_	%SBJ%	%OBJ%의	_	_	관계	_	_
+true
+
+(리비아(LCP_COUNTRY), related, 튀니지(LCP_COUNTRY))
+리비아와 튀니지의 관계
+_	_	%SBJ%와	_	_	_	%SBJ%	%OBJ%의	_	_	관계	_	_
+true
+
+(황달(TMM_DISEASE), related, 간(TM_CELL_TISSUE))
+또한 이 약을 포함한 비스테로이드성 소염진통제 투여로, 황달, 치명적 전격성 간염, 간괴사, 간부전을 포함한 중증의 간 관련 이상반응이 드물게 보고되었다.
+_	_	%SBJ%,	_	_	_	_	%OBJ%	관련	_	_	_	_
+true
+
+(황달(TMM_DISEASE), related, 간(TM_CELL_TISSUE))
+또한 이 약을 포함한 비스테로이드성 소염진통제 투여로, 황달, 치명적 전격성 간염, 간괴사, 간부전을 포함한 중증의 간 관련 이상반응이 드물게 보고되었다.
+_	_	%SBJ%,	_	_	_	_	%OBJ%	관련	_	_	_	_
+true
+
+(강경(LCP_COUNTY), related, 군산(LCP_CITY))
+군산항 개항 초기인 1890년대에는 강경과 군산의 지리적 관계가 마치 서울과 인천, 평양과 남포의 그것에 비길 만큼 흡사하게 밀접하였다.
+_	_	%SBJ%와	_	_	_	%SBJ%	%OBJ%의	_	_	관계	_	_
+true
+
+(페그인터페론(TMM_DISEASE), related, 괴사성대장염(TMM_DISEASE))
+드물게 췌장염이 보고되었으며, 괴사성대장염 및 허혈성대장염이 페그인터페론과 관련하여 매우 드물게 보고되었다.
+_	_	%SBJ%와	_	_	_	_	%OBJ%	_	_	관련	_	_
+true
+
+(황달(TMM_DISEASE), related, 간(TM_CELL_TISSUE))
+또한 이 약을 포함한 비스테로이드성 소염진통제 투여로, 황달, 치명적 전격성 간염, 간괴사, 간부전을 포함한 중증의 간 관련 이상반응이 드물게 보고되었다.
+_	_	%SBJ%,	_	_	_	_	%OBJ%	관련	_	_	_	_
+true
+

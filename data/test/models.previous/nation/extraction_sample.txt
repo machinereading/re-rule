@@ -1,0 +1,209 @@
+(EU(OGG_POLITICS), nation, 이탈리아(LCP_COUNTRY))
+이탈리아와 대부분의 EU 국가들에게서 낮은 인플레이션 추세가 나타나면서, 이탈리아와 EU는 경제 위기에 이어 디플레이션 위험이 고조되고 있는 상황이다.
+_	_	%SBJ%	_	_	_	_	%OBJ%와	_	_	국가	_	_
+false
+
+(기독교(OGG_RELIGION), nation, 로마제국(LCP_COUNTRY))
+교권의 확립은 이렇게 로마제국을 명실상부하게 기독교 국가로 바꾸어 놓았다.
+_	_	%SBJ%	국가	_	_	_	%OBJ%를	_	_	_	_	_
+false
+
+(미륵(PS_MYTH), nation, 태봉(LCP_COUNTRY))
+태봉은 미륵의 나라가 되었습니다.
+_	_	%SBJ%의	나라	_	_	_	%OBJ%는	_	_	_	_	_
+true
+
+(김일성장군의 노래(AFWA_MUSIC), nation, 북한(LCP_COUNTRY))
+김원균은 북한의 국가인 '애국가'와 '김일성장군의 노래'를 작곡한 북한의 대표적인 음악가이다.
+_	_	%SBJ%'를	_	_	_	_	%OBJ%의	국가	_	_	_	_
+true
+
+(나치스(OGG_POLITICS), nation, 독일(LCP_COUNTRY))
+독일이라는 나라를 떠올릴 때, 히틀러와 나치스는 빠지지 않는 것 중 하나이다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%이라는	나라	_	_	_	_
+true
+
+(바덴(LCP_CITY), nation, 독일(LCP_COUNTRY))
+1924년 바이에른, 1929년 프로이센, 1932년 바덴, 1933년 독일 등의 국가와 정교 조약이 체결되었다.
+_	_	%SBJ%,	_	_	_	_	%OBJ%	_	국가	_	_	_
+false
+
+(그리스도교(OGG_RELIGION), nation, 독일(LCP_COUNTRY))
+중세말기의 독일에서 전해져 그리스도교 국가의 민중에게 환영받고 교회 밖으로 퍼진 전례행사.
+_	_	%SBJ%	국가	_	_	_	%OBJ%에서	_	_	_	_	_
+false
+
+(금산사(AF_CULTURAL_ASSET), nation, 남조선(LCP_COUNTRY))
+또한 '세계의 젖줄은 남조선이며 세계의 명당자리는 금산사, 문명개화의 국가가 삼천나라나 되고 도술문명이 세계를 뒤덮는다.
+_	_	%SBJ%,	국가	_	_	_	%OBJ%이며	_	_	_	_	_
+false
+
+(정부(OGG_POLITICS), nation, 독일(LCP_COUNTRY))
+보수 세력은 경제에 대한 정부의 통제가 미국을 공산주의의 소련이나 파시즘의 독일과 같은 전체주의 국가로 만들고 있다고 생각하였다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%와	_	국가	_	_	_
+false
+
+(대연림(PS_NAME), nation, 거란(LCP_COUNTRY))
+11세기초 거란의 동경요양부에서 발해인 대연림을 중심으로 일어난 나라.
+_	_	%SBJ%를	_	_	_	_	%OBJ%의	_	_	_	나라	_
+false
+
+(OECD(OGG_ECONOMY), nation, 미국(LCP_COUNTRY))
+또 OECD가 발표한 '고용보호' 수준을 보면, 영국은 1998년과 2003년 고용보호가 심하지 않기로 OECD 국가 가운데 미국 다음이다.
+_	_	%SBJ%	국가	_	_	_	%OBJ%	_	_	_	_	_
+false
+
+(로마(LCP_CAPITALCITY), nation, 로마(LCP_COUNTRY))
+처음에 이 명칭은 이탈리아뿐 아니라 로마 국가의 이름으로 로마 관리가 권한을 행사하는 모든 지역에 적용되었다.
+_	_	%SBJ%	_	_	_	_	%OBJ%	국가	_	_	_	_
+false
+
+(소림사(AF_CULTURAL_ASSET), nation, 중국(LCP_COUNTRY))
+등봉소림사는 중국 국가 5A급 관광풍경구이며, 2010년 유네스코로 세계문화유산으로 공포되었다.
+_	_	등봉%SBJ%는	_	_	_	_	%OBJ%	국가	_	_	_	_
+true
+
+(유네스코(OGG_POLITICS), nation, 중국(LCP_COUNTRY))
+중국 국가 5A급 관광풍경구이며 2000년 유네스코로부터 세계문화유산으로 공포되었다.
+_	_	%SBJ%로부터	_	_	_	_	%OBJ%	국가	_	_	_	_
+false
+
+(그리그(PS_NAME), nation, 노르웨이(LCP_COUNTRY))
+하지만 공부를 마친 후 고국으로 돌아간 그리그는 노르웨이 국가의 작곡가인 노르드라크를 만나면서 스칸디나비아 반도의 민속노래에 눈을 뜨게 된다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%	국가	_	_	_	_
+false
+
+(애국가(AFWA_MUSIC), nation, 대한민국(LCP_COUNTRY))
+대한민국 국가인 애국가를 작곡한 인물이다.
+%OBJ%	국가	%SBJ%를	_	_	_	_	%OBJ%	국가	_	_	_	_
+true
+
+(이슬람(OGG_RELIGION), nation, 이란(LCP_COUNTRY))
+이슬람 국가 가운데 이란의 경우 칼을 쥔 사자를 형상한 적사자 상징을 한때 썼으나, 국제적으로 인정 받지는 못했다.
+_	_	%SBJ%	국가	_	_	_	%OBJ%의	_	_	_	_	_
+false
+
+(이슬람권(OGG_RELIGION), nation, 이스라엘(LCP_COUNTRY))
+이스라엘은 이슬람권 국가와 마찬가지로 십자가를 인정하지 않는다.
+_	_	%SBJ%	국가	_	_	_	%OBJ%는	_	_	_	_	_
+false
+
+(바이에른(LCP_PROVINCE), nation, 독일(LCP_COUNTRY))
+창당한 지 얼마 안 되어 바이에른을 비롯한 남부 독일 국가들의 정치가들이 이 당의 핵심 세력으로 등장하게 되었다.
+_	_	%SBJ%를	_	_	_	_	%OBJ%	_	_	국가	_	_
+false
+
+(기마랑이스(OGG_SPORTS), nation, 포르투갈(LCP_COUNTRY))
+기마랑이스의 초기 역사는 12세기 포르투갈 국가의 정체성 확립, 그리고 포르투갈 언어와도 밀접한 관계가 있다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%	국가	_	_	_	_
+false
+
+(서양(LC_OTHERS), nation, 미국(LCP_COUNTRY))
+미국 등 서양 국가와의 수교도 검토하였다.
+_	_	%SBJ%	_	_	_	_	%OBJ%	_	_	국가	_	_
+false
+
+(형산(LCG_MOUNTAIN), nation, 중국(LCP_COUNTRY))
+일찍이 출가하였으며, 중국의 진나라로 유학을 떠나 그곳 형산에서 천태종 2대조인 혜사의 제자가 되어 선법을 배웠다.
+_	_	%SBJ%에서	_	_	_	_	%OBJ%의	나라	_	_	_	_
+true
+
+(혜사(PS_NAME), nation, 중국(LCP_COUNTRY))
+일찍이 출가하였으며, 중국의 진나라로 유학을 떠나 그곳 형산에서 천태종 2대조인 혜사의 제자가 되어 선법을 배웠다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%의	나라	_	_	_	_
+true
+
+(일리노이(LCP_PROVINCE), nation, 미국(LCP_COUNTRY))
+현재 일리노이 주정부와 각종 주 행정부가 주재하고 있으며 1985년에는 미국 국가지정 사적지에 등록되었다.
+_	_	%SBJ%	_	_	_	_	%OBJ%	국가	_	_	_	_
+false
+
+(정부(OGG_POLITICS), nation, 터키(LCP_COUNTRY))
+1900년대 초 러시아 정부는 민족분열정책 펼치며 상당수의 체첸 사람들을 살던 곳에서 추방해 터키 등 중동 이슬람 국가들로 강제 이주시켰다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%	_	국가	_	_	_
+false
+
+(이슬람(OGG_RELIGION), nation, 터키(LCP_COUNTRY))
+1900년대 초 러시아 정부는 민족분열정책 펼치며 상당수의 체첸 사람들을 살던 곳에서 추방해 터키 등 중동 이슬람 국가들로 강제 이주시켰다.
+_	_	%SBJ%	_	_	_	_	%OBJ%	_	_	국가	_	_
+false
+
+(우랄산맥(LCG_MOUNTAIN), nation, 러시아(LCP_COUNTRY))
+이로써 러시아는 우랄산맥까지 이르는 '커다란 다민족 국가'가 되었다.
+_	_	%SBJ%까지	_	국가	_	_	%OBJ%는	_	_	_	_	_
+true
+
+(위례성(AF_CULTURAL_ASSET), nation, 백제(LCP_COUNTRY))
+그리고 백제는 고구려의 시조 고주몽의 아들인 온조왕이 하남의 위례성을 도읍지로 하여 기원전 18년에 세운 나라입니다.
+_	_	%SBJ%를	_	_	_	_	%OBJ%는	_	_	_	나라	_
+true
+
+(올루세군 오바산조(PS_NAME), nation, 나이지리아(LCP_COUNTRY))
+국가원수급 교류로는 1982년 8월 전두환 대통령의 나이지리아 방문과 1985년 7월 올루세군 오바산조 전 국가수반의 방한을 꼽을 수 있다.
+_	_	%SBJ%	국가	_	_	_	%OBJ%	_	_	_	_	_
+false
+
+(전국인민대표대회(OGG_POLITICS), nation, 중국(LCP_COUNTRY))
+전국인민대표대회는 1954년 출범한 중국의 헌법상 최고 국가권력기관이다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%의	_	_	국가	_	_
+true
+
+(카스티야(LC_OTHERS), nation, 스페인(LCP_COUNTRY))
+1236년 카스티야의 왕 페르난도 3세에게 정복되어 그리스도교 국가인 스페인에 합병되었다.
+_	_	%SBJ%의	_	_	_	국가	%OBJ%에	_	_	_	_	_
+false
+
+(라인 강(LCG_RIVER), nation, 독일 제국(LCP_COUNTRY))
+이 때의 독일 제국은 라인 강 주변 국가들과 그 하구 지역까지 포함하고 있었다.
+_	_	%SBJ%	국가	_	_	_	%OBJ%는	_	_	_	_	_
+true
+
+(프로테스탄트(OGG_RELIGION), nation, 잉글랜드(LCP_COUNTRY))
+이들이 전문 기술을 지니고 떠났으므로 잉글랜드, 네덜란드, 덴마크 등 프랑스와 상업적으로 경쟁하는 프로테스탄트 국가가 이득을 보게 되었다.
+_	_	%SBJ%	_	_	_	_	%OBJ%,	_	_	국가	_	_
+false
+
+(프로테스탄트(OGG_RELIGION), nation, 네덜란드(LCP_COUNTRY))
+이들이 전문 기술을 지니고 떠났으므로 잉글랜드, 네덜란드, 덴마크 등 프랑스와 상업적으로 경쟁하는 프로테스탄트 국가가 이득을 보게 되었다.
+_	_	%SBJ%	_	_	_	_	%OBJ%,	_	_	국가	_	_
+false
+
+(프로테스탄트(OGG_RELIGION), nation, 덴마크(LCP_COUNTRY))
+이들이 전문 기술을 지니고 떠났으므로 잉글랜드, 네덜란드, 덴마크 등 프랑스와 상업적으로 경쟁하는 프로테스탄트 국가가 이득을 보게 되었다.
+_	_	%SBJ%	_	_	_	_	%OBJ%	_	_	국가	_	_
+false
+
+(프로테스탄트(OGG_RELIGION), nation, 프랑스(LCP_COUNTRY))
+이들이 전문 기술을 지니고 떠났으므로 잉글랜드, 네덜란드, 덴마크 등 프랑스와 상업적으로 경쟁하는 프로테스탄트 국가가 이득을 보게 되었다.
+_	_	%SBJ%	_	_	_	_	%OBJ%와	_	_	국가	_	_
+false
+
+(이슬람(OGG_RELIGION), nation, 튀니지(LCP_COUNTRY))
+이 정당의 목적은 튀니지를 이슬람 국가로 만드는 것으로, 당수 라쉬드 간누기는 알제리에 살면서 FIS의 지원을 받았음.National Front국민전선.
+_	_	%SBJ%	국가	_	_	_	%OBJ%를	_	_	_	_	_
+false
+
+(서방(LC_OTHERS), nation, 스웨덴(LCP_COUNTRY))
+스웨덴은 1940년까지 서방 국가들로부터 주요 전쟁 물자를 상당량 수입해 들여왔으나, 그중 몇 가지 품목은 충분하지 못하였다.
+_	_	%SBJ%	국가	_	_	_	%OBJ%는	_	_	_	_	_
+false
+
+(정부(OGG_POLITICS), nation, 프랑스(LCP_COUNTRY))
+프랑스,덴마크,독일,소련 등 유럽 국가에서는 오래전부터 정부와 시가 지역극단에 지원을 해왔다.
+_	_	%SBJ%와	_	_	_	_	%OBJ%,덴마크,독일,소련	_	국가	_	_	_
+false
+
+(정부(OGG_POLITICS), nation, 독일(LCP_COUNTRY))
+프랑스,덴마크,독일,소련 등 유럽 국가에서는 오래전부터 정부와 시가 지역극단에 지원을 해왔다.
+_	_	%SBJ%와	_	_	_	_	프랑스,덴마크,%OBJ%,소련	_	국가	_	_	_
+false
+
+(서구(LCP_COUNTY), nation, 한국(LCP_COUNTRY))
+한국은 서구적 교양 수요가 높은 나라인데, 이는 지금까지도 출판계 인문사회과학 분야에서 서양 번역서가 우위를 점하는 이유이기도 하다.
+_	_	%SBJ%적	_	_	_	_	%OBJ%는	_	_	나라	_	_
+false
+
+(코빌라이(PS_NAME), nation, 고려(LCP_COUNTRY))
+이후 고려는 코빌라이의 사위 국가로 등장하여 동아시아의 흐름을 주도하는 한 세력이 되었다.
+_	_	%SBJ%의	국가	_	_	_	%OBJ%는	_	_	_	_	_
+false

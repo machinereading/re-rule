@@ -1,0 +1,139 @@
+(대동강(LCG_RIVER), headedIn, 룡장골(LC_OTHERS))
+평안남도 대흥군 창현리 룡장골에서 발원하여 대동강으로 흘러드는 개울.
+_	_	%SBJ%으로	_	_	_	_	%OBJ%에서	발원	_	_	_	_
+false
+
+(노스타인강(LCG_RIVER), headedIn, 페나인산맥(LCG_MOUNTAIN))
+페나인산맥에서 발원하는 노스타인강 ,사우스타인강이 강어귀에서 약 50km 지점인
+_	_	%SBJ%	_	_	_	_	%OBJ%에서	발원	_	_	_	_
+true
+
+(사우스타인강(LCG_RIVER), headedIn, 페나인산맥(LCG_MOUNTAIN))
+페나인산맥에서 발원하는 노스타인강 ,사우스타인강이 강어귀에서 약 50km 지점인
+_	_	,%SBJ%이	_	_	_	_	%OBJ%에서	발원	_	_	_	_
+true
+
+(대교천(LCG_RIVER), headedIn, 삼봉산(LCG_MOUNTAIN))
+평안남도 문덕군 마산리 삼봉산에서 발원하여 대교천으로 흘러드는 개울.
+_	_	%SBJ%으로	_	_	_	_	%OBJ%에서	발원	_	_	_	_
+false
+
+(아마존강(LCG_RIVER), headedIn, 네바도미스미(LCG_RIVER))
+아마존강을 형성하는 유카얄리강과 만나는 아푸리마크강, 에네강, 탐보강이 발원하는 쿠스코산맥 남부 네바도미스미에서 발원하는 아마존강 상류이다.
+_	_	%SBJ%	_	_	_	_	%OBJ%에서	발원	_	_	_	_
+false
+
+(재령강(LCG_RIVER), headedIn, 은파천(LCG_RIVER))
+재령강의 지류 은파천은 멸악산에서 발원하여 인산읍을 거쳐 군의 중부로 흐른다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%는	_	_	발원	_	_
+false
+
+(은파천(LCG_RIVER), headedIn, 재령강(LCG_RIVER))
+재령강의 지류 은파천은 멸악산에서 발원하여 인산읍을 거쳐 군의 중부로 흐른다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%의	_	_	발원	_	_
+false
+
+(우현강(LCG_RIVER), headedIn, 구름골(LCG_RIVER))
+평안북도 운산군 상원리 동쪽 구름골에서 발원하여 우현강으로 흘러드는 개울.
+_	_	%SBJ%으로	_	_	_	_	%OBJ%에서	발원	_	_	_	_
+false
+
+(미호천(LCG_RIVER), headedIn, 대야리(LCP_COUNTY))
+윗대실 북쪽에는 삼형제고개와 쇠메기산[146m]이 있고 동북쪽에는 갈미봉[410m]이 있으며, 대야리에서 발원하는 대야천이 미호천으로 유입되고 있다.
+_	_	%SBJ%으로	_	_	_	_	%OBJ%에서	발원	_	_	_	_
+false
+
+(나이저 강(LCG_RIVER), headedIn, 기니(LCP_COUNTRY))
+나이저 강은 기니의 고지대에서 발원하여 북동쪽으로 흐른다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%의	_	_	발원	_	_
+true
+
+(대동강(LCG_RIVER), headedIn, 오강산(LCG_MOUNTAIN))
+평안남도 맹산군영봉과 양덕군 오강산에서 발원하여 평안남도 동부의 중앙을 서류하면서 대동강으로 흘러드는 강.
+_	_	%SBJ%으로	_	_	_	_	%OBJ%에서	발원	_	_	_	_
+false
+
+(남강(LCG_RIVER), headedIn, 황매산(LCG_MOUNTAIN))
+하천은 경호강이 군의 중앙을 양천과 황매산에서 발원하는 단계천이 군의 동부를 덕천강이 서부를 각각 남류하면서 남강으로 흘러 들어간다.
+_	_	%SBJ%으로	_	_	_	_	%OBJ%에서	발원	_	_	_	_
+false
+
+(갈곡천(LCG_RIVER), headedIn, 방장산(LCG_MOUNTAIN))
+신림저수지는 방장산에서 발원하는 갈곡천 상류를 막아 만든 평지형 저수지이다.
+_	_	%SBJ%	_	_	_	_	%OBJ%에서	발원	_	_	_	_
+true
+
+(대동강(LCG_RIVER), headedIn, 갈밭골(LCP_COUNTY))
+평안남도 개천시 외동리 갈밭골에서 발원하여 대동강으로 흘러드는 개울.
+_	_	%SBJ%으로	_	_	_	_	%OBJ%에서	발원	_	_	_	_
+false
+
+(낙동강(LCG_RIVER), headedIn, 구덕산(LCG_MOUNTAIN))
+하단포는 구덕산에서 발원하여 낙동강 하류로 흘러드는 괴정천 하구 일대의 포구로 바다 쪽에 자리하고 있다.
+_	_	%SBJ%	_	_	_	_	%OBJ%에서	발원	_	_	_	_
+false
+
+(괴정천(LCG_RIVER), headedIn, 구덕산(LCG_MOUNTAIN))
+하단포는 구덕산에서 발원하여 낙동강 하류로 흘러드는 괴정천 하구 일대의 포구로 바다 쪽에 자리하고 있다.
+_	_	%SBJ%	_	_	_	_	%OBJ%에서	발원	_	_	_	_
+true
+
+(진위천(LCG_RIVER), headedIn, 평택시(LCP_CITY))
+진위천은 평택시의 주천으로 용인시 부아산에서 발원하여 남류하다가 오산천,황구지천,관리천,좌교천 등 크고 작은 지류를 합하고 안성천과 합류한다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%의	_	_	발원	_	_
+false
+
+(대동강(LCG_RIVER), headedIn, 광대산(LCG_MOUNTAIN))
+평안남도 평성시 화포리 광대산에서 발원하여 대동강으로 흘러드는 개울.
+_	_	%SBJ%으로	_	_	_	_	%OBJ%에서	발원	_	_	_	_
+false
+
+(남한강(LCG_RIVER), headedIn, 오대산(LCG_MOUNTAIN))
+강원도 평창군 진부면 오대산에서 발원하여 남쪽으로 흘러 남한강으로 흘러드는 하천.
+_	_	%SBJ%으로	_	_	_	_	%OBJ%에서	발원	_	_	_	_
+false
+
+(한벌천(LCG_RIVER), headedIn, 가섭산(LCG_MOUNTAIN))
+비산천은 가섭산에서 발원한 한벌천 하류의 소이면 비산리 앞을 흐르는 하천으로 방죽안천,장자천,버들천 등의 소하천이 유입되고 있다.
+_	_	%SBJ%	_	_	_	_	%OBJ%에서	발원	_	_	_	_
+true
+
+(압록강(LCG_RIVER), headedIn, 가릉령(LCG_MOUNTAIN))
+평안북도 자성군 칠평면의 사랑봉과 가릉령에서 발원하여 자성군을 북류한 뒤 압록강으로 흘러드는 강.
+_	_	%SBJ%으로	_	_	_	_	%OBJ%에서	발원	_	_	_	_
+false
+
+(압록강(LCG_RIVER), headedIn, 풍산군(LCP_COUNTY))
+압록강은 읍의 북부를 남서류하며, 풍산군에서 발원한 허천강은 별동면에서 운룡천과 합류하여 읍의 서남부를 북류하다가 압록강으로 유입된다.
+_	_	%SBJ%으로	_	_	_	_	%OBJ%에서	발원	_	_	_	_
+false
+
+(청천강(LCG_RIVER), headedIn, 설주골(LCP_COUNTY))
+평안남도 개천시 삼봉동 설주골에서 발원하여 차동마을을 지나 청천강으로 흘러드는 개울.
+_	_	%SBJ%으로	_	_	_	_	%OBJ%에서	발원	_	_	_	_
+false
+
+(온천천(LCG_RIVER), headedIn, 금정산(LCG_MOUNTAIN))
+금정산과 계명봉에서 발원해 수영 하수 처리장 부근에서 수영강에 합류하는 온천천의 중하류 하곡을 따라 발달해 있다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%와	_	발원	_	_	_
+true
+
+(대룡천(LCG_RIVER), headedIn, 조평리(LCP_COUNTY))
+충청남도 공주시 신풍면 조평리에서 발원하여 대룡리에서 대룡천으로 유입되는 지방2급 하천.
+_	_	%SBJ%으로	_	_	_	_	%OBJ%에서	발원	_	_	_	_
+false
+
+(오수천(LCG_RIVER), headedIn, 팔공산(LCG_MOUNTAIN))
+이 하천은 진안군 백운면과 장수군 장수읍의 경계인 팔공산에서 발원하여 오수천, 요천 등을 합류하면서 전라남도로 흘러나간다.
+_	_	%SBJ%,	_	_	_	_	%OBJ%에서	발원	_	_	_	_
+false
+
+(요천(LCG_RIVER), headedIn, 팔공산(LCG_MOUNTAIN))
+이 하천은 진안군 백운면과 장수군 장수읍의 경계인 팔공산에서 발원하여 오수천, 요천 등을 합류하면서 전라남도로 흘러나간다.
+_	_	%SBJ%	_	_	_	_	%OBJ%에서	발원	_	_	_	_
+false
+
+(압록강(LCG_RIVER), headedIn, 가인봉(LCG_MOUNTAIN))
+평안북도 구성군 이현면의 가인봉에서 발원하여 압록강으로 흘러드는 하천.
+_	_	%SBJ%으로	_	_	_	_	%OBJ%에서	발원	_	_	_	_
+false

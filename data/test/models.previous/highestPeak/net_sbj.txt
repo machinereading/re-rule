@@ -1,0 +1,3 @@
+-1	LCG_ISLAND	4
+1	LCG_MOUNTAIN	8
+#NET predefined through XB domain and range

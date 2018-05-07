@@ -1,0 +1,4 @@
+1	OGG_BUSINESS	7
+-1	OGG_SPORTS	2
+#NET predefined through XB domain and range
+1	OGG_FOOD	0

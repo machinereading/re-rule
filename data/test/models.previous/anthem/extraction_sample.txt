@@ -1,0 +1,4 @@
+(대한민국(LCP_COUNTRY), anthem, 애국가(AFWA_MUSIC))
+대한민국 국가인 애국가를 작곡한 인물이다.
+_	_	%SBJ%	국가	_	%SBJ%	국가	%OBJ%를	_	_	_	_	_
+true

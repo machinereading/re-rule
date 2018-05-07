@@ -1,0 +1,5 @@
+1	PS_CHARACTER	1
+1	PS_NAME	27
+#NET predefined through XB domain and range
+-1	AF_MUSICAL_INSTRUMENT	0
+1	PS_NAME	0

@@ -1,0 +1,4 @@
+1	EV_OTHERS	2
+1	EV_WAR_REVOLUTION	88
+-1	LCP_COUNTRY	7
+#NET predefined through XB domain and range

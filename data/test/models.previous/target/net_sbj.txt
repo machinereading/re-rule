@@ -1,0 +1,2 @@
+1	AFWA_MOVIE	2
+#NET predefined through XB domain and range

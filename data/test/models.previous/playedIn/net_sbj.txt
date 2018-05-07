@@ -1,0 +1,3 @@
+1	AFWA_THEATRICALS	2
+-1	LCP_PROVINCE	1
+#NET predefined through XB domain and range

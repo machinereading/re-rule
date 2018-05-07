@@ -1,0 +1,6 @@
+-1	CV_TAX	1
+-1	MT_CHEMICAL	1
+1	PS_NAME	515
+-1	PT_GRASS	2
+#NET predefined through XB domain and range
+1	PS_NAME	0

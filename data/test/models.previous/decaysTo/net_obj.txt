@@ -1,0 +1,2 @@
+-1	QT_OTHERS	3
+#NET predefined through XB domain and range

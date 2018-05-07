@@ -1,0 +1,7 @@
+-1	EV_SPORTS	2
+1	OGG_BUSINESS	9
+-1	TR_TECHNOLOGY	1
+#NET predefined through XB domain and range
+1	OGG_ART	0
+1	OGG_SCIENCE	0
+1	OGG_SPORTS	0

@@ -1,0 +1,254 @@
+(조일신(PS_NAME), belongsTo, 원나라(LCP_COUNTRY))
+이후 조일신의 난을 평정하고, 배원 정책에 따라 원나라 속해 있던 압록강 서쪽의 8참을 공격하여 파사부 등 3참을 확보하였다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%	_	_	속하	_	_
+false
+
+(하안1동(LCP_COUNTY), belongsTo, 대한예수교장로회(OGG_RELIGION))
+경기도 광명시 하안1동에 있는 대한예수교장로회 소속의 교회.
+_	_	%SBJ%에	_	_	_	_	%OBJ%	소속	_	_	_	_
+false
+
+(대한예수교장로회(OGG_RELIGION), belongsTo, 하안1동(LCP_COUNTY))
+경기도 광명시 하안1동에 있는 대한예수교장로회 소속의 교회.
+_	_	%SBJ%	소속	_	_	_	%OBJ%에	_	_	_	_	_
+false
+
+(제주도(LCP_PROVINCE), belongsTo, 고려(LCP_COUNTRY))
+탐라국이었던 제주도는 938년에 고려에 소속되었고, 1211년에 탐라라는 이름을 제주로 바꾸었다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%에	_	_	소속	_	_
+true
+
+(제주(LCP_PROVINCE), belongsTo, 제주도(LCP_PROVINCE))
+탐라국이었던 제주도는 938년에 고려에 소속되었고, 1211년에 탐라라는 이름을 제주로 바꾸었다.
+_	_	%SBJ%로	_	_	_	_	%OBJ%는	소속	_	_	_	_
+true
+
+(동대면(LCP_COUNTY), belongsTo, 마산면(LCP_COUNTY))
+본래 황해도 해주군 동대면의 지역으로서, 1914년 행정구역 페합시에 평산군 룡산면 석사리와 평산군 마산면에 분리 편입되면서 페지되였다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%에	_	_	편입	_	_
+false
+
+(석사리(LCP_COUNTY), belongsTo, 동대면(LCP_COUNTY))
+본래 황해도 해주군 동대면의 지역으로서, 1914년 행정구역 페합시에 평산군 룡산면 석사리와 평산군 마산면에 분리 편입되면서 페지되였다.
+_	_	%SBJ%와	_	_	_	_	%OBJ%의	_	_	편입	_	_
+false
+
+(석사리(LCP_COUNTY), belongsTo, 마산면(LCP_COUNTY))
+본래 황해도 해주군 동대면의 지역으로서, 1914년 행정구역 페합시에 평산군 룡산면 석사리와 평산군 마산면에 분리 편입되면서 페지되였다.
+_	_	%SBJ%와	_	_	_	_	%OBJ%에	_	_	편입	_	_
+false
+
+(마산면(LCP_COUNTY), belongsTo, 동대면(LCP_COUNTY))
+본래 황해도 해주군 동대면의 지역으로서, 1914년 행정구역 페합시에 평산군 룡산면 석사리와 평산군 마산면에 분리 편입되면서 페지되였다.
+_	_	%SBJ%에	_	_	_	_	%OBJ%의	_	_	편입	_	_
+false
+
+(마산면(LCP_COUNTY), belongsTo, 석사리(LCP_COUNTY))
+본래 황해도 해주군 동대면의 지역으로서, 1914년 행정구역 페합시에 평산군 룡산면 석사리와 평산군 마산면에 분리 편입되면서 페지되였다.
+_	_	%SBJ%에	_	_	_	_	%OBJ%와	_	_	편입	_	_
+false
+
+(거문도(LCG_ISLAND), belongsTo, 영국(LCP_COUNTRY))
+1885년 3월 1일부터 1887년 2월 5일까지 영국이 러시아의 조선 진출을 견제하기 위해 거문도를 불법 점령한 사건.
+_	_	%SBJ%를	_	_	_	_	%OBJ%가	_	_	점령	_	_
+true
+
+(거문도(LCG_ISLAND), belongsTo, 러시아(LCP_COUNTRY))
+1885년 3월 1일부터 1887년 2월 5일까지 영국이 러시아의 조선 진출을 견제하기 위해 거문도를 불법 점령한 사건.
+_	_	%SBJ%를	_	_	_	_	%OBJ%의	_	_	점령	_	_
+false
+
+(거문도(LCG_ISLAND), belongsTo, 조선(LCP_COUNTRY))
+1885년 3월 1일부터 1887년 2월 5일까지 영국이 러시아의 조선 진출을 견제하기 위해 거문도를 불법 점령한 사건.
+_	_	%SBJ%를	_	_	_	_	%OBJ%	_	_	점령	_	_
+false
+
+(국학(FD_SOCIAL_SCIENCE), belongsTo, 이성공(PS_NAME))
+가세가 한미하였으나 어려서부터 총명하여 동경유수로 있던 좌복야 이성공의 천거로 국학에 입학하였다.
+_	_	%SBJ%에	_	_	_	_	%OBJ%의	_	_	입학	_	_
+false
+
+(남면(LCP_COUNTY), belongsTo, 석정(PS_NAME))
+남면에 속한 가레, 천곡, 석정의 세 개의 마을이었다.
+_	_	%SBJ%에	속하	_	_	_	%OBJ%의	_	_	_	_	_
+false
+
+(석정(PS_NAME), belongsTo, 남면(LCP_COUNTY))
+남면에 속한 가레, 천곡, 석정의 세 개의 마을이었다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%에	속하	_	_	_	_
+true
+
+(자강도(LCP_PROVINCE), belongsTo, 자강도(LCP_PROVINCE))
+1949년 1월 자강도가 신설될 때 평안북도 위원군이 자강도에 편입되었으며, 그해 10월 동이 리로 개편되었다.
+_	_	%SBJ%가	_	_	_	_	%OBJ%에	편입	_	_	_	_
+false
+
+(위원군(LCP_COUNTY), belongsTo, 자강도(LCP_PROVINCE))
+1949년 1월 자강도가 신설될 때 평안북도 위원군이 자강도에 편입되었으며, 그해 10월 동이 리로 개편되었다.
+_	_	%SBJ%가	편입	_	_	_	%OBJ%가	_	_	_	_	_
+true
+
+(위원군(LCP_COUNTY), belongsTo, 자강도(LCP_PROVINCE))
+1949년 1월 자강도가 신설될 때 평안북도 위원군이 자강도에 편입되었으며, 그해 10월 동이 리로 개편되었다.
+_	_	%SBJ%가	_	_	_	_	%OBJ%에	_	_	편입	_	_
+true
+
+(자강도(LCP_PROVINCE), belongsTo, 위원군(LCP_COUNTY))
+1949년 1월 자강도가 신설될 때 평안북도 위원군이 자강도에 편입되었으며, 그해 10월 동이 리로 개편되었다.
+_	_	%SBJ%에	_	_	_	_	%OBJ%가	_	_	편입	_	_
+false
+
+(자강도(LCP_PROVINCE), belongsTo, 동이 리(LCP_COUNTY))
+1949년 1월 자강도가 신설될 때 평안북도 위원군이 자강도에 편입되었으며, 그해 10월 동이 리로 개편되었다.
+_	_	%SBJ%에	편입	_	_	_	%OBJ%로	_	_	_	_	_
+false
+
+(동이 리(LCP_COUNTY), belongsTo, 자강도(LCP_PROVINCE))
+1949년 1월 자강도가 신설될 때 평안북도 위원군이 자강도에 편입되었으며, 그해 10월 동이 리로 개편되었다.
+_	_	%SBJ%로	_	_	_	_	%OBJ%에	편입	_	_	_	_
+true
+
+(을지로1가동(LC_OTHERS), belongsTo, 을지로(LCP_COUNTY))
+을지로1가동 동명은 을지로 일대를 분리 관할하면서 붙여진 이름이다.
+_	_	%SBJ%	_	_	_	_	%OBJ%	_	_	관할	_	_
+true
+
+(을지로(LCP_COUNTY), belongsTo, 을지로1가동(LC_OTHERS))
+을지로1가동 동명은 을지로 일대를 분리 관할하면서 붙여진 이름이다.
+_	_	%SBJ%	_	_	_	_	%OBJ%	_	_	관할	_	_
+false
+
+(신라(LCP_COUNTRY), belongsTo, 임실군(LCP_COUNTY))
+신라가 백제를 멸망시킨 이후 757년에 '마돌'이란 지명은 '마령'으로 바뀌어 청웅현과 함께 임실군에 소속되었다.
+_	_	%SBJ%가	_	_	_	_	%OBJ%에	_	_	소속	_	_
+false
+
+(청웅현(PS_NAME), belongsTo, 임실군(LCP_COUNTY))
+신라가 백제를 멸망시킨 이후 757년에 '마돌'이란 지명은 '마령'으로 바뀌어 청웅현과 함께 임실군에 소속되었다.
+_	_	%SBJ%와	_	_	_	_	%OBJ%에	_	_	소속	_	_
+true
+
+(임실군(LCP_COUNTY), belongsTo, 신라(LCP_COUNTRY))
+신라가 백제를 멸망시킨 이후 757년에 '마돌'이란 지명은 '마령'으로 바뀌어 청웅현과 함께 임실군에 소속되었다.
+_	_	%SBJ%에	_	_	_	_	%OBJ%가	_	_	소속	_	_
+true
+
+(월암리(LCP_COUNTY), belongsTo, 고창면(LCP_COUNTY))
+본래 고창군 천북면의 지역으로, 1914년 4월 1일 조선총독부령 제111호에 따라 월암리,수월리,포정리,운월리,검암리,계명리 일부가 병합되어 월암리가 되었고, 고창면에 편입되었다.
+_	_	%SBJ%가	_	_	_	_	%OBJ%에	_	_	편입	_	_
+true
+
+(고창면(LCP_COUNTY), belongsTo, 월암리(LCP_COUNTY))
+본래 고창군 천북면의 지역으로, 1914년 4월 1일 조선총독부령 제111호에 따라 월암리,수월리,포정리,운월리,검암리,계명리 일부가 병합되어 월암리가 되었고, 고창면에 편입되었다.
+_	_	%SBJ%에	_	_	_	_	%OBJ%가	_	_	편입	_	_
+false
+
+(로마제국(LCP_COUNTRY), belongsTo, 로마인(CV_TRIBE))
+기독교가 로마제국의 종교가 되면서 이제 예수의 죽음에 대해 로마인들을 비난하기 어렵게 되어 그 화살이 너무나도 쉽게 유대인들에게 돌아가기 시작했다.
+_	_	%SBJ%의	종교	_	_	_	%OBJ%들을	_	_	_	_	_
+false
+
+(예수(PS_NAME), belongsTo, 로마제국(LCP_COUNTRY))
+기독교가 로마제국의 종교가 되면서 이제 예수의 죽음에 대해 로마인들을 비난하기 어렵게 되어 그 화살이 너무나도 쉽게 유대인들에게 돌아가기 시작했다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%의	종교	_	_	_	_
+false
+
+(암브로시우스(PS_NAME), belongsTo, 밀라노(LCP_CITY))
+원래 암브로시우스는 밀라노를 포함한 주변지역의 집정관이었다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%를	포함	_	_	_	_
+true
+
+(밀라노(LCP_CITY), belongsTo, 암브로시우스(PS_NAME))
+원래 암브로시우스는 밀라노를 포함한 주변지역의 집정관이었다.
+_	_	%SBJ%를	포함	_	_	_	%OBJ%는	_	_	_	_	_
+false
+
+(로마제국(LCP_COUNTRY), belongsTo, 기독교(OGG_RELIGION))
+교권의 확립은 이렇게 로마제국을 명실상부하게 기독교 국가로 바꾸어 놓았다.
+_	_	%SBJ%를	_	_	_	_	%OBJ%	국가	_	_	_	_
+false
+
+(비잔틴제국(LCP_COUNTRY), belongsTo, 예루살렘(LCP_CAPITALCITY))
+비잔틴제국의 관할 아래 있던 예루살렘에 기독교를 믿는 로마인들이 대거 피난을 오면서 유대인들의 입지는 더욱 축소되었다.
+_	_	%SBJ%의	관할	_	_	_	%OBJ%에	_	_	_	_	_
+false
+
+(다대리(LCP_COUNTY), belongsTo, 부산부(LCP_COUNTY))
+마을이 속한 지역은 1910년 경상남도 동래군 사천면 다대리에서 부산부에 편입되었다가 1914년 행정 구역 개편에 따라 동래군 사하면 다대동이 되었다.
+_	_	%SBJ%에서	_	_	_	_	%OBJ%에	_	_	편입	_	_
+false
+
+(다대동(LCP_COUNTY), belongsTo, 부산부(LCP_COUNTY))
+마을이 속한 지역은 1910년 경상남도 동래군 사천면 다대리에서 부산부에 편입되었다가 1914년 행정 구역 개편에 따라 동래군 사하면 다대동이 되었다.
+_	_	%SBJ%가	_	_	_	_	%OBJ%에	편입	_	_	_	_
+true
+
+(부산직할시(LCP_CITY), belongsTo, 사하출장소(OGG_POLITICS))
+1975년 10월 부산직할시 직할 사하출장소 관할이 되었다.
+_	_	%SBJ%	_	_	_	_	%OBJ%	_	_	관할	_	_
+false
+
+(사하출장소(OGG_POLITICS), belongsTo, 부산직할시(LCP_CITY))
+1975년 10월 부산직할시 직할 사하출장소 관할이 되었다.
+_	_	%SBJ%	_	_	_	_	%OBJ%	_	_	관할	_	_
+true
+
+(달동(LCP_COUNTY), belongsTo, 목포시(LCP_CITY))
+목포시에 편입됨에 따라 목포시 달동이 되었으며, 1966년 1월 충무동회 관할이
+_	_	%SBJ%가	_	_	_	_	%OBJ%에	편입	_	_	_	_
+true
+
+(달동(LCP_COUNTY), belongsTo, 충무동회(OGG_POLITICS))
+목포시에 편입됨에 따라 목포시 달동이 되었으며, 1966년 1월 충무동회 관할이
+_	_	%SBJ%가	_	_	_	_	%OBJ%	_	_	관할	_	_
+false
+
+(충무동회(OGG_POLITICS), belongsTo, 목포시(LCP_CITY))
+목포시에 편입됨에 따라 목포시 달동이 되었으며, 1966년 1월 충무동회 관할이
+_	_	%SBJ%	_	_	_	_	%OBJ%에	편입	_	관할	_	_
+false
+
+(만리제1동(LC_OTHERS), belongsTo, 서울특별시(LCP_CAPITALCITY))
+1970년 5월 5일 서울특별시조례 제613호에 의해 만리동이 설치되어 만리제1동은 2동을 통합 관할하게 되었다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%조례	_	_	관할	_	_
+true
+
+(충무동회(OGG_POLITICS), belongsTo, 달동(LCP_COUNTY))
+목포시에 편입됨에 따라 목포시 달동이 되었으며, 1966년 1월 충무동회 관할이
+_	_	%SBJ%	_	_	_	_	%OBJ%가	_	_	관할	_	_
+false
+
+(만리동(LCP_COUNTY), belongsTo, 중구(LCP_COUNTY))
+1975년 10월 1일 대통령령 제7816호에 의해 전면적이고 대폭적인 구 , 동의 관할구역 재편이 이루어짐에 따라 만리동은 서대문구에서 중구로 편입되었다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%로	_	_	편입	_	_
+true
+
+(만리동(LCP_COUNTY), belongsTo, 중림동(LCP_COUNTY))
+1980년 7월 1일 서울특별시조례 제1413호에 의해 만리동이 폐동되어 중림동에 편입되었다.
+_	_	%SBJ%가	_	_	_	_	%OBJ%에	_	_	편입	_	_
+true
+
+(중림동(LCP_COUNTY), belongsTo, 서울특별시(LCP_CAPITALCITY))
+1980년 7월 1일 서울특별시조례 제1413호에 의해 만리동이 폐동되어 중림동에 편입되었다.
+_	_	%SBJ%에	_	_	_	_	%OBJ%조례	_	_	편입	_	_
+true
+
+(중림동(LCP_COUNTY), belongsTo, 만리동(LCP_COUNTY))
+1980년 7월 1일 서울특별시조례 제1413호에 의해 만리동이 폐동되어 중림동에 편입되었다.
+_	_	%SBJ%에	_	_	_	_	%OBJ%가	_	_	편입	_	_
+false
+
+(명활산군(LCP_COUNTY), belongsTo, 명활산(LCG_MOUNTAIN))
+통일기 돌방무덤의 한 분포지역인 명활산군에 속하며, 명활산의 구릉 중턱에 있다.
+_	_	%SBJ%에	속하	_	_	_	%OBJ%의	_	_	_	_	_
+false
+
+(명활산(LCG_MOUNTAIN), belongsTo, 명활산군(LCP_COUNTY))
+통일기 돌방무덤의 한 분포지역인 명활산군에 속하며, 명활산의 구릉 중턱에 있다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%에	속하	_	_	_	_
+true
+
+(블랙홀(TR_SCIENCE), belongsTo, 백조자리 X-1(TR_TECHNOLOGY))
+그렇지만 백조자리 X-1에 블랙홀이 포함돼 있는지에 대해서는 여러 해 동안 상당한 논란이 있었다.
+_	_	%SBJ%가	_	_	_	_	%OBJ%에	_	_	포함	_	_
+false

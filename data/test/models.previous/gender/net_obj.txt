@@ -1,0 +1,4 @@
+-1	CV_OCCUPATION	6
+-1	CV_POSITION	1
+1	CV_RELATION	555
+#NET predefined through XB domain and range

@@ -1,0 +1,2 @@
+1	LCG_MOUNTAIN	12
+#NET predefined through XB domain and range

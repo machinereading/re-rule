@@ -1,0 +1,19 @@
+(지주회사(OGG_BUSINESS), affiliatedOrganization, 모건개런티트러스트(OGG_ECONOMY))
+모건개런티트러스트는 지주회사의 자회사로 편입됐다.
+_	_	%SBJ%의	자회사	_	_	_	%OBJ%는	_	_	_	_	_
+true
+
+(T&D홀딩스(OGG_BUSINESS), affiliatedOrganization, 다이도생명보험(OGG_BUSINESS))
+다이도생명보험은 T&D홀딩스의 자회사로서 연금관리 부서와 유가증권 투자 부서가 있다.
+_	_	%SBJ%의	자회사	_	_	_	%OBJ%는	_	_	_	_	_
+true
+
+(한스컴(OGG_BUSINESS), affiliatedOrganization, MITRE사(OGG_BUSINESS))
+그 결과 매사추세츠 공과대학의 한스컴 팀과 자회사인 MITRE사가 공동 작업으로 세이지 시스템을 완성하였다.
+_	_	%SBJ%	_	_	_	자회사	%OBJ%가	_	_	_	_	_
+true
+
+(한국관광공사(OGG_BUSINESS), affiliatedOrganization, 그랜드코리아레저(OGG_BUSINESS))
+그랜드코리아레저는 한국관광공사의 자회사이다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%는	_	_	자회사	_	_
+true

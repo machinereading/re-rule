@@ -1,0 +1,4 @@
+1	EV_FESTIVAL	2
+1	EV_OTHERS	7
+-1	OGG_POLITICS	6
+#NET predefined through XB domain and range

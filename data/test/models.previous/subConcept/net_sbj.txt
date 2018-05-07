@@ -1,0 +1,3 @@
+-1	CV_POSITION	1
+1	FD_ART	858
+#NET predefined through XB domain and range

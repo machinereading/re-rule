@@ -1,0 +1,6 @@
+1	AFWA_ART_CRAFT	4
+-1	AFWA_MUSIC	1
+-1	AFWA_PROGRAM	1
+1	AF_WORKS	1
+#NET predefined through XB domain and range
+1	AFW_ART_CRAFT	0

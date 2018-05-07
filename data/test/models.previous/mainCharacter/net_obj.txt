@@ -1,0 +1,6 @@
+-1	LCP_COUNTY	1
+-1	OGG_BUSINESS	1
+1	PS_CHARACTER	1
+1	PS_NAME	19
+#NET predefined through XB domain and range
+1	PS_NAME	0

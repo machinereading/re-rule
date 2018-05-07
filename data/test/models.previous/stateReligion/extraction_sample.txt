@@ -1,0 +1,9 @@
+(키예프 공국(LCP_COUNTRY), stateReligion, 그리스 정교(OGG_RELIGION))
+비잔틴 제국의 수도인 콘스탄티노플을 중심으로 새로운 세력을 형성한 그리스 정교는 988년 성 블라디미르 대공이 통치하는 키예프 공국의 국교가 되었지요.
+_	_	%SBJ%의	국교	_	_	_	%OBJ%는	_	_	_	_	_
+true
+
+(로마제국(LCP_COUNTRY), stateReligion, 기독교(OGG_RELIGION))
+그는 392년에 기독교를 로마제국의 국교로 채택했다.
+_	_	%SBJ%의	국교	_	_	_	%OBJ%를	_	_	_	_	_
+true

@@ -1,0 +1,2 @@
+1	LCG_RIVER	229
+#NET predefined through XB domain and range

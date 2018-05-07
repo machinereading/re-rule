@@ -1,0 +1,4 @@
+-1	AM_BIRD	11
+-1	AM_MAMMALIA	12
+-1	AM_REPTILIA	32
+#NET predefined through XB domain and range

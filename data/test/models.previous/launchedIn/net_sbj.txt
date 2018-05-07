@@ -1,0 +1,4 @@
+-1	AF_BUILDING	1
+-1	EV_OTHERS	1
+-1	OGG_BUSINESS	1
+#NET predefined through XB domain and range

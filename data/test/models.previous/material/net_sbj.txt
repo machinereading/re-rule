@@ -1,0 +1,6 @@
+-1	AFWA_MOVIE	2
+1	AF_BUILDING	3
+-1	OGG_ART	3
+-1	PS_NAME	1
+-1	TM_SPORTS	1
+#NET predefined through XB domain and range

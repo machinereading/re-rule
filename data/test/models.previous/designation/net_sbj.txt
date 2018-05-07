@@ -1,0 +1,2 @@
+1	LCG_ISLAND	1
+#NET predefined through XB domain and range

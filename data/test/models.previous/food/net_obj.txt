@@ -1,0 +1,6 @@
+1	AM_AMPHIBIA	1
+1	AM_MAMMALIA	14
+1	AM_REPTILIA	1
+1	PT_FRUIT	1
+1	PT_OTHERS	3
+#NET predefined through XB domain and range

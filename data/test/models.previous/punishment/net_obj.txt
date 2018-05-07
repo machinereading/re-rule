@@ -1,0 +1,2 @@
+1	CVL_PENALTY	1
+#NET predefined through XB domain and range

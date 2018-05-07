@@ -1,0 +1,7 @@
+1	AFW_RELIGION	3
+1	AF_BUILDING	1
+1	AF_CULTURAL_ASSET	73
+1	AF_WORKS	2
+-1	CV_LANGUAGE	27
+-1	LC_OTHERS	2
+#NET predefined through XB domain and range

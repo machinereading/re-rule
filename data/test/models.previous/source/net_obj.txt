@@ -1,0 +1,6 @@
+-1	LCP_COUNTRY	7
+1	MTC_LIQUID	6
+1	MT_CHEMICAL	2
+1	MT_ROCK	6
+1	PT_GRASS	1
+#NET predefined through XB domain and range

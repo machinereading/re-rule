@@ -1,0 +1,5 @@
+(해군(OGG_MILITARY), mainlyLocatedIn, 묵호(LCP_COUNTY))
+1950년 6월 25일 새벽 5시김상도 소령이 함장인 해군함정은 해군 본부로부터 긴급출동 전문을 받고 묵호를 출항하여 북상하였다.
+_	_	%SBJ%	본부	_	_	_	%OBJ%를	_	_	_	_	_
+false
+

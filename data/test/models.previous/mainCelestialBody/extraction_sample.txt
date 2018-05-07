@@ -1,0 +1,15 @@
+(달(LC_SPACE), mainCelestialBody, 지구(LC_SPACE))
+달은 지구에서 가장 가까운 천체로, 지구 둘레를 도는 단 하나의 위성이다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%에서	_	천체	_	_	_
+false
+
+(지구(LC_SPACE), mainCelestialBody, 태양(LC_SPACE))
+확대되며, 지구 및 태양 기타 천체의 자기의 성인, 태양흑점, 우주선
+_	_	%SBJ%	_	_	_	_	%OBJ%	_	_	천체	_	_
+false
+
+(태양(LC_SPACE), mainCelestialBody, 지구(LC_SPACE))
+확대되며, 지구 및 태양 기타 천체의 자기의 성인, 태양흑점, 우주선
+_	_	%SBJ%	_	_	_	_	%OBJ%	_	_	천체	_	_
+false
+

@@ -1,0 +1,50 @@
+(멘델스존(PS_NAME), instrument, 피아노(AF_MUSICAL_INSTRUMENT))
+대개의 경우 피아노 반주가 붙었지만, 멘델스존의 '4개의 노래'는 아무런 반주가 붙지 않는 무반주 합창곡집이다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%	반주	_	_	_	_
+false
+
+(리 모건(PS_NAME), instrument, 트럼펫(AF_MUSICAL_INSTRUMENT))
+트럼펫 연주에 리 모건이, 피아노에 하롤드 마번 주니어가, 베이스에 래리 리들리, 드럼에 빌리 히긴스이 참여하였다.
+_	_	%SBJ%이,	_	_	_	_	%OBJ%	연주	_	_	_	_
+true
+
+(빌리 히긴스(PS_NAME), instrument, 트럼펫(AF_MUSICAL_INSTRUMENT))
+트럼펫 연주에 리 모건이, 피아노에 하롤드 마번 주니어가, 베이스에 래리 리들리, 드럼에 빌리 히긴스이 참여하였다.
+_	_	%SBJ%가	_	_	_	_	%OBJ%	연주	_	_	_	_
+false
+
+(게리(PS_NAME), instrument, 통기타(AF_MUSICAL_INSTRUMENT))
+이 곡은 누노의 통기타 반주에 어우러진 게리의 애절한 사랑노래가 잘 어울어져서 서정적인 이미지를 만들어내고 있다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%	반주	_	_	_	_
+false
+
+(월턴(PS_NAME), instrument, 바이올린(AF_MUSICAL_INSTRUMENT))
+연구된 바에 의하면, 월턴은 이 작품을 쓰는 과정에서 프로코피예프의 첫 번째 바이올린 협주곡을 청사진으로 삼았다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%	협주	_	_	_	_
+false
+
+(월턴(PS_NAME), instrument, 하프(AF_MUSICAL_INSTRUMENT))
+월턴은 1961년 관현악보를 교정하며 목관 부분을 축소하고 하프 연주를 넣었다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%	연주	_	_	_	_
+false
+
+(빌리 그린(PS_NAME), instrument, 색소폰(AF_MUSICAL_INSTRUMENT))
+프랭크 포스터가 테너 색소폰 연주에, 빌리 그린이 피아노 연주에 참여했다.
+_	_	%SBJ%가	_	_	_	_	%OBJ%	연주	_	_	_	_
+false
+
+(빌리 그린(PS_NAME), instrument, 피아노(AF_MUSICAL_INSTRUMENT))
+프랭크 포스터가 테너 색소폰 연주에, 빌리 그린이 피아노 연주에 참여했다.
+_	_	%SBJ%가	_	_	_	_	%OBJ%	연주	_	_	_	_
+true
+
+(쇼스타코비치(PS_NAME), instrument, 피아노(AF_MUSICAL_INSTRUMENT))
+곡은 레닌그라드 필하모닉 홀에서 쇼스타코비치 자신의 피아노 연주와 러시아의 ''a href="javascript:;" order="1" layer_id="32454752" txt="베토벤 4중주단 : 1923년 창단.
+_	_	%SBJ%	_	_	_	_	%OBJ%	_	_	연주	_	_
+true
+
+(카터(PS_NAME), instrument, 하프(AF_MUSICAL_INSTRUMENT))
+그러나 결국 그녀는 노래뿐만 아니라 카터의 상징적인 악기인 하프를 연주하는 법을 배웠다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%를	_	_	연주	_	_
+true
+

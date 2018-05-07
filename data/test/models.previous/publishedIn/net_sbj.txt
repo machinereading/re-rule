@@ -1,0 +1,6 @@
+-1	AFWA_LITERATURE	2
+-1	AFWA_MOVIE	2
+-1	AFWA_MUSIC	1
+1	AF_WORKS	13
+-1	PS_NAME	1
+#NET predefined through XB domain and range

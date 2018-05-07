@@ -1,0 +1,95 @@
+(영연방(OGG_MEDIA), member, 카메룬(LCP_COUNTRY))
+1960년 10월 영연방의 일원으로 독립하였으며, 1961년 북부 카메룬을 병합하고, 1963년 10월 북부,동부,서부,중서부의 4개 주로 구성된 연방 공화국을 선언하였다.
+_	_	%SBJ%의	일원	_	_	_	%OBJ%를	_	_	_	_	_
+false
+
+(주정부(OGG_POLITICS), member, 주정부(OGG_POLITICS))
+연방 검찰조직상 각 지방검사는 사실상 주정부의 행정부 일원이며, 주정부가 교체되면 지방검사도 바뀐다.
+_	_	%SBJ%의	일원	_	_	_	%OBJ%가	_	_	_	_	_
+false
+
+(세계성공회공동체(OGG_SOCIETY), member, 한국(LCP_COUNTRY))
+세계성공회공동체의 일원인 한국의 성공회 관구로서 1992년 새로운 헌장과 법규를 제정, 공포한 뒤 1993년 독립관구로 승격하였다.
+_	_	%SBJ%의	일원	_	_	_	%OBJ%의	_	_	_	_	_
+false
+
+(성공회(OGG_RELIGION), member, 세계성공회공동체(OGG_SOCIETY))
+세계성공회공동체의 일원인 한국의 성공회 관구로서 1992년 새로운 헌장과 법규를 제정, 공포한 뒤 1993년 독립관구로 승격하였다.
+_	_	%SBJ%	_	_	_	_	%OBJ%의	일원	_	_	_	_
+false
+
+(대하(OGG_ART), member, 신협(OGG_ECONOMY))
+1976년 극단 대하의 창단 멤버로 참여했고, 이후 극단 시민극장, 신협 등에 참여하며 1990년대까지 줄곧 무대에 섰다.
+_	_	%SBJ%의	멤버	_	_	_	%OBJ%	_	_	_	_	_
+false
+
+(스웨덴 과학아카데미(OGG_SCIENCE), member, 마이트너(PS_NAME))
+마이트너는 1945년에 스웨덴 과학아카데미의 외국인 회원이 되었으며 1949년에는 베를린 과학아카데미 회원으로 선출되었다.
+_	_	%SBJ%의	회원	_	_	_	%OBJ%는	_	_	_	_	_
+true
+
+(로마군(OGG_MILITARY), member, 요세푸스(PS_NAME))
+후에 요세푸스는 베스파시아누스의 아들이자 훗날 그를 계승하여 황제가 된 티투스가 이끄는 로마군의 일원으로 70년 예루살렘을 함락시키는 일에 가담했다.
+_	_	%SBJ%의	일원	_	_	_	%OBJ%는	_	_	_	_	_
+true
+
+(KOTRA(OGG_ECONOMY), member, 바이코리아(OGG_BUSINESS))
+KOTRA의 무역 포털사이트인 바이코리아는 KOTRA 홈페이지 회원이면 누구든지 사용이 가능하다.
+_	_	%SBJ%	_	_	_	_	%OBJ%는	_	_	회원	_	_
+false
+
+(연합국(OGG_MILITARY), member, 광복군(OGG_MILITARY))
+또한 광복군을 조직해 제2차 세계 대전 당시 연합국의 일원으로서 일제에 대항하며 국내 침공 작전을 시도했다.
+_	_	%SBJ%의	일원	_	_	_	%OBJ%를	_	_	_	_	_
+true
+
+(OECD(OGG_ECONOMY), member, 한국(LCP_COUNTRY))
+OECD 회원국 중 한국과 멕시코는 제외됐다.
+_	_	%SBJ%	회원	_	_	_	%OBJ%와	_	_	_	_	_
+true
+
+(OECD(OGG_ECONOMY), member, 멕시코(LCP_COUNTRY))
+OECD 회원국 중 한국과 멕시코는 제외됐다.
+_	_	%SBJ%	회원	_	_	_	%OBJ%는	_	_	_	_	_
+true
+
+(SK그룹(OGG_BUSINESS), member, SK주식회사(OGG_BUSINESS))
+SK그룹의 일원으로서, 그룹 지주회사인 SK주식회사 및 도시가스 사업 부문 지주회사인 SKE&S주식회사의 지배를 받고 있다.
+_	_	%SBJ%의	일원	_	_	_	%OBJ%	_	_	_	_	_
+false
+
+(SK그룹(OGG_BUSINESS), member, SKE&S주식회사(OGG_BUSINESS))
+SK그룹의 일원으로서, 그룹 지주회사인 SK주식회사 및 도시가스 사업 부문 지주회사인 SKE&S주식회사의 지배를 받고 있다.
+_	_	%SBJ%의	일원	_	_	_	%OBJ%의	_	_	_	_	_
+false
+
+(SK주식회사(OGG_BUSINESS), member, SK그룹(OGG_BUSINESS))
+SK그룹의 일원으로서, 그룹 지주회사인 SK주식회사 및 도시가스 사업 부문 지주회사인 SKE&S주식회사의 지배를 받고 있다.
+_	_	%SBJ%	_	_	_	_	%OBJ%의	일원	_	_	_	_
+false
+
+(아시아올림픽평의회(OGG_SPORTS), member, 북한(LCP_COUNTRY))
+북한을 포함해 아시아올림픽평의회 모든 회원국이 참가하는 이번 대회는 오는 10월4일까지 총 16일간 진행된다.
+_	_	%SBJ%	회원	_	_	_	%OBJ%를	_	_	_	_	_
+true
+
+(청정사(OGG_RELIGION), member, 김상림(PS_NAME))
+지통 원년 왕자 김상림을 따라 청정사의 일원으로 일본에 건너감.
+_	_	%SBJ%의	일원	_	_	_	%OBJ%를	_	_	_	_	_
+false
+
+(OCI그룹(OGG_BUSINESS), member, OCI주식회사(OGG_BUSINESS))
+OCI그룹의 일원으로 그룹 주력사인 OCI주식회사를 중심으로, 2009년 8월 기준 화학, 에너지, 건설 분야의 다양한 계열사를 가지고 있다.
+_	_	%SBJ%의	일원	_	_	_	%OBJ%를	_	_	_	_	_
+false
+
+(국제연합(OGG_POLITICS), member, 국제마약통제단(OGG_SOCIETY))
+국제마약통제단은 국제연합 회원국 중에서 경제사회이사회가 선출하는 개인 자격의 13개국 위원으로 구성되며, 임기는 5년이다.
+_	_	%SBJ%	회원	_	_	_	%OBJ%는	_	_	_	_	_
+true
+
+(UN(OGG_POLITICS), member, 한국(LCP_COUNTRY))
+회원국 가입대상은 UN 회원국이나 UN산하기구의 회원국이며, 현재 회원국은 한국을 포함한 88개국
+_	_	%SBJ%산하기구의	회원	_	_	_	%OBJ%를	_	_	_	_	_
+true
+

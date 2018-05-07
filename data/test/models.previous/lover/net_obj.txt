@@ -1,0 +1,7 @@
+-1	CV_POSITION	3
+-1	OGG_BUSINESS	6
+1	PS_ACTOR	2
+1	PS_MYTH	129
+1	PS_NAME	96
+1	PS_SINGER	3
+#NET predefined through XB domain and range

@@ -1,0 +1,5 @@
+1	LCG_BAY	1
+1	LCG_ISLAND	19
+1	LC_OTHERS	2
+#NET predefined through XB domain and range
+-1	TM_DIRECTION	0

@@ -1,0 +1,5 @@
+1	CV_FOOD	2
+1	MT_CHEMICAL	16
+1	MT_ELEMENT	2
+1	MT_METAL	5
+#NET predefined through XB domain and range

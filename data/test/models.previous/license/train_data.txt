@@ -1,0 +1,2 @@
+(GNU, GPL)	GPL(GNU General Public License)
+(GNU, GPL)	라이선스(GNU, GPL 등)

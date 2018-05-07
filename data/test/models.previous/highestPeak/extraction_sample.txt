@@ -1,0 +1,5 @@
+(쓰밍산 지맥(LCG_MOUNTAIN), highestPeak, 쉐다오산(LCG_MOUNTAIN))
+쉐다오산은 쓰밍산 지맥의 최고봉으로 해발 800m이며 쓰밍제일산이란 칭호를 지니고 있다.
+_	_	%SBJ%의	최고봉	_	_	_	%OBJ%는	_	_	_	_	_
+true
+

@@ -1,0 +1,2 @@
+-1	TM_DIRECTION	53
+#NET predefined through XB domain and range

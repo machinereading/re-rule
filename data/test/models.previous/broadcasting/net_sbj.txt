@@ -1,0 +1,8 @@
+1	AFWA_MOVIE	3
+1	AFWA_PROGRAM	18
+-1	OGG_MEDIA	216
+-1	OGG_SPORTS	1
+-1	PS_NAME	2
+-1	TI_DURATION	1
+-1	TMI_HW	1
+#NET predefined through XB domain and range

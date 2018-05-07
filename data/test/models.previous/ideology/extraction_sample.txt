@@ -1,0 +1,35 @@
+(헤스(PS_NAME), ideology, 인간주의(TR_PHILOSOPHY))
+헤스는 이렇게 해서 포이어바흐의 현실적 인간주의와 사회주의의 결합을 구상한다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%와	주의	_	_	_	_
+true
+
+(영국(LCP_COUNTRY), ideology, 실용주의(TR_PHILOSOPHY))
+사회의 필요성을 강조하면서 영국의 실용주의자 제러미 벤담의 개인주의적 접근방식과 실용주의 철학을 발전시켰다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%	_	_	철학	_	_
+false
+
+(제러미 벤담(PS_NAME), ideology, 실용주의(TR_PHILOSOPHY))
+사회의 필요성을 강조하면서 영국의 실용주의자 제러미 벤담의 개인주의적 접근방식과 실용주의 철학을 발전시켰다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%	_	_	철학	_	_
+true
+
+(구스타브 4세(PS_NAME), ideology, 계몽주의(TR_SOCIAL_SCIENCE))
+아버지가 살해된 동기가 계몽주의 혁명 사상에 자극을 받아 일어났기 때문에, 구스타브 4세는 무엇보다도 계몽주의 사상과 프랑스 혁명을 증오하게 되었다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%	사상	_	_	_	_
+false
+
+(나치스(OGG_POLITICS), ideology, 반유대주의(TR_SOCIAL_SCIENCE))
+나치스는 19세기 말엽, 당시 유럽에 펴져 있던 반유대주의, 백색 인종 지상주의, 제국주의 및 독일 민족 지상주의를 바탕으로 생겨났다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%,	주의	_	_	_	_
+true
+
+(나치스(OGG_POLITICS), ideology, 지상주의(TR_SOCIAL_SCIENCE))
+나치스는 19세기 말엽, 당시 유럽에 펴져 있던 반유대주의, 백색 인종 지상주의, 제국주의 및 독일 민족 지상주의를 바탕으로 생겨났다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%,	주의	_	_	_	_
+true
+
+(파스칼(PS_NAME), ideology, 합리주의(TR_PHILOSOPHY))
+파스칼의 영향을 받아 당시의 합리주의 철학
+_	_	%SBJ%의	_	_	_	_	%OBJ%	_	_	철학	_	_
+false
+

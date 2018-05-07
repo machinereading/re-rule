@@ -1,0 +1,5 @@
+(베르사유 조약(OGG_POLITICS), agent, 독일(LCP_COUNTRY))
+베르사유 조약이 체결될 당시 독일의 외무장관.
+_	_	%SBJ%가	_	_	_	_	%OBJ%의	_	_	장관	_	_
+false
+

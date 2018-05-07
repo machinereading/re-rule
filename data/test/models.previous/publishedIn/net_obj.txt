@@ -1,0 +1,5 @@
+1	LCP_CAPITALCITY	1
+1	LCP_CITY	1
+1	LCP_COUNTRY	19
+#NET predefined through XB domain and range
+-1	TM_DIRECTION	0

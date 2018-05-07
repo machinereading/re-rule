@@ -1,0 +1,4 @@
+1	AFWA_LITERATURE	3
+1	AFWA_MOVIE	1
+#NET predefined through XB domain and range
+1	AFW_DOCUMENT	0

@@ -1,0 +1,249 @@
+(전봉준(PS_NAME), relatedLocation, 진해(LCP_CITY))
+경상남도 창원시 진해 지역에서 전봉준과 관련하여 전해 내려오는 동요.
+_	_	%SBJ%와	_	_	_	_	%OBJ%	지역	_	_	_	_
+true
+
+(부산진구(LCP_COUNTY), relatedLocation, 부산광역시(LCP_CITY))
+부산광역시에서는 신시가지와 최근 개발된 지역보다는 중구와 동구, 부산진구 등 구도심 지역을 중심으로 범죄율이 높게 나타나는데, 이는 다른 대도시와 유사한 형태이다.
+_	_	%SBJ%	_	지역	_	_	%OBJ%에서는	_	_	_	_	_
+true
+
+(섬진강(LCG_RIVER), relatedLocation, 전라남도(LCP_PROVINCE))
+섬진강은 전라북도와 전라남도의 동부지역을 남류하여 경상남도 하동군과 전라남도 광양시 경계에서 남해로 흘러드는 강이다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%의	지역	_	_	_	_
+true
+
+(안암동(LCP_COUNTY), relatedLocation, 안암동5가(LCP_COUNTY))
+안암동5가 동명은 안암동 지역을 분리 관할하면서 붙여진 이름이다.
+_	_	%SBJ%	지역	_	_	_	%OBJ%	_	_	_	_	_
+true
+
+(전라남도(LCP_PROVINCE), relatedLocation, 전라북도(LCP_PROVINCE))
+섬진강은 전라북도와 전라남도의 동부지역을 남류하여 경상남도 하동군과 전라남도 광양시 경계에서 남해로 흘러드는 강이다.
+_	%OBJ%	%SBJ%의	_	_	_	_	%OBJ%와	_	_	지역	_	_
+true
+
+(광양시(LCP_CITY), relatedLocation, 전라남도(LCP_PROVINCE))
+섬진강은 전라북도와 전라남도의 동부지역을 남류하여 경상남도 하동군과 전라남도 광양시 경계에서 남해로 흘러드는 강이다.
+_	_	%SBJ%	_	_	_	_	%OBJ%의	지역	_	_	_	_
+false
+
+(효성(OGG_BUSINESS), relatedLocation, 고령(LCP_COUNTY))
+전국에 효행과 관련된 여타 이야기들과 크게 다르지 않으나 이곳 고령 지역에는 특히 효성과 관련된 이야기들이 많이 전승되고 있다.
+_	_	%SBJ%와	_	_	_	_	%OBJ%	지역	_	_	_	_
+true
+
+(플랑드르(LC_OTHERS), relatedLocation, 대서양(LCG_OCEAN))
+플랑드르 지역에서 출발한 네덜란드는 16세기 후반부터 1650년까지 대서양에서 해양 활동을 주도했다.
+_	_	%SBJ%	지역	_	_	_	%OBJ%에서	_	_	_	_	_
+false
+
+(펠리페 2세(PS_NAME), relatedLocation, 네덜란드(LCP_COUNTRY))
+프로테스탄트들의 저항에 놀란 펠리페 2세는 지중해 방면에서 오스만튀르크 제국의 군대와 대결했던 정예 병사들을 네덜란드 지역에 투입했다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%	지역	_	_	_	_
+false
+
+(네덜란드(LCP_COUNTRY), relatedLocation, 지중해(LCG_OCEAN))
+프로테스탄트들의 저항에 놀란 펠리페 2세는 지중해 방면에서 오스만튀르크 제국의 군대와 대결했던 정예 병사들을 네덜란드 지역에 투입했다.
+_	_	%SBJ%	지역	_	_	_	%OBJ%	_	_	_	_	_
+false
+
+(파르네세(PS_NAME), relatedLocation, 네덜란드(LCP_COUNTRY))
+파르네세는 가톨릭교도와 프로테스탄트 간의 갈등을 이용, 네덜란드 지역의 가톨릭교도들을 자기 편으로 끌어들였다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%	지역	_	_	_	_
+true
+
+(일제(LCP_COUNTRY), relatedLocation, 하동(LCP_COUNTY))
+1894년에서 1909년 사이 하동 지역에서 일제의 침략에 맞서 싸우기 위해 나섰던 자위군.
+_	_	%SBJ%의	_	_	_	_	%OBJ%	지역	_	_	_	_
+true
+
+(독일(LCP_COUNTRY), relatedLocation, 동독(LCP_COUNTRY))
+제2차 세계 대전에서 패한 독일은 포츠담 협정에 의해 미국,영국,프랑스가 관리하는 서독 지역과 소련이 관리하는 동독 지역으로 나뉜다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%	지역	_	_	_	_
+true
+
+(동독(LCP_COUNTRY), relatedLocation, 독일(LCP_COUNTRY))
+제2차 세계 대전에서 패한 독일은 포츠담 협정에 의해 미국,영국,프랑스가 관리하는 서독 지역과 소련이 관리하는 동독 지역으로 나뉜다.
+_	_	%SBJ%	지역	_	_	_	%OBJ%는	_	_	_	_	_
+true
+
+(동독(LCP_COUNTRY), relatedLocation, 소련(LCP_COUNTRY))
+제2차 세계 대전에서 패한 독일은 포츠담 협정에 의해 미국,영국,프랑스가 관리하는 서독 지역과 소련이 관리하는 동독 지역으로 나뉜다.
+_	_	%SBJ%	_	_	_	_	%OBJ%가	_	_	지역	_	_
+true
+
+(네오나치스(OGG_POLITICS), relatedLocation, 서독(LCP_COUNTRY))
+독일 네오나치스는 서독 지역보다는 동독 지역에서, 대도시보다는 소도시와 농촌 지역에서, 또 기성 세대보다는 젊은 세대에서 확산되고 있다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%	지역	_	_	_	_
+false
+
+(네오나치스(OGG_POLITICS), relatedLocation, 동독(LCP_COUNTRY))
+독일 네오나치스는 서독 지역보다는 동독 지역에서, 대도시보다는 소도시와 농촌 지역에서, 또 기성 세대보다는 젊은 세대에서 확산되고 있다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%	지역	_	_	_	_
+true
+
+(서독(LCP_COUNTRY), relatedLocation, 동독(LCP_COUNTRY))
+독일 네오나치스는 서독 지역보다는 동독 지역에서, 대도시보다는 소도시와 농촌 지역에서, 또 기성 세대보다는 젊은 세대에서 확산되고 있다.
+_	_	%SBJ%	지역	_	_	_	%OBJ%	지역	_	_	_	_
+false
+
+(동독(LCP_COUNTRY), relatedLocation, 서독(LCP_COUNTRY))
+독일 네오나치스는 서독 지역보다는 동독 지역에서, 대도시보다는 소도시와 농촌 지역에서, 또 기성 세대보다는 젊은 세대에서 확산되고 있다.
+_	_	%SBJ%	지역	_	_	_	%OBJ%	지역	_	_	_	_
+false
+
+(에콰도르(LCP_COUNTRY), relatedLocation, 콜롬비아(LCP_COUNTRY))
+콜롬비아와 에콰도르의 접경 지역에 있는 로스카티오스 국립공원과 아와 인디언 보호구역을 비롯한 중요한 지역들이 보호구역으로 꾸준히 지정되고 있다.
+_	%OBJ%	%SBJ%의	_	_	_	_	%OBJ%와	_	_	지역	_	_
+true
+
+(존 파크(PS_NAME), relatedLocation, 유타(LCP_PROVINCE))
+1860년대 후반 솔트레이크시티의 기업가인 데이비드 캘더와 유타 지역의 교육자였던 존 파크의 주도로 다시 문을 열었다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%	지역	_	_	_	_
+true
+
+(텍사스(LCP_PROVINCE), relatedLocation, 리오그란데 평원(LC_OTHERS))
+사우스 텍사스 지역 리오그란데 평원 지대에 속하며, 카운티 대부분이 평지로 이루어져 있다.
+_	_	%SBJ%	지역	_	_	_	%OBJ%	_	_	_	_	_
+true
+
+(군산(LCP_CITY), relatedLocation, 청송(LCP_COUNTY))
+조선 시대 군산 지역[옛 임피현]에 세거한 청송 심씨 집성촌.
+_	_	%SBJ%	지역	_	_	_	%OBJ%	_	_	_	_	_
+true
+
+(하북면(LCP_COUNTY), relatedLocation, 부곡리(LCP_COUNTY))
+부곡리는 장자벌, 장재밀, 부곡이라 하였으며, 임피군 하북면 지역이었는데, 부자가 살았다 해서 붙여진 이름이다.
+_	_	%SBJ%	_	_	_	_	%OBJ%는	_	_	지역	_	_
+true
+
+(하북면(LCP_COUNTY), relatedLocation, 장자벌(LCG_MOUNTAIN))
+부곡리는 장자벌, 장재밀, 부곡이라 하였으며, 임피군 하북면 지역이었는데, 부자가 살았다 해서 붙여진 이름이다.
+_	_	%SBJ%	_	_	_	_	%OBJ%,	_	_	지역	_	_
+true
+
+(하북면(LCP_COUNTY), relatedLocation, 장재밀(LCG_MOUNTAIN))
+부곡리는 장자벌, 장재밀, 부곡이라 하였으며, 임피군 하북면 지역이었는데, 부자가 살았다 해서 붙여진 이름이다.
+_	_	%SBJ%	_	_	_	_	%OBJ%,	_	_	지역	_	_
+true
+
+(리어드리버밸리라(LCG_RIVER), relatedLocation, 유콘준주(LCP_PROVINCE))
+유콘준주의 강 주변 지역을 리어드리버밸리라 부른다.
+_	_	%SBJ%	_	_	_	_	%OBJ%의	지역	_	_	_	_
+true
+
+(심동섭(PS_NAME), relatedLocation, 강릉(LCP_CITY))
+이러한 취지에 호응하여 강릉 지역에서도 1947년 6월 15일에 심동섭의 주재로 유도회 강릉지부 창립총회가 개최되었다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%	지역	_	_	_	_
+true
+
+(활어(CV_FOOD), relatedLocation, 동명마을(LCP_COUNTY))
+속초항과 인접해 있는 동명마을은 낚시 관광지로 유명하며, 활어 판매장과 횟집들이 많아 관광객과 식도락가들의 미각을 사로잡는 곳이다.
+_	_	%SBJ%	_	_	_	_	%OBJ%는	_	_	_	곳	_
+true
+
+(박새(PS_NAME), relatedLocation, 우수리(LCG_RIVER))
+박새는 아무르 계곡 중앙부, 우수리 지역, 만주, 한국, 중국 북부 및 서북부, 사할린, 쿠릴 열도 남부, 일본 등지에서 번식한다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%	지역	_	_	_	_
+true
+
+(푸드뱅크(OGG_BUSINESS), relatedLocation, 유럽(LCG_CONTINENT))
+푸드뱅크는 1967년 미국에서 처음 활동이 시작되어 현재는 캐나다, 유럽 지역에서 활발한 활동을 펼치고 있다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%	지역	_	_	_	_
+true
+
+(캐나다(LCP_COUNTRY), relatedLocation, 유럽(LCG_CONTINENT))
+푸드뱅크는 1967년 미국에서 처음 활동이 시작되어 현재는 캐나다, 유럽 지역에서 활발한 활동을 펼치고 있다.
+_	_	%SBJ%,	_	_	_	%SBJ%	%OBJ%	_	_	지역	_	_
+false
+
+(유럽(LCG_CONTINENT), relatedLocation, 미국(LCP_COUNTRY))
+푸드뱅크는 1967년 미국에서 처음 활동이 시작되어 현재는 캐나다, 유럽 지역에서 활발한 활동을 펼치고 있다.
+_	_	%SBJ%	지역	_	_	_	%OBJ%에서	_	_	_	_	_
+false
+
+(안강현(PS_NAME), relatedLocation, 안강읍(LCP_COUNTY))
+동남북의 산지로부터 흘러내린 많은 지류들이 안강읍 지역에 넓은 들을 만들어 옛날 안강현의 중심지가 들어설 수 있는 토대가 되었다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%	지역	_	_	_	_
+true
+
+(갈산리(LCP_COUNTY), relatedLocation, 갈산리(LCP_COUNTY))
+갈산리 유적이 자리한 서산시 운산면의 갈산리는 주변에 산지가 잘 발달되어 있고, 동쪽 전방에 '대방들천'이라는 하천이 남에서 북으로 흐르는 지역이다.
+_	_	%SBJ%	_	_	_	_	%OBJ%는	_	_	지역	_	_
+false
+
+(남송(LCP_COUNTRY), relatedLocation, 강서(LCP_COUNTY))
+그러나 남송은 임안을 점령당하였다 해도 복건, 절강, 강서의 일부 지역을 그대로 유지하고 있었으며, 문천상과 장세걸 등이 10여만의 군대를 지휘하고 있었다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%의	지역	_	_	_	_
+true
+
+(육군(OGG_MILITARY), relatedLocation, 한국(LCP_COUNTRY))
+일본 해군의 여순 공격과 육군의 인천 상륙을 통해 한국의 서울 등 주요 지역을 무력 점령하면서 러,일 전쟁이 개시되었다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%의	지역	_	_	_	_
+true
+
+(인천(LCP_CITY), relatedLocation, 한국(LCP_COUNTRY))
+일본 해군의 여순 공격과 육군의 인천 상륙을 통해 한국의 서울 등 주요 지역을 무력 점령하면서 러,일 전쟁이 개시되었다.
+_	_	%SBJ%	_	_	_	_	%OBJ%의	지역	_	_	_	_
+true
+
+(중국(LCP_COUNTRY), relatedLocation, 동아시아(LCG_CONTINENT))
+그래서 중국은 물론 한국 등 동아시아 지역에서 오랜 기간 동안 부자의 대명사처럼 여겨졌다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%	지역	_	_	_	_
+true
+
+(한국(LCP_COUNTRY), relatedLocation, 동아시아(LCG_CONTINENT))
+그래서 중국은 물론 한국 등 동아시아 지역에서 오랜 기간 동안 부자의 대명사처럼 여겨졌다.
+_	_	%SBJ%	_	_	_	_	%OBJ%	_	_	지역	_	_
+true
+
+(동아시아(LCG_CONTINENT), relatedLocation, 중국(LCP_COUNTRY))
+그래서 중국은 물론 한국 등 동아시아 지역에서 오랜 기간 동안 부자의 대명사처럼 여겨졌다.
+_	_	%SBJ%	지역	_	_	_	%OBJ%는	_	_	_	_	_
+true
+
+(동아시아(LCG_CONTINENT), relatedLocation, 한국(LCP_COUNTRY))
+그래서 중국은 물론 한국 등 동아시아 지역에서 오랜 기간 동안 부자의 대명사처럼 여겨졌다.
+_	_	%SBJ%	_	_	_	_	%OBJ%	_	_	지역	_	_
+true
+
+(부자(CV_RELATION), relatedLocation, 한국(LCP_COUNTRY))
+그래서 중국은 물론 한국 등 동아시아 지역에서 오랜 기간 동안 부자의 대명사처럼 여겨졌다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%	_	지역	_	_	_
+false
+
+(부자(CV_RELATION), relatedLocation, 동아시아(LCG_CONTINENT))
+그래서 중국은 물론 한국 등 동아시아 지역에서 오랜 기간 동안 부자의 대명사처럼 여겨졌다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%	지역	_	_	_	_
+false
+
+(영천면(LCP_COUNTY), relatedLocation, 영동면(LCP_COUNTY))
+본래 해주군 영동면의 지역이었는데, 1938년에 벽성군 영천면 공해리로 되었다가, 1952년 군면리 대폐합에 따라 청단군 장방리에 편입되면서 폐지되었다.
+_	_	%SBJ%	_	_	_	_	%OBJ%의	지역	_	_	_	_
+true
+
+(장방리(LCP_COUNTY), relatedLocation, 영동면(LCP_COUNTY))
+본래 해주군 영동면의 지역이었는데, 1938년에 벽성군 영천면 공해리로 되었다가, 1952년 군면리 대폐합에 따라 청단군 장방리에 편입되면서 폐지되었다.
+_	_	%SBJ%에	_	_	_	_	%OBJ%의	지역	_	_	_	_
+true
+
+(이병진(PS_NAME), relatedLocation, 간도(LC_OTHERS))
+1919년 3,1운동이후 간도 지역에 독립군 부대들이 결성되기 시작하자 이병진은 전의군중부 제1 이정국장으로 활동하였다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%	지역	_	_	_	_
+true
+
+(상선동(LCP_COUNTY), relatedLocation, 장연군 산정면(LCP_COUNTY))
+본래 장연군 산정면의 지역으로서 상선동 아래에 있는 마을이라 하여 하선동이라 하였는데, 1910년대 초에 설산면 선정리로 개편되면서 페지되였다.
+_	_	%SBJ%	_	_	_	_	%OBJ%의	지역	_	_	_	_
+false
+
+(그라츠(LCP_CITY), relatedLocation, 카린시아(LCP_CITY))
+마지막으로 게르만 정착민의 침공을 받았으며, 그로 인해 그라츠는 카린시아의 경계 지역에 포함되었다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%의	지역	_	_	_	_
+true
+
+(남강(LCG_RIVER), relatedLocation, 영수면(LCP_COUNTY))
+본래 강동군 영수면의 지역으로서 남강의 여울목을 낀 마을이라 하여 청탄동이라 하였다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%의	지역	_	_	_	_
+false

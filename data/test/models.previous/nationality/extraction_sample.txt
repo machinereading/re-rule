@@ -1,0 +1,10 @@
+(슈바이처(PS_NAME), nationality, 독일(LCP_COUNTRY))
+1차 세계대전에 휘말리면서 독일 국적이었던 슈바이처는 전쟁 포로가 돼 프랑스 수용소에 갇히기도 했다.
+%OBJ%	국적	%SBJ%는	_	_	_	_	%OBJ%	국적	_	_	_	_
+true
+
+(슈바이처(PS_NAME), nationality, 프랑스(LCP_COUNTRY))
+1차 세계대전에 휘말리면서 독일 국적이었던 슈바이처는 전쟁 포로가 돼 프랑스 수용소에 갇히기도 했다.
+_	국적	%SBJ%는	_	_	_	_	%OBJ%	_	_	_	_	_
+false
+

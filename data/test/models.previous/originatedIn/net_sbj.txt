@@ -1,0 +1,6 @@
+-1	CV_LANGUAGE	3
+-1	DT_DYNASTY	1
+1	LCP_COUNTRY	2
+-1	TR_ART	4
+-1	TR_SOCIAL_SCIENCE	1
+#NET predefined through XB domain and range

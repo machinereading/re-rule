@@ -1,0 +1,6 @@
+1	AFWA_LITERATURE	2
+1	AFWA_MUSIC	8
+-1	LCP_COUNTY	1
+1	OGG_RELIGION	1
+1	PS_NAME	1
+#NET predefined through XB domain and range

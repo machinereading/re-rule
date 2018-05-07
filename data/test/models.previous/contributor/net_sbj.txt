@@ -1,0 +1,5 @@
+1	FD_PHILOSOPHY	57
+1	FD_SCIENCE	15
+1	TR_PHILOSOPHY	3
+1	TR_SCIENCE	11
+#NET predefined through XB domain and range

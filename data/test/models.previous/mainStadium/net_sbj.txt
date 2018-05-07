@@ -1,0 +1,8 @@
+-1	AF_BUILDING	2
+1	EV_SPORTS	1
+-1	LCP_CAPITALCITY	1
+-1	LCP_CITY	2
+-1	LC_OTHERS	1
+-1	LC_TOUR	1
+-1	OGG_SPORTS	14
+#NET predefined through XB domain and range

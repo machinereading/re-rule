@@ -1,0 +1,2 @@
+1	TMM_DISEASE	10
+#NET predefined through XB domain and range

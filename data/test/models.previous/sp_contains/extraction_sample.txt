@@ -1,0 +1,268 @@
+(마그달레나(LCP_CITY), sp_contains, 카우카 강(LCG_RIVER))
+주요 지류인 카우카 강을 포함하여 마그달레나 수계 전체가 콜롬비아 영토 안에 있다.
+_	_	%SBJ%	_	_	_	_	%OBJ%를	포함	_	_	_	_
+true
+
+(콜롬비아(LCP_COUNTRY), sp_contains, 카우카 강(LCG_RIVER))
+주요 지류인 카우카 강을 포함하여 마그달레나 수계 전체가 콜롬비아 영토 안에 있다.
+_	_	%SBJ%	_	_	_	_	%OBJ%를	포함	_	_	_	_
+true
+
+(아루바섬(LCG_ISLAND), sp_contains, 앤틸리스제도(LCG_ISLAND))
+식민지인 아루바섬과 카리브해의 네덜란드령 앤틸리스제도를 포함한다.
+_	_	%SBJ%와	_	_	_	_	%OBJ%를	_	_	포함	_	_
+false
+
+(히말라야산맥(LCG_MOUNTAIN), sp_contains, 북부 아프리카(LCG_CONTINENT))
+북아메리카 남부와 아이슬란드, 히말라야산맥을 포함한 유라시아 북부, 사하라사막의 북부 아프리카에 많이 서식한다.
+_	_	%SBJ%를	포함	_	_	_	%OBJ%에	_	_	_	_	_
+false
+
+(북부 아프리카(LCG_CONTINENT), sp_contains, 히말라야산맥(LCG_MOUNTAIN))
+북아메리카 남부와 아이슬란드, 히말라야산맥을 포함한 유라시아 북부, 사하라사막의 북부 아프리카에 많이 서식한다.
+_	_	%SBJ%에	_	_	_	_	%OBJ%를	포함	_	_	_	_
+false
+
+(한국(LCP_COUNTRY), sp_contains, 동해(LCG_OCEAN))
+한국(울릉도를 포함한 동해, 남해, 서해안)
+_	_	%SBJ%(울릉도를	포함	_	_	_	%OBJ%,	_	_	_	_	_
+true
+
+(한국(LCP_COUNTRY), sp_contains, 남해(LCG_OCEAN))
+한국(울릉도를 포함한 동해, 남해, 서해안)
+_	_	%SBJ%(울릉도를	포함	_	_	_	%OBJ%,	_	_	_	_	_
+true
+
+(한국(LCP_COUNTRY), sp_contains, 서해안(LC_OTHERS))
+한국(울릉도를 포함한 동해, 남해, 서해안)
+_	_	%SBJ%(울릉도를	포함	_	_	_	%OBJ%)	_	_	_	_	_
+true
+
+(경남지역(LCP_PROVINCE), sp_contains, 함안(LCP_COUNTY))
+경주지역에서 출토된 도질토기, 특히 고배는 함안을 포함한 서부 경남지역의 토기와 비슷하여, 이 지역의 토기에 묶어서 함안양식 토기로 이해하는 견해도 있다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%를	포함	_	_	_	_
+true
+
+(이탈리아(LCP_COUNTRY), sp_contains, 시칠리아 섬(LCG_ISLAND))
+시칠리아 섬을 포함한 이탈리아, 영국, 체코슬로바키아, 미국과 캐나다에서도 발견된다.
+_	_	%SBJ%,	_	_	_	_	%OBJ%를	포함	_	_	_	_
+true
+
+(영국(LCP_COUNTRY), sp_contains, 시칠리아 섬(LCG_ISLAND))
+시칠리아 섬을 포함한 이탈리아, 영국, 체코슬로바키아, 미국과 캐나다에서도 발견된다.
+_	_	%SBJ%,	_	_	_	_	%OBJ%를	포함	_	_	_	_
+false
+
+(체코슬로바키아(LCP_COUNTRY), sp_contains, 시칠리아 섬(LCG_ISLAND))
+시칠리아 섬을 포함한 이탈리아, 영국, 체코슬로바키아, 미국과 캐나다에서도 발견된다.
+_	_	%SBJ%,	_	_	_	_	%OBJ%를	포함	_	_	_	_
+false
+
+(미국(LCP_COUNTRY), sp_contains, 시칠리아 섬(LCG_ISLAND))
+시칠리아 섬을 포함한 이탈리아, 영국, 체코슬로바키아, 미국과 캐나다에서도 발견된다.
+_	_	%SBJ%와	_	_	_	_	%OBJ%를	포함	_	_	_	_
+false
+
+(동해안(LC_OTHERS), sp_contains, 울릉도(LCG_ISLAND))
+우리나라에서는 울릉도를 포함하여 동해안과 남해안 및 서해안의 연안 및 기수역에 서식하며, 국외에서는 일본과 연해주 등에 분포한다.
+_	_	%SBJ%와	_	_	_	_	%OBJ%를	포함	_	_	_	_
+false
+
+(남해안(LC_OTHERS), sp_contains, 울릉도(LCG_ISLAND))
+우리나라에서는 울릉도를 포함하여 동해안과 남해안 및 서해안의 연안 및 기수역에 서식하며, 국외에서는 일본과 연해주 등에 분포한다.
+_	_	%SBJ%	_	_	_	_	%OBJ%를	포함	_	_	_	_
+false
+
+(서해안(LC_OTHERS), sp_contains, 울릉도(LCG_ISLAND))
+우리나라에서는 울릉도를 포함하여 동해안과 남해안 및 서해안의 연안 및 기수역에 서식하며, 국외에서는 일본과 연해주 등에 분포한다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%를	포함	_	_	_	_
+false
+
+(연해주(LC_OTHERS), sp_contains, 울릉도(LCG_ISLAND))
+우리나라에서는 울릉도를 포함하여 동해안과 남해안 및 서해안의 연안 및 기수역에 서식하며, 국외에서는 일본과 연해주 등에 분포한다.
+_	_	%SBJ%	_	_	_	_	%OBJ%를	포함	_	_	_	_
+false
+
+(서인도(LCP_COUNTRY), sp_contains, 마다가스카르(LCP_COUNTRY))
+정향나무의 원산지는 몰루카섬이지만, 오늘날에는 서인도, 잔지바와 마다가스카르를 포함한 몇몇 곳에서 재배된다.
+_	_	%SBJ%,	_	_	_	_	%OBJ%를	포함	_	_	_	_
+false
+
+(잔지바(LCP_COUNTRY), sp_contains, 마다가스카르(LCP_COUNTRY))
+정향나무의 원산지는 몰루카섬이지만, 오늘날에는 서인도, 잔지바와 마다가스카르를 포함한 몇몇 곳에서 재배된다.
+_	_	%SBJ%와	_	_	_	%SBJ%	%OBJ%를	_	_	포함	_	_
+false
+
+(바빌로니아(LCP_COUNTRY), sp_contains, 아시리아(LCP_COUNTRY))
+아시리아를 포함한 바빌로니아 신화에 관하여 오늘날 알 수 있는 것은 주로 아시리아
+_	_	%SBJ%	_	_	_	_	%OBJ%를	포함	_	_	_	_
+true
+
+(상백도(LCG_ISLAND), sp_contains, 하백도(LCG_ISLAND))
+제7호로 상백도와 하백도를 포함한  무인군도로 되어 있지만  깎아지른 듯한 절벽에
+_	_	%SBJ%와	_	_	_	%SBJ%	%OBJ%를	_	_	포함	_	_
+false
+
+(남송(LCP_COUNTRY), sp_contains, 금마면(LCP_COUNTY))
+금마면은 사금이 많이 나온다고 하여 붙여진 이름으로 남송을 포함하여 57개의 자연 마을로 구성되었다.
+_	_	%SBJ%를	_	_	_	_	%OBJ%는	_	_	포함	_	_
+false
+
+(미국(LCP_COUNTRY), sp_contains, 한국(LCP_COUNTRY))
+반면 미국은 원사를 포함해 생산부터 최종 제품까지 모든 과정이 한국에서 이뤄져야 한국산으로 인정해 무관세 혜택을 준다는 `얀 포워드` 방식을 주장했다.
+_	_	%SBJ%는	포함	_	_	_	%OBJ%에서	_	_	_	_	_
+false
+
+(미국(LCP_COUNTRY), sp_contains, 한국(LCP_COUNTRY))
+반면 미국은 원사를 포함해 생산부터 최종 제품까지 모든 과정이 한국에서 이뤄져야 한국산으로 인정해 무관세 혜택을 준다는 `얀 포워드` 방식을 주장했다.
+_	_	%SBJ%는	포함	_	_	_	%OBJ%산으로	_	_	_	_	_
+false
+
+(중앙아메리카(LCG_CONTINENT), sp_contains, 서인도제도(LCG_ISLAND))
+그러나 경우에 따라서는 중앙아메리카와 그 동쪽에 가로 놓인 서인도제도를 북아메리카에 포함해서 다루는 경우도 있다.
+_	_	%SBJ%와	_	_	_	_	%OBJ%를	_	_	포함	_	_
+false
+
+(베네수엘라령(LCP_COUNTRY), sp_contains, 파라퀴네스(LCG_ISLAND))
+카리브 해에 있는 베네수엘라령 섬으로 토르투길라스 섬과 파라퀴네스 섬을 포함하여 여러 개의 다른 섬들과 군도를 이룬다.
+_	_	%SBJ%	_	_	_	_	%OBJ%	_	_	포함	_	_
+true
+
+(파라퀴네스(LCG_ISLAND), sp_contains, 베네수엘라령(LCP_COUNTRY))
+카리브 해에 있는 베네수엘라령 섬으로 토르투길라스 섬과 파라퀴네스 섬을 포함하여 여러 개의 다른 섬들과 군도를 이룬다.
+_	_	%SBJ%	_	_	_	_	%OBJ%	_	_	포함	_	_
+false
+
+(황등리(LCP_COUNTY), sp_contains, 군산시(LCP_CITY))
+1909년 익산군 황등면 황등리의 요교제를 수원으로 전라북도 군산시를 포함한 주변 지역의 관개를 위해 설립된 수리 조합.
+_	_	%SBJ%의	_	_	_	_	%OBJ%를	_	_	포함	_	_
+false
+
+(이란(LCP_COUNTRY), sp_contains, 중앙아시아(LCG_CONTINENT))
+Persia란 이름의 나라는 오랜 역사 동안 그 국경이 변동했지만, 그 전성기에는 오늘의 이란을 중심으로 Afghanistan, 중앙아시아, Transcaucasus를 포함했다.
+_	_	%SBJ%를	_	_	_	_	%OBJ%,	_	_	포함	_	_
+false
+
+(미국(LCP_COUNTRY), sp_contains, 한국(LCP_COUNTRY))
+명단에는 한국을 포함해 미국과 영국, 프랑스, 독일, 일본과 유럽연합, 아랍 연맹 등이 포함되어 있다.
+_	_	%SBJ%와	_	_	_	_	%OBJ%를	포함	_	포함	_	_
+false
+
+(로키 산맥(LCG_MOUNTAIN), sp_contains, 아이다호 주(LCP_PROVINCE))
+서쪽으로 태평양, 북쪽으로 캐나다, 남쪽으로 캘리포니아,네바다,유타 주, 동쪽으로 로키 산맥과 경계를 이루며 오리건,워싱턴,아이다호 주를 포함한다.
+_	_	%SBJ%와	_	_	_	_	%OBJ%를	_	_	포함	_	_
+false
+
+(일본(LCP_COUNTRY), sp_contains, 한국(LCP_COUNTRY))
+명단에는 한국을 포함해 미국과 영국, 프랑스, 독일, 일본과 유럽연합, 아랍 연맹 등이 포함되어 있다.
+_	_	%SBJ%와	_	_	_	_	%OBJ%를	포함	_	포함	_	_
+false
+
+(아이다호 주(LCP_PROVINCE), sp_contains, 태평양(LCG_OCEAN))
+서쪽으로 태평양, 북쪽으로 캐나다, 남쪽으로 캘리포니아,네바다,유타 주, 동쪽으로 로키 산맥과 경계를 이루며 오리건,워싱턴,아이다호 주를 포함한다.
+_	_	%SBJ%를	_	_	_	_	%OBJ%,	_	_	포함	_	_
+false
+
+(아이다호 주(LCP_PROVINCE), sp_contains, 캐나다(LCP_COUNTRY))
+서쪽으로 태평양, 북쪽으로 캐나다, 남쪽으로 캘리포니아,네바다,유타 주, 동쪽으로 로키 산맥과 경계를 이루며 오리건,워싱턴,아이다호 주를 포함한다.
+_	_	%SBJ%를	_	_	_	_	%OBJ%,	_	_	포함	_	_
+false
+
+(아이다호 주(LCP_PROVINCE), sp_contains, 유타 주(LCP_PROVINCE))
+서쪽으로 태평양, 북쪽으로 캐나다, 남쪽으로 캘리포니아,네바다,유타 주, 동쪽으로 로키 산맥과 경계를 이루며 오리건,워싱턴,아이다호 주를 포함한다.
+_	_	%SBJ%를	_	_	_	_	%OBJ%,	_	_	포함	_	_
+false
+
+(강원(LCP_PROVINCE), sp_contains, 영서(LC_OTHERS))
+1991년 제10호부터는 강원도 영동과 영서 지역을 포괄하는 강원 문화지를 표방하며 학술 활동과 문학 활동을 하고 있다.
+_	_	%SBJ%	_	_	_	_	%OBJ%	_	포괄	_	_	_
+true
+(베오그라드(LCP_CAPITALCITY), sp_contains, 오스트리아(LCP_COUNTRY))
+오스트리아는 베오그라드를 포함하여 세르비아 지방을 얻게 되었고 베네치아는
+_	_	%SBJ%를	_	_	_	_	%OBJ%는	_	_	포함	_	_
+false
+
+(세르비아(LCP_COUNTRY), sp_contains, 베오그라드(LCP_CAPITALCITY))
+오스트리아는 베오그라드를 포함하여 세르비아 지방을 얻게 되었고 베네치아는
+_	_	%SBJ%	_	_	_	_	%OBJ%를	포함	_	_	_	_
+false
+
+(베네치아(LCP_CITY), sp_contains, 베오그라드(LCP_CAPITALCITY))
+오스트리아는 베오그라드를 포함하여 세르비아 지방을 얻게 되었고 베네치아는
+_	_	%SBJ%는	_	_	_	_	%OBJ%를	포함	_	_	_	_
+false
+
+(소그디아나(LCP_CITY), sp_contains, 박트리아(LCP_COUNTRY))
+알렉산더 대왕은 기원전 327년 봄까지 3년간 박트리아, 소그디아나 지방을 포함해 전 이란 땅을 평정했다.
+_	_	%SBJ%	_	_	_	_	%OBJ%,	_	_	포함	_	_
+false
+
+(이란(LCP_COUNTRY), sp_contains, 박트리아(LCP_COUNTRY))
+알렉산더 대왕은 기원전 327년 봄까지 3년간 박트리아, 소그디아나 지방을 포함해 전 이란 땅을 평정했다.
+_	_	%SBJ%	_	_	_	_	%OBJ%,	포함	_	_	_	_
+false
+
+(이란(LCP_COUNTRY), sp_contains, 소그디아나(LCP_CITY))
+알렉산더 대왕은 기원전 327년 봄까지 3년간 박트리아, 소그디아나 지방을 포함해 전 이란 땅을 평정했다.
+_	_	%SBJ%	_	_	_	_	%OBJ%	_	포함	_	_	_
+false
+
+(카린시아(LCP_CITY), sp_contains, 그라츠(LCP_CITY))
+마지막으로 게르만 정착민의 침공을 받았으며, 그로 인해 그라츠는 카린시아의 경계 지역에 포함되었다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%는	_	_	포함	_	_
+true
+
+(중부지역(LC_OTHERS), sp_contains, 증평군(LCP_COUNTY))
+중부지역은 청주시를 중심으로 청원군, 북쪽에 위치한 진천군, 음성군과 동쪽의 괴산군, 증평군을 포함하는 미호천 수계에 해당된다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%를	포함	_	_	_	_
+true
+
+(청주시(LCP_CITY), sp_contains, 청원군(LCP_COUNTY))
+중부지역은 청주시를 중심으로 청원군, 북쪽에 위치한 진천군, 음성군과 동쪽의 괴산군, 증평군을 포함하는 미호천 수계에 해당된다.
+_	_	%SBJ%를	_	_	_	_	%OBJ%,	_	_	포함	_	_
+true
+
+(청주시(LCP_CITY), sp_contains, 진천군(LCP_COUNTY))
+중부지역은 청주시를 중심으로 청원군, 북쪽에 위치한 진천군, 음성군과 동쪽의 괴산군, 증평군을 포함하는 미호천 수계에 해당된다.
+_	_	%SBJ%를	_	_	_	_	%OBJ%,	_	_	포함	_	_
+true
+
+(청주시(LCP_CITY), sp_contains, 괴산군(LCP_COUNTY))
+중부지역은 청주시를 중심으로 청원군, 북쪽에 위치한 진천군, 음성군과 동쪽의 괴산군, 증평군을 포함하는 미호천 수계에 해당된다.
+_	_	%SBJ%를	_	_	_	_	%OBJ%,	_	_	포함	_	_
+true
+
+(모화리(LCP_COUNTY), sp_contains, 농소면(LCP_COUNTY))
+임관군은 현재 경상북도 경주시 외동읍 모화리를 중심으로 울산광역시 울주구 북부 농소면 일대를 포함한 지역에 해당한다.
+_	_	%SBJ%를	_	_	_	_	%OBJ%	_	_	포함	_	_
+false
+
+(농소면(LCP_COUNTY), sp_contains, 모화리(LCP_COUNTY))
+임관군은 현재 경상북도 경주시 외동읍 모화리를 중심으로 울산광역시 울주구 북부 농소면 일대를 포함한 지역에 해당한다.
+_	_	%SBJ%	_	_	_	_	%OBJ%를	_	_	포함	_	_
+false
+
+(음성군(LCP_COUNTY), sp_contains, 청주시(LCP_CITY))
+중부지역은 청주시를 중심으로 청원군, 북쪽에 위치한 진천군, 음성군과 동쪽의 괴산군, 증평군을 포함하는 미호천 수계에 해당된다.
+_	_	%SBJ%와	_	_	_	_	%OBJ%를	_	_	포함	_	_
+false
+
+(음성군(LCP_COUNTY), sp_contains, 증평군(LCP_COUNTY))
+중부지역은 청주시를 중심으로 청원군, 북쪽에 위치한 진천군, 음성군과 동쪽의 괴산군, 증평군을 포함하는 미호천 수계에 해당된다.
+_	_	%SBJ%와	_	_	_	_	%OBJ%를	_	_	포함	_	_
+false
+
+(증평군(LCP_COUNTY), sp_contains, 청원군(LCP_COUNTY))
+중부지역은 청주시를 중심으로 청원군, 북쪽에 위치한 진천군, 음성군과 동쪽의 괴산군, 증평군을 포함하는 미호천 수계에 해당된다.
+_	_	%SBJ%를	_	_	_	_	%OBJ%,	_	_	포함	_	_
+false
+
+(증평군(LCP_COUNTY), sp_contains, 진천군(LCP_COUNTY))
+중부지역은 청주시를 중심으로 청원군, 북쪽에 위치한 진천군, 음성군과 동쪽의 괴산군, 증평군을 포함하는 미호천 수계에 해당된다.
+_	_	%SBJ%를	_	_	_	_	%OBJ%,	_	_	포함	_	_
+false
+
+(증평군(LCP_COUNTY), sp_contains, 괴산군(LCP_COUNTY))
+중부지역은 청주시를 중심으로 청원군, 북쪽에 위치한 진천군, 음성군과 동쪽의 괴산군, 증평군을 포함하는 미호천 수계에 해당된다.
+_	_	%SBJ%를	_	_	_	_	%OBJ%,	_	_	포함	_	_
+false

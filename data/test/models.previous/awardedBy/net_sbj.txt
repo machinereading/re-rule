@@ -1,0 +1,4 @@
+1	CV_PRIZE	1
+-1	PS_NAME	1
+#NET predefined through XB domain and range
+1	CV_PRIZE	0

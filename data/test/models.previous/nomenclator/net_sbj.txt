@@ -1,0 +1,4 @@
+1	LCG_CONTINENT	2
+1	MTC_GAS	4
+1	TMM_DISEASE	2
+#NET predefined through XB domain and range

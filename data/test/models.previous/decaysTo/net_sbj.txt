@@ -1,0 +1,3 @@
+1	MT_METAL	1
+-1	QT_OTHERS	2
+#NET predefined through XB domain and range

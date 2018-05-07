@@ -1,0 +1,2 @@
+1	EV_OTHERS	1
+#NET predefined through XB domain and range

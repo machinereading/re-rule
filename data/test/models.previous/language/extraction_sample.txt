@@ -1,0 +1,55 @@
+(로마제국(LCP_COUNTRY), language, 그리스어(CV_LANGUAGE))
+이를 계기로 4세기 말에는 로마제국의 공식 언어가 그리스어에서 라틴어로 바뀌게 된다.
+_	_	%SBJ%의	언어	_	_	_	%OBJ%에서	어	_	_	_	_
+false
+
+(로마제국(LCP_COUNTRY), language, 라틴어(CV_LANGUAGE))
+이를 계기로 4세기 말에는 로마제국의 공식 언어가 그리스어에서 라틴어로 바뀌게 된다.
+_	_	%SBJ%의	언어	_	_	_	%OBJ%로	_	_	_	_	_
+true
+
+(로마인(CV_TRIBE), language, 라틴어(CV_LANGUAGE))
+갈리아인도 로마인의 언어인 라틴어를 쓰게 되고, 마침내 5세기경 게르만민족이 이
+_	_	%SBJ%의	언어	_	_	언어	%OBJ%를	_	_	_	_	_
+true
+
+(아시아(LCG_CONTINENT), language, 영어(CV_LANGUAGE))
+영어, 독일어, 불어, 한국어, 페르시아어, 몽고어, 이탈리아어, 체코어, 폴란드어 등 26개의 전공과정이 있으며, 개설 학과의 반 이상이 아시아권 언어이다.
+_	_	%SBJ%권	_	_	_	_	%OBJ%,	어	_	언어	_	_
+false
+
+(남한(LCP_COUNTRY), language, 한국어(CV_LANGUAGE))
+한국어는 2012년 현재 남한의 5000만 명과 북한의 2500만 명, 전세계의 동포까지 합해 7800만 명이 사용하는 대단한 언어세력을 가진 말이다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%는	_	_	말	_	_
+true
+
+(북한(LCP_COUNTRY), language, 한국어(CV_LANGUAGE))
+한국어는 2012년 현재 남한의 5000만 명과 북한의 2500만 명, 전세계의 동포까지 합해 7800만 명이 사용하는 대단한 언어세력을 가진 말이다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%는	_	_	말	_	_
+true
+
+(라이티아(LCP_CITY), language, 수칠바어(CV_LANGUAGE))
+가장 중요한 라이티아 방언은 수르실바어와 수칠바어로 이 둘이 모여 로망슈어를 이룬다.
+_	_	%SBJ%	방언	_	_	_	%OBJ%로	_	_	_	_	_
+true
+
+(조선인(CV_TRIBE), language, 일본어(CV_LANGUAGE))
+일본어와 조선어, 내지인과 조선인 등 자신이 속한 곳이 어디인지 민감하게 생각하지만 작품을 쓰는 것으로 도피한다.
+_	_	%SBJ%	_	_	_	_	%OBJ%와	어	_	_	_	_
+false
+
+(유럽(LCG_CONTINENT), language, 산스크리트 어(CV_LANGUAGE))
+산스크리트 어의 조상이 유럽 여러 언어의 조상과 같다는 가설을 18세기 후반에 윌리엄 존스가 세운다.
+_	_	%SBJ%	언어	_	_	_	%OBJ%의	_	_	_	_	_
+true
+
+(브라질(LCP_COUNTRY), language, 포르투갈어(CV_LANGUAGE))
+포르투갈어로 빈민촌이란 뜻으로, 브라질에서 도시 빈민가를 통칭하는 말
+_	_	%SBJ%에서	_	_	_	_	%OBJ%로	_	_	말	_	_
+false
+
+(오스트리아(LCP_COUNTRY), language, 독일어(CV_LANGUAGE))
+중세시대에는 오스트리아의 합스부르크 왕가에 의해 다스려졌고, 독일어가 공식 언어였다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%가	_	_	언어	_	_
+true
+

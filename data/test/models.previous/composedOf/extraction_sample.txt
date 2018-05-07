@@ -1,0 +1,250 @@
+(DNA(MT_CHEMICAL), composedOf, 염기(MT_CHEMICAL))
+DNA를 구성하는 당은 디옥시리보스이고, 염기는 아데닌 A, 구아닌 G, 사이토신 C, 타이민 T의 4가지가 있다.
+_	_	%SBJ%를	구성	_	_	_	%OBJ%는	_	_	_	_	_
+true
+
+(RNA(MT_CHEMICAL), composedOf, 염기(MT_CHEMICAL))
+또한 RNA를 구성하는 당은 리보스이고, 염기는 아데닌 A, 구아닌 G, 사이토신 C, 우라실 U의 4가지가 있다.
+_	_	%SBJ%를	구성	_	_	_	%OBJ%는	_	_	_	_	_
+true
+
+(아미노산(MT_CHEMICAL), composedOf, 트레오닌(MT_CHEMICAL))
+유리 아미노산에는 글루탐산, 아스파르트산, 발린, 세린, 류신, 트레오닌 등이 포함된다.
+_	_	%SBJ%에는	_	_	_	_	%OBJ%	_	_	포함	_	_
+true
+
+(경상분지(LC_OTHERS), composedOf, 신라통(LCP_COUNTRY))
+1929년 다테이와는 경상분지 내의 경상계를 낙동통, 신라통, 불국사통으로 구분하였다.
+_	_	%SBJ%	내	_	_	_	%OBJ%,	_	_	_	_	_
+true
+
+(베네치아(LCP_CITY), composedOf, 포 강(LCG_RIVER))
+포 강과 아드리아 해가 만나는 베네치아는 아주 독특한 지형으로 이루어진 곳입니다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%와	_	_	이루어지	_	_
+true
+
+(바빌로니아(LCP_COUNTRY), composedOf, 아시리아(LCP_COUNTRY))
+아시리아를 포함한 바빌로니아 신화에 관하여 오늘날 알 수 있는 것은 주로 아시리아
+_	_	%SBJ%	_	_	_	_	%OBJ%를	포함	_	_	_	_
+true
+
+(남송(LCP_COUNTRY), composedOf, 금마면(LCP_COUNTY))
+금마면은 사금이 많이 나온다고 하여 붙여진 이름으로 남송을 포함하여 57개의 자연 마을로 구성되었다.
+_	_	%SBJ%를	_	_	_	_	%OBJ%는	_	_	포함	_	_
+false
+
+(임천리(LCP_COUNTY), composedOf, 금마면(LCP_COUNTY))
+1895년에 나주군의 금마면과 원정면 그리고 세화면의 임천리 일부 지역을 영암군에 편입하였다.
+_	_	%SBJ%	일부	_	_	_	%OBJ%와	_	_	_	_	_
+false
+
+(석면(MT_ROCK), composedOf, 함광균렬(LCP_CITY))
+함광균렬 안에서 석면은 맥벽에 수직 혹은 평행으로 놓이며 때로는 맥벽과 사귀기도 한다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%	안	_	_	_	_
+false
+
+(영국(LCP_COUNTRY), composedOf, 방글라데시(LCP_COUNTRY))
+영국 내에 약 50만 명의 방글라데시 출신이 거주하고 있으며, 방글라데시는 영연방국가의 일원으로 영국에 적극 협조하고 있다.
+_	_	%SBJ%	내	_	_	_	%OBJ%	_	_	_	_	_
+true
+
+(영국(LCP_COUNTRY), composedOf, 방글라데시(LCP_COUNTRY))
+영국 내에 약 50만 명의 방글라데시 출신이 거주하고 있으며, 방글라데시는 영연방국가의 일원으로 영국에 적극 협조하고 있다.
+_	_	%SBJ%	내	_	_	_	%OBJ%는	_	_	_	_	_
+true
+
+(영연방국가(LCP_COUNTRY), composedOf, 방글라데시(LCP_COUNTRY))
+영국 내에 약 50만 명의 방글라데시 출신이 거주하고 있으며, 방글라데시는 영연방국가의 일원으로 영국에 적극 협조하고 있다.
+_	_	%SBJ%의	일원	_	_	_	%OBJ%는	_	_	_	_	_
+true
+
+(육군(OGG_MILITARY), composedOf, 육군사관학교(OGG_EDUCATION))
+부친 역시 영국의 육군장교였던 글럽은 영국 육군사관학교에서 수학한 후 영국 육군 내에서 승진을 계속했다.
+_	_	%SBJ%	내	_	_	_	%OBJ%에서	_	_	_	_	_
+true
+
+(오라토리오(FD_ART), composedOf, 페르모(PS_NAME))
+동시에 루벤스는 페르모의 오라토리오 수도회를 위해 '목자들의 경배 Adoration of the Shepherds'라는 제단화도 그렸다.
+_	_	%SBJ%	_	_	_	_	%OBJ%의	_	_	수도	_	_
+true
+
+(태백산(LCG_MOUNTAIN), composedOf, 문수봉(LCG_MOUNTAIN))
+태백산은 천제단이 있는 영봉을 중심으로 북쪽에 장군봉 동쪽에 문수봉, 영봉과 문수봉사이의 부쇠봉로 이루어져 있다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%,	_	_	이루어지	_	_
+true
+
+(태백산(LCG_MOUNTAIN), composedOf, 영봉(LCG_MOUNTAIN))
+태백산은 천제단이 있는 영봉을 중심으로 북쪽에 장군봉 동쪽에 문수봉, 영봉과 문수봉사이의 부쇠봉로 이루어져 있다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%와	_	_	이루어지	_	_
+true
+
+(대한사진예술가협회(OGG_ART), composedOf, 충주(LCP_CITY))
+충청북도 충주시에 있는 대한사진예술가협회 산하 충주 지회.
+_	_	%SBJ%	산하	_	_	_	%OBJ%	_	_	_	_	_
+false
+
+(마그달레나(LCP_CITY), composedOf, 카우카 강(LCG_RIVER))
+주요 지류인 카우카 강을 포함하여 마그달레나 수계 전체가 콜롬비아 영토 안에 있다.
+_	_	%SBJ%	_	_	_	_	%OBJ%를	포함	_	_	_	_
+true
+
+(재오개리(LCP_COUNTY), composedOf, 흑석(MT_ROCK))
+1914년 행정구역 개편에 따라 재오개리는 하재오개, 상재오개, 흑석, 도선골, 동막골의 5개 마을로 구성되었다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%,	_	_	구성	_	_
+true
+
+(국민당(OGG_POLITICS), composedOf, 국민당(OGG_POLITICS))
+이러한 연합은 국민당 내의 자유당세력이 당내의 노동당세력을 제거하는 데 기여했으며, 국민당은 '국민,지방당 연합'으로 명칭이 바뀌었고, 정당의 성향은 더욱 보수적이 되었다.
+_	_	%SBJ%	내	_	_	_	%OBJ%는	_	_	_	_	_
+false
+
+(정부(OGG_POLITICS), composedOf, 연립정부(OGG_POLITICS))
+그후에도 자유당-지방당 연립정부는 노동당이 정권을 장악했던 1972~75년을 제외하고는 계속 정부를 구성하면서 오스트레일리아 정계를 지배했다.
+_	_	%SBJ%를	_	_	_	_	%OBJ%는	_	_	구성	_	_
+true
+
+(정부(OGG_POLITICS), composedOf, 노동당(OGG_POLITICS))
+그후에도 자유당-지방당 연립정부는 노동당이 정권을 장악했던 1972~75년을 제외하고는 계속 정부를 구성하면서 오스트레일리아 정계를 지배했다.
+_	_	%SBJ%를	_	_	_	_	%OBJ%가	_	_	구성	_	_
+false
+
+(정부(OGG_POLITICS), composedOf, 오스트레일리아(LCP_COUNTRY))
+그후에도 자유당-지방당 연립정부는 노동당이 정권을 장악했던 1972~75년을 제외하고는 계속 정부를 구성하면서 오스트레일리아 정계를 지배했다.
+_	_	%SBJ%를	구성	_	_	_	%OBJ%	_	_	_	_	_
+false
+
+(NOC(OGG_SPORTS), composedOf, 올림픽운동(EV_SPORTS))
+NOC는 올림픽운동 안에서 그들의 역할을 강화하고 정보와 경험을 교환하기 위해서 적어도 2년에 1번씩 모인다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%	안	_	_	_	_
+false
+
+(태양(LC_SPACE), composedOf, 지구(LC_SPACE))
+올바른 이론은 아니었지만 16세기 니콜라스 코페르니쿠스가 지구를 포함한 행성들이 태양 주위를 공전하고 있다는 새로운 우주 모델을 제안할 때까지 존속했다.
+_	_	%SBJ%	_	_	_	_	%OBJ%를	포함	_	_	_	_
+false
+
+(미호천(LCG_RIVER), composedOf, 증평군(LCP_COUNTY))
+중부지역은 청주시를 중심으로 청원군, 북쪽에 위치한 진천군, 음성군과 동쪽의 괴산군, 증평군을 포함하는 미호천 수계에 해당된다.
+_	_	%SBJ%	_	_	_	_	%OBJ%를	포함	_	_	_	_
+true
+
+(법무부(OGG_POLITICS), composedOf, 검찰청(OGG_POLITICS))
+법무부 산하에 검사에 관한 사무를 관장하기 위하여 법무부장관 소속으로 검찰청을 둔다.
+_	_	%SBJ%	산하	_	_	_	%OBJ%를	_	_	_	_	_
+true
+
+(독일(LCP_COUNTRY), composedOf, 막스플랑크 협회(OGG_SPORTS))
+막스플랑크 협회는 독일 내 35개 이상의 연구기관을 보조하는데, 그
+_	_	%SBJ%	내	_	_	_	%OBJ%는	_	_	_	_	_
+true
+
+(DNA(MT_CHEMICAL), composedOf, 핵(TM_CELL_TISSUE))
+유전 물질인 DNA는 핵 안에 있다고 했지?
+_	_	%SBJ%는	_	_	_	_	%OBJ%	안	_	_	_	_
+false
+
+(요천마을(LCP_COUNTY), composedOf, 식정동(LCP_COUNTY))
+식정동은 자연 마을인 요천마을을 포함하고 있다.
+_	_	%SBJ%를	_	_	_	_	%OBJ%는	_	_	포함	_	_
+false
+
+(티록신(MT_CHEMICAL), composedOf, 글로불린(MT_CHEMICAL))
+갑상선 글로불린의 페닐 부분에 티로신이 공유결합하는 반응과 요오드화 반응을 거쳐 티록신은 생성된다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%의	부분	_	_	_	_
+false
+
+(마케도니아 왕국(LCP_COUNTRY), composedOf, 필리포스 2세(PS_NAME))
+필리포스 2세와 알렉산드로스의 고향인 마케도니아 왕국은 헬레니즘 3대 강국 중에서 세습적인 군주정의 성립이 가장 늦게 이루어졌다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%와	_	_	이루어지	_	_
+true
+
+(비무장지대(LC_OTHERS), composedOf, 한국(LCP_COUNTRY))
+한국에서 GP는 비무장지대 내에 위치한 소초를 의미한다.
+_	_	%SBJ%	내	_	_	_	%OBJ%에서	_	_	_	_	_
+false
+
+(뎁시펩티드(MT_CHEMICAL), composedOf, 히드록시산(MT_CHEMICAL))
+그러므로 뎁시펩티드는 배열에서 히드록시산 성분을 가진 히드록시아미노산과 heteromeric 펩티드의 homeomeric O-펩티드와 펩티드락톤을 포함한다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%	_	_	포함	_	_
+true
+
+(펩티드락톤(MT_CHEMICAL), composedOf, 뎁시펩티드(MT_CHEMICAL))
+그러므로 뎁시펩티드는 배열에서 히드록시산 성분을 가진 히드록시아미노산과 heteromeric 펩티드의 homeomeric O-펩티드와 펩티드락톤을 포함한다.
+_	_	%SBJ%를	_	_	_	_	%OBJ%는	_	_	포함	_	_
+false
+
+(남아라비아(LCG_CONTINENT), composedOf, 카타반 왕국(LCP_COUNTRY))
+고대 남아라비아의 카타반 왕국의 수도.
+_	_	%SBJ%의	_	_	_	_	%OBJ%의	_	_	수도	_	_
+true
+
+(유럽중앙은행(OGG_ECONOMY), composedOf, 이탈리아(LCP_COUNTRY))
+이탈리아를 포함한 유로 지역의 기준 금리는 1998년부터 현재까지 유럽중앙은행의 통화정책위원회에서 결정되고 있다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%를	포함	_	_	_	_
+false
+
+(통화정책위원회(OGG_POLITICS), composedOf, 이탈리아(LCP_COUNTRY))
+이탈리아를 포함한 유로 지역의 기준 금리는 1998년부터 현재까지 유럽중앙은행의 통화정책위원회에서 결정되고 있다.
+_	_	%SBJ%에서	_	_	_	_	%OBJ%를	포함	_	_	_	_
+false
+
+(낙원군(LCP_COUNTY), composedOf, 용원면(LCP_COUNTY))
+1952년 12월 용원면의 일부를 신포군에, 삼호면을 낙원군에 편입시키고, 홍원읍,경운면,보현면,운학면,용포면과용원면의 일부로 면 행정단위를 폐지하고 이 단위로 분할, 통폐합하여 군 행정구역을 개편하였다.
+_	_	%SBJ%에	_	_	_	_	%OBJ%의	일부	_	_	_	_
+false
+
+(고읍리(LCP_COUNTY), composedOf, 용덕리(LCP_COUNTY))
+1954년 10월 방동리,남산리 일부를 분리하여 홍원읍에, 남산리,호남리의 일부를 분리하여 용운리에, 용덕리의 일부를 고읍리에 각각 편입시켰다.
+_	_	%SBJ%에	_	_	_	_	%OBJ%의	일부	_	_	_	_
+false
+
+(한강(LCG_RIVER), composedOf, 남한강(LCG_RIVER))
+한강은 남한강과 북한강으로 이루어진다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%와	_	_	이루어지	_	_
+true
+
+(한강(LCG_RIVER), composedOf, 북한강(LCG_RIVER))
+한강은 남한강과 북한강으로 이루어진다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%으로	_	_	이루어지	_	_
+true
+
+(호위총국(OGG_MEDIA), composedOf, 평양경비사령부(OGG_MILITARY))
+호위총국은 김일성 사망 후 그 조직과 기능의 일부를 보완,수정한 것으로 알려져 있으며, 그 조직은 크게 호위국, 평양경비사령부, 평양방어사령부로 구성되어 있다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%,	_	_	구성	_	_
+true
+
+(중서성(OGG_POLITICS), composedOf, 몽고(LCP_COUNTRY))
+몽고 중서성에서 제지두 등 일곱 명을 보내 임연을 몽고의 수도로 보내라고 독촉했다.
+_	_	%SBJ%에서	_	_	_	_	%OBJ%의	수도	_	_	_	_
+false
+
+(독일 제국(LCP_COUNTRY), composedOf, 라인 강(LCG_RIVER))
+이 때의 독일 제국은 라인 강 주변 국가들과 그 하구 지역까지 포함하고 있었다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%	_	_	포함	_	_
+true
+
+(모잠비크(LCP_COUNTRY), composedOf, 로디지아(PS_NAME))
+이에 로디지아는 모잠비크 내의 반군기지를 공격하기 위하여 모잠비크 민족저항운동을 조직하였다.
+_	_	%SBJ%	내	_	_	_	%OBJ%는	_	_	_	_	_
+true
+
+(서부지구(LC_OTHERS), composedOf, 선봉군(LCP_COUNTY))
+방산천의 강골바닥높이는 해발높이 280~300m 수준이므로 서부지구는 선봉군 안에서 높은 지역에 속한다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%	안	_	_	_	_
+false
+
+(사회리(LCP_COUNTY), composedOf, 선봉군(LCP_COUNTY))
+지금의 두만강은 선봉군 령역으로 들어오면서 상부고생대의 화강암류로 구성된 사회리의 망덕산과 마주쳐 에돌았다가 부포리의 증산봉 북단부에서 다시 마주쳐 조선동해에로 흘러나간다.
+_	구성	%SBJ%의	_	_	_	_	%OBJ%	_	_	_	_	_
+false
+
+(중국(LCP_COUNTRY), composedOf, 중국(LCP_COUNTRY))
+3) 이후 20세기 초에 중국에서 근대 민족민주 혁명이 진행되고 국제사회의 민족주의 사조가 중국에 들어오면서 '민족'이란 단어가 중국 내에서 널리 사용되었다.
+_	_	%SBJ%	내	_	_	_	%OBJ%에서	_	_	_	_	_
+false
+
+(청룡동(LCP_COUNTY), composedOf, 청룡 마을(LCP_COUNTY))
+용승 마을이 속한 청룡동은 청룡 마을, 용승 마을, 마지 마을 등 3개의 자연 마을로 구성되어 있다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%,	_	_	구성	_	_
+true
+

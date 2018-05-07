@@ -1,0 +1,59 @@
+(벌링턴(LCP_CITY), nearLocation, 런던(LCP_CAPITALCITY))
+캠프벨은 런던 근처의 웬스테드 하우스Wanstead House를 1714년에 설계했으며, 벌링턴은 치즈윅 하우스Chiswick House를 설계하였는데, 팔라디오의 빌라 로톤다Villa Rotonda를 바탕으로 하였다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%	근처	_	_	_	_
+false
+
+(덕천(LCP_COUNTY), nearLocation, 평양(LCP_CAPITALCITY))
+평양 근처 덕천 승리산 동굴 유적의 제4층에서 발견된 중기 구석기시대의 인류화석.
+_	_	%SBJ%	_	_	_	_	%OBJ%	근처	_	_	_	_
+true
+
+(라호르(LCP_CITY), nearLocation, 페샤와르(LCP_CITY))
+찬델라 라자 난다, 즉 간다는 투르크인 이슬람교도들에 대항한 라호르 전투에서 자이팔을 지원했다가 1001년 페샤와르 근처에서 가즈나조의 마흐무드에게 함께 참패당했다.
+_	_	%SBJ%	_	_	_	_	%OBJ%	근처	_	_	_	_
+false
+
+(북부1마을(LC_OTHERS), nearLocation, 서창운동장(AF_BUILDING))
+북부1마을 인근에는 과거 웅상읍사무소인 서창동주민센터와 보건지소, 축산업협동조합, 단위농업협동조합 지소, 서창우체국, 조흥은행, 제일은행, 신한은행, 웅상농협예식장, 서창운동장, 웅상상공인연합회 등이 위치해 있다.
+_	_	%SBJ%	인근	_	_	_	%OBJ%,	_	_	_	_	_
+true
+
+(일본(LCP_COUNTRY), nearLocation, 진남포(LCP_COUNTY))
+이어 일본은 서울,의주간 서로전선을 복선화하고 평안도 진남포 근처 어원동에 지선을 개설했다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%	근처	_	_	_	_
+false
+
+(펀자브(LCP_COUNTY), nearLocation, 델리(LCP_CAPITALCITY))
+이 틈을 타 1750년 무렵부터는 시크교가 펀자브 지역에서 세력을 다시 규합하여 델리 근처까지 위협하면서 완전한 독자 세력을 형성했다.
+_	_	%SBJ%	_	_	_	_	%OBJ%	근처	_	_	_	_
+false
+
+(대전천변(LCP_CITY), nearLocation, 산내면(LCP_COUNTY))
+1935년 대전부 승격에 따라 대전천변 인근은 대전부에 그리고 그 주변은 대덕군 외남면 , 동면 , 산내면에 속하게 된다.
+_	_	%SBJ%	인근	_	_	_	%OBJ%에	_	_	_	_	_
+false
+
+(서울(LCP_CAPITALCITY), nearLocation, 북한산(LCG_MOUNTAIN))
+서울의 경우 북한산과 우면산, 청계산 인근에 이런 수종들이 많이 서식합니다.
+_	_	%SBJ%의	_	_	_	_	%OBJ%와	인근	_	_	_	_
+false
+
+(운찰리 폭포(LC_TOUR), nearLocation, 헤가르네(LC_TOUR))
+운찰리 폭포는 유타라칸나다의 헤가르네 근처의 울창한 밀림에 자리 잡고 있다.
+_	_	%SBJ%는	_	_	_	_	%OBJ%	근처	_	_	_	_
+true
+
+(삼양해수욕장(LC_TOUR), nearLocation, 불탑사 오층석탑(AF_CULTURAL_ASSET))
+삼양 검은모래 축제와 함께 삼양해수욕장 인근에 있는 불탑사 오층석탑과 제주 삼양동 유적을 둘러볼 수도 있다.
+_	_	%SBJ%	인근	_	_	_	%OBJ%와	_	_	_	_	_
+true
+
+(브렌딩(LCP_COUNTY), nearLocation, 글래스고(LCP_CITY))
+런던에 본사를 두고 글래스고 근처에 브렌딩 공장을 가진 퍼스트 블렌딩 사의 제품.
+_	_	%SBJ%	_	_	_	_	%OBJ%	근처	_	_	_	_
+true
+
+(뉴욕주의(LCP_PROVINCE), nearLocation, 로렌스빌(LCP_CITY))
+저수지를 지나, 로렌스빌 근처에서 뉴욕주의 스튜번 카운티를
+_	_	%SBJ%	_	_	_	_	%OBJ%	근처	_	_	_	_
+false

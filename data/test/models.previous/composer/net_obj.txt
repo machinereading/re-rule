@@ -1,0 +1,7 @@
+-1	LCP_CITY	2
+-1	LCP_COUNTRY	2
+1	PS_ACTOR	1
+1	PS_NAME	350
+1	PS_SINGER	5
+-1	QT_ORDER	1
+#NET predefined through XB domain and range

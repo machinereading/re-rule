@@ -1,0 +1,5 @@
+1	OGG_BUSINESS	8
+1	OGG_MEDIA	4
+1	PS_NAME	6
+-1	TR_SOCIAL_SCIENCE	1
+#NET predefined through XB domain and range

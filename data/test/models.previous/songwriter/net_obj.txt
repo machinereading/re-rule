@@ -1,0 +1,3 @@
+1	PS_NAME	57
+1	PS_SINGER	5
+#NET predefined through XB domain and range

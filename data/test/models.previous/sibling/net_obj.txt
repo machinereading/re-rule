@@ -1,0 +1,4 @@
+-1	LCP_CITY	1
+1	PS_MYTH	62
+1	PS_NAME	6
+#NET predefined through XB domain and range

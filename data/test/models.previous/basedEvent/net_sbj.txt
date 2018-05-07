@@ -1,0 +1,4 @@
+1	AFWA_MOVIE	4
+#NET predefined through XB domain and range
+1	AFW_DOCUMENT	0
+1	AFW_MUSIC	0

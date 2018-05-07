@@ -1,0 +1,3 @@
+1	LCP_COUNTRY	2
+#NET predefined through XB domain and range
+-1	TM_DIRECTION	0

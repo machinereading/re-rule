@@ -1,0 +1,4 @@
+1	CV_LAW	1
+-1	CV_POLICY	1
+#NET predefined through XB domain and range
+1	CV_LAW	0

@@ -1,0 +1,2 @@
+1	OGG_ECONOMY	2
+#NET predefined through XB domain and range

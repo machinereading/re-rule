@@ -1,0 +1,15 @@
+(오징어(AM_OTHERS), broader, 어류(AM_TYPE))
+주로 오징어와 어류 및 갑각류를 먹는다.
+_	_	%SBJ%와	_	_	_	_	%OBJ%	_	_	류	_	_
+false
+
+(지렁이(AM_OTHERS), broader, 조개류(AM_TYPE))
+먹이습성: 조개류, 갑각류, 지렁이, 곤충류 등을 먹는다.
+_	_	%SBJ%,	_	_	_	_	%OBJ%,	_	_	류	_	_
+false
+
+(지렁이(AM_OTHERS), broader, 갑각류(AM_TYPE))
+먹이습성: 조개류, 갑각류, 지렁이, 곤충류 등을 먹는다.
+_	_	%SBJ%,	_	_	_	_	%OBJ%,	_	_	류	_	_
+false
+

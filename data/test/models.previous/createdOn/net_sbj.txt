@@ -1,0 +1,7 @@
+1	AF_BUILDING	2
+1	AF_CULTURAL_ASSET	61
+-1	CV_POSITION	11
+-1	FD_ART	12
+-1	FD_SCIENCE	4
+-1	PS_NAME	3
+#NET predefined through XB domain and range

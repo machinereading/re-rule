@@ -1,0 +1,2 @@
+1	AM_MAMMALIA	20
+#NET predefined through XB domain and range

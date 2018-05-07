@@ -1,0 +1,6 @@
+1	MTC_GAS	2
+1	MT_CHEMICAL	1
+1	TMM_DISEASE	2
+-1	TMM_DRUG	2
+#NET predefined through XB domain and range
+1	TMM_DISEASE	0

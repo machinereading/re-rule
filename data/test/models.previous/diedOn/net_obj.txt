@@ -1,0 +1,9 @@
+-1	AFWA_THEATRICALS	1
+1	DT_DURATION	2
+1	DT_DYNASTY	1
+1	DT_YEAR	4
+#NET predefined through XB domain and range
+1	DT_DAY	0
+1	DT_MONTH	0
+1	DT_SEASON	0
+1	DT_YEAR	0

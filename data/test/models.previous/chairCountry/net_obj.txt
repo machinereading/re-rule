@@ -1,0 +1,4 @@
+1	LCP_COUNTRY	234
+-1	LC_SPACE	1
+#NET predefined through XB domain and range
+1	LCP_COUNTRY	0
