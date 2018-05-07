@@ -17,6 +17,7 @@ refer `Main.java`
 
 ### How to run
 `mvn exec:java -Dexec.args="--extract-relations"`
+
 Extracts relations from DOCUMENT to EXTRACTS in the 'FromTheS.conf' file.
 
 ## Licenses
