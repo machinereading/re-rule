@@ -24,6 +24,9 @@ Extracts relations from DOCUMENT to EXTRACTS in the 'FromTheS.conf' file.
 * `CC BY-NC-SA` [Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/2.0/)
 * If you want to commercialize this resource, [please contact to us](http://mrlab.kaist.ac.kr/contact)
 
+## Developer
+Gyuhyeon Choi `wiany11@kaist.ac.kr`
+
 ## Maintainer
 Sangha Nam `nam.sangha@kaist.ac.kr`
 
